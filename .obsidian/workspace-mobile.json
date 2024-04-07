@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Post Gier.md",
+                "file": "Birte.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Post Gier.md",
+            "file": "Birte.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Post Gier.md",
+            "file": "Birte.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,7 +113,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Post Gier.md"
+            "file": "Birte.md"
           }
         }
       }
@@ -132,7 +132,8 @@
   },
   "active": "45b135c4ef432b29",
   "lastOpenFiles": [
-    "Test.md",
-    "Post Gier.md"
+    "Post Gier.md",
+    "Birte.md",
+    "Test.md"
   ]
 }
