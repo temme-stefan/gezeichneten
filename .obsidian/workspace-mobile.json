@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Birte.md",
+                "file": "Essen.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Birte.md",
+            "file": "Essen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Birte.md",
+            "file": "Essen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,7 +113,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Birte.md"
+            "file": "Essen.md"
           }
         }
       }
@@ -132,8 +132,9 @@
   },
   "active": "45b135c4ef432b29",
   "lastOpenFiles": [
-    "Post Gier.md",
     "Birte.md",
+    "Essen.md",
+    "Post Gier.md",
     "Test.md"
   ]
 }
