@@ -11,12 +11,8 @@
             "id": "45b135c4ef432b29",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Essen.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -84,7 +80,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Essen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -101,7 +96,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Essen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,9 +106,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Essen.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -132,8 +124,8 @@
   },
   "active": "45b135c4ef432b29",
   "lastOpenFiles": [
-    "Birte.md",
     "Essen.md",
+    "Birte.md",
     "Post Gier.md",
     "Test.md"
   ]
