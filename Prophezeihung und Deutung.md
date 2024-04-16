@@ -24,21 +24,21 @@
 | Vers                                                                                                                      | Deutung                                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Wenn der Diener jenseits des Todes den Meister außerhalb des Todes ruft.                                                  | [[Geschichte#2. Rahja 22 n.H.]]<br>Hamid ben Seyshaban ruft Borbarad(außerhalb der Zeit= jenseits des Todes, Borbarad der nicht ins Totenreich? gegangen ist) |
-| Wenn die Verderberin der Leiber einen Leib dem Verderber der Welten schafft.                                              |                                                                                                                                                               |
+| Wenn die Verderberin der Leiber einen Leib dem Verderber der Welten schafft.                                              | [[Personen#Padona]] verschafft Borbarad einen Körper mit Hilfe vampiricher Macht                                                                              |
 | Wenn die verlorene Scharen der Gestaltlosen annehmen die Gestalt der Schar der Verlorenen.                                |                                                                                                                                                               |
 | Wenn aus kristallenem Herz der geraubte Schlangenfürst spricht.                                                           |                                                                                                                                                               |
 | Wenn die Bäume auf der See wurzeln, die Festungen über das land wandeln, und die Belagerungstürme über den Himmel ziehen. |                                                                                                                                                               |
 
 ### 4. Spruch: Von den Sieben Gezeichneten 
-| Vers                                                                       | Deutung |
-| -------------------------------------------------------------------------- | ------- |
-| Wenn der allein Ahnende mit dem almadinen Auge angekommen.                 |         |
-| Wenn der Bote des wandelnden Bildes zum Bündnis bittet.                    |         |
-| Wenn das kühne Tier mit dem Krötensinn seinen Kürschmeister gekürt.        |         |
-| Wenn fünf firnglänzende finger den Fluch der Felder gefunden.              |         |
-| Wenn nur mehr die stählerne Stirn den schrecklichen Schatten standhält.    |         |
-| Wenn das geflügelte Geschoss dem Grauen der Götter gilt.                   |         |
-| Wenn aus sieben Schalen Schärfe schäumt, dagegen kein Schrecknis gewachsen ist. |    |
+| Vers                                                                            | Deutung                                                                   |
+| ------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| Wenn der allein Ahnende mit dem almadinen Auge angekommen.                      | [[Geschichte#2. Rahja 22 n.H.]] <br>[[Die Gezeichneten#Andrew der Weiße]] |
+| Wenn der Bote des wandelnden Bildes zum Bündnis bittet.                         | [[Die Gezeichneten#Findurian]]                                            |
+| Wenn das kühne Tier mit dem Krötensinn seinen Kürschmeister gekürt.             | [[Die Gezeichneten#Komischer Druide/Magier]]                              |
+| Wenn fünf firnglänzende finger den Fluch der Felder gefunden.                   |                                                                           |
+| Wenn nur mehr die stählerne Stirn den schrecklichen Schatten standhält.         |                                                                           |
+| Wenn das geflügelte Geschoss dem Grauen der Götter gilt.                        |                                                                           |
+| Wenn aus sieben Schalen Schärfe schäumt, dagegen kein Schrecknis gewachsen ist. |                                                                           |
 
 ### 5. Spruch: Vom Ende des Zeitalters 
 |Vers|Deutung|

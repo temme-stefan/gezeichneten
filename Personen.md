@@ -4,5 +4,7 @@ KGIA Agent
 ## Korobar
 Scharzmagier/ Paktierer, *tot*
 
-## Pardona 
-uralte Elfe, urböse
+## Padona 
+uralte (5000+) Elfe, urböse, auch *Badoc*, *die alles vergiftet*
+
+
