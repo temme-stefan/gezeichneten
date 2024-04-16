@@ -38,8 +38,8 @@
               "type": "markdown",
               "state": {
                 "file": "Prophezeihung und Deutung.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a837a4339a6f01dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Die Gezeichneten.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Borbarad.md",
+                "file": "Prophezeihung und Deutung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Borbarad.md",
+                "file": "Prophezeihung und Deutung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Borbarad.md"
+                "file": "Prophezeihung und Deutung.md"
               }
             }
           }
@@ -184,11 +196,12 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "13a1f0fd4db0d235",
+  "active": "18c78d4d41b66c29",
   "lastOpenFiles": [
+    "Die Gezeichneten.md",
+    "Borbarad.md",
     "Prophezeihung und Deutung.md",
     "Kraftlinien.md",
-    "Borbarad.md",
     "Post Gier.md",
     "Birte.md",
     "Next Bike.md",
