@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "13a1f0fd4db0d235",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Borbarad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18c78d4d41b66c29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prophezeihung und Deutung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "745ebb234f34ee8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kraftlinien.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -86,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Post Gier.md",
+                "file": "Kraftlinien.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Post Gier.md",
+                "file": "Kraftlinien.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Post Gier.md"
+                "file": "Kraftlinien.md"
               }
             }
           }
@@ -146,10 +183,13 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "abf2f763098234fc",
+  "active": "745ebb234f34ee8e",
   "lastOpenFiles": [
-    "Birte.md",
+    "Kraftlinien.md",
+    "Prophezeihung und Deutung.md",
+    "Borbarad.md",
     "Post Gier.md",
+    "Birte.md",
     "Next Bike.md",
     "Unbenannt.canvas",
     "2024-04-02.md"
