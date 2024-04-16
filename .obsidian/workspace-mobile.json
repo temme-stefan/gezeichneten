@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Post Gier.md",
+                "file": "Next Bike.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Post Gier.md",
+            "file": "Next Bike.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Post Gier.md",
+            "file": "Next Bike.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,7 +113,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Post Gier.md"
+            "file": "Next Bike.md"
           }
         }
       }
@@ -132,9 +132,10 @@
   },
   "active": "45b135c4ef432b29",
   "lastOpenFiles": [
+    "Post Gier.md",
+    "Next Bike.md",
     "Essen.md",
     "Birte.md",
-    "Post Gier.md",
     "Test.md"
   ]
 }
