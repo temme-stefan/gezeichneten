@@ -1,4 +1,4 @@
-## Alanfanische Prophezeihungen
+## Die Alanfanischen Prophezeiungen des Thamos Nostriacus
 
 | Vers | Deutung |
 -------
