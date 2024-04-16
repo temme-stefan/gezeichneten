@@ -13,46 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Borbarad.md",
+                "file": "Prophezeihung und Deutung.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "18c78d4d41b66c29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geschichte.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8db4cc060c18e9f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geschichte.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "720bb64647ed437c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Prophezeihung und Deutung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Prophezeihung und Deutung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Prophezeihung und Deutung.md"
+              }
             }
           }
         ],
@@ -175,16 +146,16 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "720bb64647ed437c",
+  "active": "13a1f0fd4db0d235",
   "lastOpenFiles": [
     "Geschichte.md",
     "Prophezeihung und Deutung.md",
-    "Personen.md",
     "Borbarad.md",
+    "Notizen/Post Gier.md",
+    "Personen.md",
     "Externes",
     "Kraftlinien.md",
     "Notizen/Kraftlinien.md",
-    "Notizen/Post Gier.md",
     "Notizen",
     "Die Gezeichneten.md",
     "Post Gier.md",
