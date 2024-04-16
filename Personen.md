@@ -1,10 +1,24 @@
-## Delian von Wiedbrück
+## Weltlich
+
+### Delian von Wiedbrück
 KGIA Agent
 
-## Korobar
+## Klerus
+
+## Magier
+
+
+
+## Antagonisten
+
+### Borbarad 
+[[Borbarad]]
+### Korobar
 Scharzmagier/ Paktierer, *tot*
 
-## Padona 
+### Padona 
 uralte (5000+) Elfe, urböse, auch *Badoc*, *die alles vergiftet*
+
+
 
 
