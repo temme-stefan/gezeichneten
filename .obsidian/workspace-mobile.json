@@ -11,8 +11,12 @@
             "id": "45b135c4ef432b29",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Post Gier.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -80,6 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Post Gier.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -96,6 +101,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Post Gier.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -106,7 +112,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Post Gier.md"
+          }
         }
       }
     ],
