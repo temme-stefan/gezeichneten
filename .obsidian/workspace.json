@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "abf2f763098234fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Post Gier.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "13a1f0fd4db0d235",
             "type": "leaf",
             "state": {
@@ -37,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prophezeihung und Deutung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "745ebb234f34ee8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kraftlinien.md",
+                "file": "Geschichte.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,16 +47,12 @@
             "id": "720bb64647ed437c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personen.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -130,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "178affb6969187dd",
@@ -147,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prophezeihung und Deutung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prophezeihung und Deutung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Prophezeihung und Deutung.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -208,17 +175,21 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "18c78d4d41b66c29",
+  "active": "720bb64647ed437c",
   "lastOpenFiles": [
-    "Kraftlinien.md",
     "Geschichte.md",
-    "Die Gezeichneten.md",
-    "Personen.md",
     "Prophezeihung und Deutung.md",
+    "Personen.md",
     "Borbarad.md",
+    "Externes",
+    "Kraftlinien.md",
+    "Notizen/Kraftlinien.md",
+    "Notizen/Post Gier.md",
+    "Notizen",
+    "Die Gezeichneten.md",
     "Post Gier.md",
     "Birte.md",
-    "Next Bike.md",
+    "Externes/Next Bike.md",
     "Unbenannt.canvas",
     "2024-04-02.md"
   ]

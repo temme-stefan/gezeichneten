@@ -21,13 +21,13 @@
 | Wenn in der Neunflüssigen ein Alter Drach bar eines Karfunkels und ein Alter Karfunkel bar eines Drachen weilen.                    | Neunflüssig = Gareth<br>Verweiß auf eine Wanderung des almadinen Auges? |
 
 ### 3. Spruch: Von den Handlangern des Unterganges 
-| Vers                                                                                                                      | Deutung                  |
-| ------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| Wenn der Diener jenseits des Todes den Meister außerhalb des Todes ruft.                                                  | Hamid ben Seyshaban ruft |
-| Wenn die Verderberin der Leiber einen Leib dem Verderber der Welten schafft.                                              |                          |
-| Wenn die verlorene Scharen der Gestaltlosen annehmen die Gestalt der Schar der Verlorenen.                                |                          |
-| Wenn aus kristallenem Herz der geraubte Schlangenfürst spricht.                                                           |                          |
-| Wenn die Bäume auf der See wurzeln, die Festungen über das land wandeln, und die Belagerungstürme über den Himmel ziehen. |                          |
+| Vers                                                                                                                      | Deutung                                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Wenn der Diener jenseits des Todes den Meister außerhalb des Todes ruft.                                                  | [Hamid ben Seyshaban ruft Borbarad ](./Geschichte#2. Rahja 22 n.H. )(außerhalb der Zeit= jenseits des Todes, Borbarad der nicht ins Totenreich? gegangen ist) |
+| Wenn die Verderberin der Leiber einen Leib dem Verderber der Welten schafft.                                              |                                                                                                                                                               |
+| Wenn die verlorene Scharen der Gestaltlosen annehmen die Gestalt der Schar der Verlorenen.                                |                                                                                                                                                               |
+| Wenn aus kristallenem Herz der geraubte Schlangenfürst spricht.                                                           |                                                                                                                                                               |
+| Wenn die Bäume auf der See wurzeln, die Festungen über das land wandeln, und die Belagerungstürme über den Himmel ziehen. |                                                                                                                                                               |
 
 ### 4. Spruch: Von den Sieben Gezeichneten 
 | Vers                                                                       | Deutung |
