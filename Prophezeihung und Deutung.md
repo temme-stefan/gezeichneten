@@ -8,7 +8,7 @@
 | Zweimal, nicht einmal wird der Zwist der Zwillingsbrüder offenbar, und der Geber der Gestalt unterliegt, damit der Nehmer der Welt unterliegen muss. | 1. Rohal und Borbarad?<br>2.                                                     |
 | Zweimal, nicht einmal werden die tumben Söhne Ogerons dem Kreuz des Nordens folgen.                                                                  |                                                                                  |
 | Zweimal, nicht einmal werden die Botschafter von Ordnung und Einheit zweiteilen Ordnung und Einheit.                                                 | 2. aktuelles Schisma der Praioskirche                                            |
-| Zweimal, nicht einmal werden die Legionen des Roten Mondes vor das Haus der Gelben Sonne treten.                                                     | 2. Orkenstrum auf Gareth                                                         |
+| Zweimal, nicht einmal werden die Legionen des Roten Mondes vor das Haus der Gelben Sonne treten.                                                     | 2. [[Geschichte#18 n.H.\|Orkenstrum auf Gareth]]                                 |
 | Zweimal, nicht einmal wird der Rabe nach dem Thron des Herren über Zwölf greifen.                                                                    | Rabe = Borbarad?<br>2. Jetzt will Borbarad Praios stürzen? ambitioniert der Kerl |
 
 ### 2. Spruch: Von Drachen und Kaisern 
