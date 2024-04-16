@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Prophezeihung und Deutung.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prophezeihung und Deutung.md",
+                "file": "Borbarad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prophezeihung und Deutung.md",
+                "file": "Borbarad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,11 +163,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prophezeihung und Deutung.md"
+                "file": "Borbarad.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -183,10 +184,10 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "18c78d4d41b66c29",
+  "active": "13a1f0fd4db0d235",
   "lastOpenFiles": [
-    "Kraftlinien.md",
     "Prophezeihung und Deutung.md",
+    "Kraftlinien.md",
     "Borbarad.md",
     "Post Gier.md",
     "Birte.md",

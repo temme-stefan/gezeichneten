@@ -30,15 +30,15 @@
 |Wenn die Bäume auf der See wurzeln, die Festungen über das land wandeln, und die Belagerungstürme über den Himmel ziehen.||
 
 ### 4. Spruch: Von den Sieben Gezeichneten 
-|Vers|Deutung|
-|---|---|
-|Wenn der allein Ahnende mit dem almadinen Auge angekommen. ||
-|Wenn der Bote des wandelnden Bildes zum Bündnis bittet. ||
-|Wenn das kühne Tier mit dem Krötensinn seinen Kürschmeister gekürt. ||
-|Wenn fünf firnglänzende finger den Fluch der Felder gefunden. ||
-|Wenn nur mehr die stählerne Stirn den schrecklichen Schatten standhält. ||
-|Wenn das geflügelte Geschoss dem Grauen der Götter gilt. ||
-|Wenn aus sieben Schalen Schärfe schäumt, dagegen kein Schrecknis gewachsen ||ist.
+| Vers                                                                       | Deutung |
+| -------------------------------------------------------------------------- | ------- |
+| Wenn der allein Ahnende mit dem almadinen Auge angekommen.                 |         |
+| Wenn der Bote des wandelnden Bildes zum Bündnis bittet.                    |         |
+| Wenn das kühne Tier mit dem Krötensinn seinen Kürschmeister gekürt.        |         |
+| Wenn fünf firnglänzende finger den Fluch der Felder gefunden.              |         |
+| Wenn nur mehr die stählerne Stirn den schrecklichen Schatten standhält.    |         |
+| Wenn das geflügelte Geschoss dem Grauen der Götter gilt.                   |         |
+| Wenn aus sieben Schalen Schärfe schäumt, dagegen kein Schrecknis gewachsen ist. |    |
 
 ### 5. Spruch: Vom Ende des Zeitalters 
 |Vers|Deutung|
@@ -53,16 +53,16 @@
 
 ## Orakelsprüche von Fasar
 ### 1. Spruch
-|Vers|Deutung|
-|---|---|
-|Dies ist die Kunde von den Zeiten, wenn sich das Angesicht der Welt wandeln wird...  ||
-|Wenn die Echse seinen Kristall verliert, wird sich die Kunde verbreiten von SEINER künftigen Kraft, und SEIN Freund stirbt und findet keine Ruhe...||
-|Wenn der Sohn der schwarzen Vogels von der Tochter der Schlange vernichtet wird, erhebt sich wieder ein strahlendes Tuch, und der Inhaber des Tuches wird sein der dritte des Namens...||
-|Wenn der Kalif aus Borons Schoß ins Goldene Land gejagt wird werden die Heerscharen des Blutgottes ins Herz des goldenen Vogels stoßen, und der Sohn des Fuchses wird den Namen seines Onkels und seiner Tante tragen||
-|Wenn der Tod im Toten beschworen wird, werden sich auftun die Sphären und es wird sein Klagen und Jammern unter den Zaubernden und Nichtzauberern und den strahlenden Stahlenden...||
-|Dann wird kommen der Erste der sieben Boten und seine Nachricht wird sein der almadine Stein und das Wissen SEINES Namens...||
+| Vers                                                                                                                                                                                                                 | V2(schlecht)                                                                                                                                                                                              | Deutung |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| Dies ist die Kunde von den Zeiten, wenn sich das Angesicht der Welt wandeln wird...                                                                                                                                  | Hier wird geredet von der Zufkunft, in der der Erdboden sich oeffnen wird und alles Gleiche verschlingen wird.                                                                                            |         |
+| Wenn die Echse seinen Kristall verliert, wird sich die Kunde verbreiten von SEINER künftigen Kraft, und SEIN Freund stirbt und findet keine Ruhe...                                                                  | Wenn der Stein der Echse zerspringt wird vergessen SEIN Diener SEINE Macht und der Tod kommt über Dere.                                                                                                   |         |
+| Wenn der Sohn der schwarzen Vogels von der Tochter der Schlange vernichtet wird, erhebt sich wieder ein strahlendes Tuch, und der Inhaber des Tuches wird sein der dritte des Namens...                              | Wenn Rabe und Schlange sich vereinigen und deren Tochtersohn sein wird das leuchtende Zelt und die Stange diese Zeltes sich erheben wird und das zum dritten mal mit neuem Namen.                         |         |
+| Wenn der Kalif aus Borons Schoß ins Goldene Land gejagt wird werden die Heescharen des Blutgottes ins Herz des goldenen Vogels stoßen, und der Sohn des Fuchses wird den Namen seines Onkels und seiner Tante tragen | Wenn der Greif verspeist Blutegel in Legionen, so stuerzt der kaiser durch den dunkelen Schlund ins Goldene Land und des Fuchswelpen Pelz wird tragen den Namen seiner Jaeger.                            |         |
+| Wenn der Tod im Toten beschworen wird, werden sich auftun die Sphären und es wird sein Klagen und Jammern unter den Zaubernden und Nichtzauberern und den strahlenden Stahlenden...                                  | Wenn Boron alle Toten ruft, wird der Limbus bersten und Heulen und Zähneknirschen der Daemonen wird den Zauberern und Gegenzauberern und allen die das heilige Licht geschaut haben, das Fürchten lernen. |         |
+| Dann wird kommen der Erste der sieben Boten und seine Nachricht wird sein der almadine Stein und das Wissen SEINES Namens...                                                                                         | Dann wird sterben der Erste der Sieben Gezeichneten und mit ihm der Rubin und das Wissen um SEINEN Namen.                                                                                                 |         |
 
 ### 2. Spruch
 |Vers|Deutung|
 |---|---|
-|Wenn der blinde Verblendete die *verblendete Blinde||
+|Wenn der blinde Verblendete die **verblendete** Blinde trifft, wird ihr||
