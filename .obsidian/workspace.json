@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kraftlinien.md",
+                "file": "Prophezeihung und Deutung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kraftlinien.md",
+                "file": "Prophezeihung und Deutung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kraftlinien.md"
+                "file": "Prophezeihung und Deutung.md"
               }
             }
           }
@@ -183,7 +183,7 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "745ebb234f34ee8e",
+  "active": "18c78d4d41b66c29",
   "lastOpenFiles": [
     "Kraftlinien.md",
     "Prophezeihung und Deutung.md",
