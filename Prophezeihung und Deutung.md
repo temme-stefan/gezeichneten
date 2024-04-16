@@ -52,4 +52,17 @@
 |Dann wird der Rausch der Ewigkeit über die Schöpfung wehen.||
 
 ## Orakelsprüche von Fasar
+### 1. Spruch
+|Vers|Deutung|
+|---|---|
+|Dies ist die Kunde von den Zeiten, wenn sich das Angesicht der Welt wandeln wird...  ||
+|Wenn die Echse seinen Kristall verliert, wird sich die Kunde verbreiten von SEINER künftigen Kraft, und SEIN Freund stirbt und findet keine Ruhe...||
+|Wenn der Sohn der schwarzen Vogels von der Tochter der Schlange vernichtet wird, erhebt sich wieder ein strahlendes Tuch, und der Inhaber des Tuches wird sein der dritte des Namens...||
+|Wenn der Kalif aus Borons Schoß ins Goldene Land gejagt wird werden die Heerscharen des Blutgottes ins Herz des goldenen Vogels stoßen, und der Sohn des Fuchses wird den Namen seines Onkels und seiner Tante tragen||
+|Wenn der Tod im Toten beschworen wird, werden sich auftun die Sphären und es wird sein Klagen und Jammern unter den Zaubernden und Nichtzauberern und den strahlenden Stahlenden...||
+|Dann wird kommen der Erste der sieben Boten und seine Nachricht wird sein der almadine Stein und das Wissen SEINES Namens...||
 
+### 2. Spruch
+|Vers|Deutung|
+|---|---|
+|Wenn der blinde Verblendete die *verblendete Blinde||
