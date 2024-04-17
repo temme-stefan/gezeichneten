@@ -1,7 +1,7 @@
 ## Weltlich
 
 ### Delian von Wiedbrück
-KGIA Agent
+KGIA Agent, wir haben einmal gerettet
 
 ## Klerus
 
@@ -37,7 +37,7 @@ Anführer eines Bannstrahler Regiments, fanatisch
 ### Borbarad 
 [[Borbarad]]
 ### Korobar
-Scharzmagier/ Paktierer, *tot*
+Scharzmagier/ Paktierer, zaubert trotz Bannstaub*tot*
 
 ### Padona 
 uralte (5000+) Elfe, urböse, auch *Badoc*, *die alles vergiftet*
