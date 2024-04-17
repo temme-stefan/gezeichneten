@@ -8,8 +8,26 @@ KGIA Agent
 ### Mutter Linai
 *Travia*
 Baliho, ehem. Greifenfurth
+### Brunbauken
+*Praios*
+Baliho, Hochgeweihter
 
+### Amano Laconda da Vanya
+*Praios*
+Inquisitor, Auftraggeber unsterbliche Gier
+
+### Ucurian Jago
+*Praios*
+Anführer eines Bannstrahler Regiments, fanatisch
+
+### Ayla von Schattengrund
+*Rondra*
 ## Magier
+### Selara Moriani 
+*Schule der Autreibung zu Perricum*
+
+### Thiran von Uckelsbrück
+*Akademie der Magischen Rüstung zu Gareth*
 
 
 

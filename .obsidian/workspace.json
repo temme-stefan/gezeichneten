@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prophezeihung und Deutung.md",
+                "file": "Personen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prophezeihung und Deutung.md",
+                "file": "Personen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prophezeihung und Deutung.md",
+                "file": "Personen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prophezeihung und Deutung.md"
+                "file": "Personen.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "13a1f0fd4db0d235",
   "lastOpenFiles": [
+    "Prophezeihung und Deutung.md",
     "Die Gezeichneten.md",
     "Borbarad.md",
     "Personen.md",
-    "Prophezeihung und Deutung.md",
     "Geschichte.md",
     "Externes/Geburtstagsgeschenk.md",
     "Notizen/Post Gier.md",
