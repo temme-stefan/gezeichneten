@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personen.md",
+                "file": "Geschichte.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personen.md",
+                "file": "Geschichte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personen.md",
+                "file": "Geschichte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personen.md"
+                "file": "Geschichte.md"
               }
             }
           }
@@ -148,11 +148,11 @@
   },
   "active": "13a1f0fd4db0d235",
   "lastOpenFiles": [
-    "Prophezeihung und Deutung.md",
-    "Die Gezeichneten.md",
-    "Borbarad.md",
     "Personen.md",
     "Geschichte.md",
+    "Prophezeihung und Deutung.md",
+    "Borbarad.md",
+    "Die Gezeichneten.md",
     "Externes/Geburtstagsgeschenk.md",
     "Notizen/Post Gier.md",
     "Externes",

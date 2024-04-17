@@ -1,7 +1,20 @@
 ## Weltlich
 
 ### Delian von Wiedbrück
-KGIA Agent, wir haben einmal gerettet
+KGIA Agent, wir haben einmal gerettet, er uns auch einmal
+
+### Herzog Waldemar von Weiden
+*der Bär* , rondragläubig, abergläubig, Oberster der Bährenritter, Auftraggeber unsterbliche Gier
+### Herzogin Joleena von Aralzim
+Freu des [[#Herzog Waldemar von Weiden]]
+### Walpurga von Weiden
+Tochter des [[#Herzog Waldemar von Weiden]]
+
+### Dietrad von Ehrenstein
+Ehemann von [[#Walpurga von Weiden]]
+
+### Brin von Gareth
+Graf von Balio, Sohn Kaiser Hals, [[Geschichte#21 n.H. | Reichsverweser]]
 
 ## Klerus
 
@@ -14,7 +27,7 @@ Baliho, Hochgeweihter
 
 ### Amano Laconda da Vanya
 *Praios*
-Inquisitor, Auftraggeber unsterbliche Gier
+Inquisitor, hatte Einblick in Andrews Seele, Auftraggeber 
 
 ### Ucurian Jago
 *Praios*
