@@ -37,7 +37,9 @@ Anführer eines Bannstrahler Regiments, fanatisch
 ### Borbarad 
 [[Borbarad]]
 ### Korobar
-Scharzmagier/ Paktierer, zaubert trotz Bannstaub*tot*
+Scharzmagier/ Paktierer, zaubert trotz Bannstaub *tot*
+### Hamid ben Seyshaban
+Schwarzmagier, [[Geschichte#2. Rahja 22 n.H. |belebt Borbarad wieder]], *tot*
 
 ### Padona 
 uralte (5000+) Elfe, urböse, auch *Badoc*, *die alles vergiftet*
