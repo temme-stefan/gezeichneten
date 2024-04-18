@@ -37,7 +37,7 @@ Anführer eines Bannstrahler Regiments, fanatisch
 *Rondra*
 ## Magier
 ### Selara Moriani 
-*Schule der Autreibung zu Perricum*
+*Schule der Austreibung zu Perricum*
 
 ### Thiran von Uckelsbrück
 *Akademie der Magischen Rüstung zu Gareth*
