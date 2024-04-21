@@ -11,8 +11,12 @@
             "id": "45b135c4ef432b29",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mandelentzündung.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Mandelentzündung.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Mandelentzündung.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Mandelentzündung.md"
+          }
         }
       }
     ],
@@ -125,6 +133,7 @@
   },
   "active": "45b135c4ef432b29",
   "lastOpenFiles": [
+    "Mandelentzündung.md",
     "/Personen.md",
     "Untitled.md",
     "Prophezeihung und Deutung.md",
