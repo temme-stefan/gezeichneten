@@ -49,6 +49,9 @@ Teil der Inquisitionsdelegation ([[Geschichte#Alptraum ohne Ende |Alptraum ohne 
 *Akademie der Magischen Rüstung zu Gareth*
 Teil der Inquisitionsdelegation ([[Geschichte#Alptraum ohne Ende |Alptraum ohne Ende]])
 ### Dschelef Ibn Jassfar
+*Akademie von Pentagramma, Hexagramma und Heptagramma zur Meisterung jenseitiger Entitäten zu Rashdul*
+ehemals Leiter der Akademie, jetzt seine Tochter. Forscht zu [[Prophezeihung und Deutung]]  und [[Kraftlinien]], inspiriert durch Erz-Erzelementar
+Begleitet uns ein Stück und unterstützt im Endkampf von [[Geschichte#Unsterbliche Gier|Unsterbliche Gier]]
 
 
 ## Antagonisten
