@@ -11,8 +11,12 @@
             "id": "45b135c4ef432b29",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notizen/Borbaradianer.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Notizen/Borbaradianer.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Notizen/Borbaradianer.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Notizen/Borbaradianer.md"
+          }
         }
       }
     ],
@@ -125,8 +133,13 @@
   },
   "active": "45b135c4ef432b29",
   "lastOpenFiles": [
-    "Mandelentzündung.md",
+    "Notizen/Borbaradianer.md",
     "/Personen.md",
+    "/Notizen/Borbaradianer.md",
+    "/Geschichte.md",
+    "Externes/Mandelentzündung.md",
+    "/Externes/Mandelentzündung.md",
+    "Mandelentzündung.md",
     "Untitled.md",
     "Prophezeihung und Deutung.md",
     "Personen.md",
@@ -140,7 +153,6 @@
     "/Prophezeihung und Deutung.md",
     "/Notizen/Post Gier.md",
     "/Notizen/Kraftlinien.md",
-    "/Geschichte.md",
     "Externes/Next Bike.md",
     "/Externes/Geburtstagsgeschenk.md",
     "/Die Gezeichneten.md",
@@ -150,9 +162,6 @@
     "Externes",
     "/Notizen",
     "/Externes",
-    "Post Gier.md",
-    "Essen.md",
-    "Birte.md",
-    "Test.md"
+    "Post Gier.md"
   ]
 }
