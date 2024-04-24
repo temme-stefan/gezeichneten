@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prophezeihung und Deutung.md",
+                "file": "Die Gezeichneten.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prophezeihung und Deutung.md",
+                "file": "Die Gezeichneten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prophezeihung und Deutung.md",
+                "file": "Die Gezeichneten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,11 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prophezeihung und Deutung.md"
+                "file": "Die Gezeichneten.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -160,8 +161,8 @@
   },
   "active": "0b4b491cec970d09",
   "lastOpenFiles": [
-    "Personen.md",
     "Prophezeihung und Deutung.md",
+    "Personen.md",
     "Notizen/Kraftlinien.md",
     "Geschichte.md",
     "Notizen/Borbaradianer.md",
