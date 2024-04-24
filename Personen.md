@@ -38,25 +38,30 @@ Anführer eines Bannstrahler Regiments, fanatisch
 ## Magier
 ### Selara Moriani 
 *Schule der Austreibung zu Perricum*
-
+untersucht Tsas Frevel 
 ### Thiran von Uckelsbrück
 *Akademie der Magischen Rüstung zu Gareth*
-
-
-
 
 ## Antagonisten
 
 ### Borbarad 
 [[Borbarad]]
+
+### Padona 
+uralte (5000+) Elfe, urböse, auch *Badoc*, *die alles vergiftet*
+
+## Leichen pflastern ihren Weg
+
 ### Korobar
 Scharzmagier/ Paktierer, zaubert trotz Bannstaub *tot*
 ### Hamid ben Seyshaban
 Schwarzmagier, [[Geschichte#2. Rahja 22 n.H. |belebt Borbarad wieder]], *tot*
 
-### Padona 
-uralte (5000+) Elfe, urböse, auch *Badoc*, *die alles vergiftet*
+### Jandrim, Sohn des Andrasch
+Zwergischer Baumeister, tötet Nicolas de Mot und ersetzt ihn mit Dämon, baut Astralenergie-Sammel-Kuppel und startet Ritual die Energie an Borbarad zu geben, zauberte im Kettenhemd,*tot*
 
+### Kuwim, Sohn des Ambrosch
+Gefährte Jandrims, zauberte im Kettenhemd, *tot*
 
 
 
