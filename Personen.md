@@ -27,15 +27,19 @@ Baliho, Hochgeweihter
 
 ### Amano Laconda da Vanya
 *Praios*
-Inquisitor, hatte Einblick in Andrews Seele, Auftraggeber 
+Inquisitor, 
+Teil der Inquisitionsdelegation ([[Geschichte#Alptraum ohne Ende |Alptraum ohne Ende]])
+hatte Einblick in Andrews Seele
+Auftraggeber 
 
 ### Ucurian Jago
 *Praios*
 Anführer eines Bannstrahler Regiments, fanatisch
+Teil der Inquisitionsdelegation ([[Geschichte#Alptraum ohne Ende |Alptraum ohne Ende]])
 
 ### Ayla von Schattengrund
 *Rondra*
-
+kurzes Treffen, wir "retten" sie aus einem Alptraum  ([[Geschichte#Alptraum ohne Ende |Alptraum ohne Ende]])
 ## Magier
 ### Selara Moriani 
 *Schule der Austreibung zu Perricum*
