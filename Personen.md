@@ -58,7 +58,6 @@ Begleitet uns ein Stück und unterstützt im Endkampf von [[Geschichte#Unsterbli
 
 ### Borbarad 
 [[Borbarad]]
-
 ### Padona 
 uralte (5000+) Elfe, urböse, auch *Badoc*, *die alles vergiftet*
 
