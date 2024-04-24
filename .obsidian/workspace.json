@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geschichte.md",
+                "file": "Personen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschichte.md",
+                "file": "Personen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geschichte.md",
+                "file": "Personen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geschichte.md"
+                "file": "Personen.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "13a1f0fd4db0d235",
   "lastOpenFiles": [
-    "Personen.md",
     "Geschichte.md",
+    "Personen.md",
     "Notizen/Borbaradianer.md",
     "Notizen/Kraftlinien.md",
     "Externes/Mandelentzündung.md",

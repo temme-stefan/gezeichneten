@@ -35,15 +35,15 @@ Anführer eines Bannstrahler Regiments, fanatisch
 
 ### Ayla von Schattengrund
 *Rondra*
+
 ## Magier
 ### Selara Moriani 
 *Schule der Austreibung zu Perricum*
-23\. Ingerim 22 n.H. Treffen in Anderath (Alptraum ohne Ende)
-
+Teil der Inquisitionsdelegation ([[Geschichte#Alptraum ohne Ende |Alptraum ohne Ende]])
 
 ### Thiran von Uckelsbrück
 *Akademie der Magischen Rüstung zu Gareth*
-23\. Ingerim 22 n.H. Treffen in Anderath (Alptraum ohne Ende)
+Teil der Inquisitionsdelegation ([[Geschichte#Alptraum ohne Ende |Alptraum ohne Ende]])
 ## Antagonisten
 
 ### Borbarad 
