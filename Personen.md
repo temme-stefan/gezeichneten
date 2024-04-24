@@ -38,10 +38,12 @@ Anführer eines Bannstrahler Regiments, fanatisch
 ## Magier
 ### Selara Moriani 
 *Schule der Austreibung zu Perricum*
-untersucht Tsas Frevel 
+23\. Ingerim 22 n.H. Treffen in Anderath (Alptraum ohne Ende)
+
+
 ### Thiran von Uckelsbrück
 *Akademie der Magischen Rüstung zu Gareth*
-
+23\. Ingerim 22 n.H. Treffen in Anderath (Alptraum ohne Ende)
 ## Antagonisten
 
 ### Borbarad 
