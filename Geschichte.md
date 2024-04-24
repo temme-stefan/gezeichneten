@@ -24,6 +24,6 @@ Hamid ben Seyshaban beschwört den Geist Borbarads.
 Wir entkräften gegenüber der Inquisition die Vorwürfe gegen den Tsa-Tempel. [[Personen#Amano Laconda da Vanya|Da Vanja]] erklärt Andrews Seele für rein.
 
 ## Unsterbliche Gier
-[[Personen#Herzog Waldemar von Weiden|Herzog Waldemar von Weiden]] bittet, dass wir uns um verschwundene/getötete Leute kümmern sollen. 
+[[Personen#Herzog Waldemar von Weiden|Herzog Waldemar von Weiden]] bittet, dass wir uns um verschwundene/getötete Leute kümmern sollen. Vampirismus oder Werwölfe? Der Aberglaube hier hilft nicht. Erste Spur: Mordserie in Baliho verläuft im Sande. 
 ### 20.Travia 23 n.H
 Wir erreichen Trallop.
