@@ -48,6 +48,9 @@ Teil der Inquisitionsdelegation ([[Geschichte#Alptraum ohne Ende |Alptraum ohne 
 ### Thiran von Uckelsbrück
 *Akademie der Magischen Rüstung zu Gareth*
 Teil der Inquisitionsdelegation ([[Geschichte#Alptraum ohne Ende |Alptraum ohne Ende]])
+### Dschelef Ibn Jassfar
+
+
 ## Antagonisten
 
 ### Borbarad 
