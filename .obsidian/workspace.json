@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "51112cdc94625dee",
+        "id": "b061fcc7d258fa04",
         "type": "tabs",
         "children": [
           {
-            "id": "13a1f0fd4db0d235",
+            "id": "e7a43264aea0a58e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notizen/Borbaradianer.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notizen/Borbaradianer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notizen/Borbaradianer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notizen/Borbaradianer.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -145,8 +137,9 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "13a1f0fd4db0d235",
+  "active": "e7a43264aea0a58e",
   "lastOpenFiles": [
+    "Notizen/Borbaradianer.md",
     "Notizen/Kraftlinien.md",
     "Notizen/Post Gier.md",
     "Borbarad.md",
@@ -154,7 +147,6 @@
     "Geschichte.md",
     "Personen.md",
     "Prophezeihung und Deutung.md",
-    "Notizen/Borbaradianer.md",
     "Externes/Mandelentzündung.md",
     "Untitled.md",
     "Externes/Geburtstagsgeschenk.md",
