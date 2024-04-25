@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0b4b491cec970d09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Die Gezeichneten.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "178affb6969187dd",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Die Gezeichneten.md",
+                "file": "Personen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Die Gezeichneten.md",
+                "file": "Personen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Die Gezeichneten.md"
+                "file": "Personen.md"
               }
             }
           }
@@ -159,17 +147,17 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "0b4b491cec970d09",
+  "active": "13a1f0fd4db0d235",
   "lastOpenFiles": [
-    "Prophezeihung und Deutung.md",
-    "Personen.md",
-    "Notizen/Kraftlinien.md",
     "Geschichte.md",
+    "Personen.md",
+    "Die Gezeichneten.md",
+    "Prophezeihung und Deutung.md",
+    "Notizen/Kraftlinien.md",
     "Notizen/Borbaradianer.md",
     "Externes/Mandelentzündung.md",
     "Untitled.md",
     "Borbarad.md",
-    "Die Gezeichneten.md",
     "Externes/Geburtstagsgeschenk.md",
     "Notizen/Post Gier.md",
     "Externes",
