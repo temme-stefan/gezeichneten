@@ -1,6 +1,6 @@
 ## Andrew der Weiße
 *Träger des Almadinen Auge* 
-der tollste
+
 
 ## Findurian
 *Adler auf der Brust*

@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "f0d5639d917130bc",
+    "id": "6c528e0d63a965a7",
     "type": "split",
     "children": [
       {
-        "id": "ad939981fff36375",
+        "id": "32bf7939b6db32a4",
         "type": "tabs",
         "children": [
           {
-            "id": "6e77c68f9d697a42",
+            "id": "ddd9885ecdd12d32",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Die Gezeichneten.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,11 +25,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9f271f908c794493",
+    "id": "0774dc6bb4aaf0c7",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "c2dfb1e3199b85d2",
+        "id": "0a222de5e3a8a756",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -35,7 +39,7 @@
         }
       },
       {
-        "id": "00264348eaf335bd",
+        "id": "70b4767e058cca66",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -50,7 +54,7 @@
         }
       },
       {
-        "id": "ce738ee300e021ed",
+        "id": "1392f8859175c6e5",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -61,7 +65,7 @@
         }
       },
       {
-        "id": "377a0261f7bb2907",
+        "id": "059a1e2277f59ef3",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -72,15 +76,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "790d500c0f54cd8c",
+    "id": "4f85b09908029b90",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "1fe9c7c8fe5a127d",
+        "id": "ddba50c62223e4d6",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Die Gezeichneten.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -92,22 +97,25 @@
         }
       },
       {
-        "id": "9e1bd3b4578b3dd7",
+        "id": "59f99acbefe253ea",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Die Gezeichneten.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "1e480346227060dd",
+        "id": "3adabb55b072e6e2",
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Die Gezeichneten.md"
+          }
         }
       }
     ],
@@ -123,37 +131,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e77c68f9d697a42",
+  "active": "ddd9885ecdd12d32",
   "lastOpenFiles": [
-    "Notizen/Borbaradianer.md",
-    "Untitled",
-    "Notizen/Kraftlinien.md",
-    "/Personen.md",
-    "/Notizen/Borbaradianer.md",
-    "/Geschichte.md",
-    "Externes/Mandelentzündung.md",
-    "/Externes/Mandelentzündung.md",
-    "Mandelentzündung.md",
-    "Untitled.md",
     "Prophezeihung und Deutung.md",
     "Personen.md",
     "Notizen/Post Gier.md",
+    "Notizen/Kraftlinien.md",
+    "Notizen/Borbaradianer.md",
     "Geschichte.md",
-    "Externes/Geburtstagsgeschenk.md",
     "Die Gezeichneten.md",
     "Borbarad.md",
-    "Next Bike.md",
-    "/Prophezeihung und Deutung.md",
-    "/Notizen/Post Gier.md",
-    "/Notizen/Kraftlinien.md",
-    "Externes/Next Bike.md",
-    "/Externes/Geburtstagsgeschenk.md",
-    "/Die Gezeichneten.md",
-    "/Borbarad.md",
-    "/Externes/Next Bike.md",
-    "Notizen",
-    "Externes",
-    "/Notizen",
-    "/Externes"
+    "Notizen"
   ]
 }
