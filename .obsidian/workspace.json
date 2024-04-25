@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Borbarad.md",
+                "file": "Notizen/Träume.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Borbarad.md",
+                "file": "Notizen/Träume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Borbarad.md",
+                "file": "Notizen/Träume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Borbarad.md"
+                "file": "Notizen/Träume.md"
               }
             }
           }
@@ -147,11 +147,13 @@
   },
   "active": "e7a43264aea0a58e",
   "lastOpenFiles": [
+    "Notizen/Das alamadine Auge.md",
+    "Notizen/Träume.md",
+    "Notizen/Kraftlinien.md",
     "Geschichte.md",
     "Borbarad.md",
     "Notizen/Borbaradianer.md",
     "Personen.md",
-    "Notizen/Kraftlinien.md",
     "Notizen/Post Gier.md",
     "Die Gezeichneten.md",
     "Prophezeihung und Deutung.md",

@@ -1,4 +1,8 @@
 ## Das erste Mal
+### 570 BF - 589 BF
+[Borbarad](Borbarad.md) terrorisiert die Tulamidenlande.
+#### ein 29. Travia in dieser Zeit
+Er foltert Praios-Geweihten Gilborn (später der heil. Gilborn) zu Tode
 ### 590 BF
 Kaiser Rohal der Weise stellt Borbarad mit Heer in der gorsichen Wüste
 selbe Sternenkonstealtion wie [2. Rahja 22 n.H.](#2.%20Rahja%2022%20n.H.) 
