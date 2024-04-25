@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prophezeihung und Deutung.md",
+                "file": "Notizen/Borbaradianer.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prophezeihung und Deutung.md",
+                "file": "Notizen/Borbaradianer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prophezeihung und Deutung.md",
+                "file": "Notizen/Borbaradianer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prophezeihung und Deutung.md"
+                "file": "Notizen/Borbaradianer.md"
               }
             }
           }
@@ -147,13 +147,13 @@
   },
   "active": "13a1f0fd4db0d235",
   "lastOpenFiles": [
-    "Geschichte.md",
-    "Prophezeihung und Deutung.md",
-    "Personen.md",
-    "Die Gezeichneten.md",
-    "Borbarad.md",
-    "Notizen/Post Gier.md",
     "Notizen/Kraftlinien.md",
+    "Notizen/Post Gier.md",
+    "Borbarad.md",
+    "Die Gezeichneten.md",
+    "Geschichte.md",
+    "Personen.md",
+    "Prophezeihung und Deutung.md",
     "Notizen/Borbaradianer.md",
     "Externes/Mandelentzündung.md",
     "Untitled.md",

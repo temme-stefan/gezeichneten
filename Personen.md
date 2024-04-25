@@ -51,7 +51,7 @@ Teil der Inquisitionsdelegation ([Alptraum ohne Ende](Geschichte.md#Alptraum%20o
 ### Dschelef Ibn Jassfar
 *Akademie von Pentagramma, Hexagramma und Heptagramma zur Meisterung jenseitiger Entitäten zu Rashdul*
 ehemals Leiter der Akademie, jetzt seine Tochter. Forscht zu [Prophezeihung und Deutung](Prophezeihung%20und%20Deutung.md)  und [Kraftlinien](Notizen/Kraftlinien.md), inspiriert durch Erz-Erzelementar
-Begleitet uns ein Stück und unterstützt im Endkampf von [Unsterbliche Gier](Geschichte#Unsterbliche%20Gier)
+Begleitet uns ein Stück und unterstützt im Endkampf von [Unsterbliche Gier](Geschichte.md#Unsterbliche%20Gier)
 
 
 ## Antagonisten
@@ -66,7 +66,7 @@ uralte (5000+) Elfe, urböse, auch *Badoc*, *die alles vergiftet*
 ### Korobar
 Scharzmagier/ Paktierer, zaubert trotz Bannstaub *tot*
 ### Hamid ben Seyshaban
-Schwarzmagier, [belebt Borbarad wieder](Geschichte#2.%20Rahja%2022%20n.H.), *tot*
+Schwarzmagier, [belebt Borbarad wieder](Geschichte.md#2.%20Rahja%2022%20n.H.), *tot*
 
 ### Jandrim, Sohn des Andrasch
 Zwergischer Baumeister, tötet Nicolas de Mot und ersetzt ihn mit Dämon, baut Astralenergie-Sammel-Kuppel und startet Ritual die Energie an Borbarad zu geben, zauberte im Kettenhemd,*tot*
