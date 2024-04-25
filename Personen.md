@@ -4,6 +4,7 @@
 KGIA Agent, wir haben einmal gerettet, er uns auch einmal
 
 ### Herzog Waldemar von Weiden
+Bärenburg in Trallop
 *der Bär* , rondragläubig, abergläubig, Oberster der Bährenritter, Auftraggeber unsterbliche Gier
 ### Herzogin Joleena von Aralzim
 Frau des [Herzog Waldemar von Weiden](#Herzog%20Waldemar%20von%20Weiden)
@@ -15,7 +16,8 @@ Ehemann von [Walpurga von Weiden](#Walpurga%20von%20Weiden)
 
 ### Brin von Gareth
 Graf von Balio, Sohn Kaiser Hals, [Reichsverweser](Geschichte.md#21.%20Ingerim%2022%20n.H.)
-
+## Reichserzmarschall Helme Hafax
+Heeresführer
 ## Klerus
 
 ### Mutter Linai

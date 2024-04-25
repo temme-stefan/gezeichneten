@@ -10,6 +10,8 @@ selbe Sternenkonstealtion wie [2. Rahja 22 n.H.](#2.%20Rahja%2022%20n.H.)
 
 ## Das zweite Mal
 
+### 10/11 n.H.
+Zug der 1000 Oger in Tobrien
 ### 17 n.H.
 Kaiser Hal ist verschwunden.
 ### 18 n.H.

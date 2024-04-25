@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Die Gezeichneten.md",
+                "file": "Geschichte.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Die Gezeichneten.md",
+                "file": "Geschichte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Die Gezeichneten.md",
+                "file": "Geschichte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Die Gezeichneten.md"
+                "file": "Geschichte.md"
               }
             }
           }
@@ -147,15 +147,15 @@
   },
   "active": "e7a43264aea0a58e",
   "lastOpenFiles": [
+    "Personen.md",
+    "Die Gezeichneten.md",
     "Notizen/Träume.md",
     "Notizen/Das alamadine Auge.md",
     "Notizen/Kraftlinien.md",
     "Geschichte.md",
     "Borbarad.md",
     "Notizen/Borbaradianer.md",
-    "Personen.md",
     "Notizen/Post Gier.md",
-    "Die Gezeichneten.md",
     "Prophezeihung und Deutung.md",
     "Externes/Mandelentzündung.md",
     "Untitled.md",
