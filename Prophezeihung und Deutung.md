@@ -8,7 +8,7 @@
 | Zweimal, nicht einmal wird der Zwist der Zwillingsbrüder offenbar, und der Geber der Gestalt unterliegt, damit der Nehmer der Welt unterliegen muss. | 1. Rohal und Borbarad?<br>2.                                                     |
 | Zweimal, nicht einmal werden die tumben Söhne Ogerons dem Kreuz des Nordens folgen.                                                                  |                                                                                  |
 | Zweimal, nicht einmal werden die Botschafter von Ordnung und Einheit zweiteilen Ordnung und Einheit.                                                 | 2. aktuelles Schisma der Praioskirche                                            |
-| Zweimal, nicht einmal werden die Legionen des Roten Mondes vor das Haus der Gelben Sonne treten.                                                     | 2. [[Geschichte#18 n.H.\|Orkenstrum auf Gareth]]                                 |
+| Zweimal, nicht einmal werden die Legionen des Roten Mondes vor das Haus der Gelben Sonne treten.                                                     | 2.[Orkenstrum auf Gareth](Geschichte.md#18%20n.H.)                               |
 | Zweimal, nicht einmal wird der Rabe nach dem Thron des Herren über Zwölf greifen.                                                                    | Rabe = Borbarad?<br>2. Jetzt will Borbarad Praios stürzen? ambitioniert der Kerl |
 
 ### 2. Spruch: Von Drachen und Kaisern 
@@ -21,24 +21,24 @@
 | Wenn in der Neunflüssigen ein Alter Drach bar eines Karfunkels und ein Alter Karfunkel bar eines Drachen weilen.                    | Neunflüssig = Gareth<br>Verweiß auf eine Wanderung des almadinen Auges? |
 
 ### 3. Spruch: Von den Handlangern des Unterganges 
-| Vers                                                                                                                      | Deutung                                                                                                                                                       |
-| ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Wenn der Diener jenseits des Todes den Meister außerhalb des Todes ruft.                                                  | [[Geschichte#2. Rahja 22 n.H.]]<br>Hamid ben Seyshaban ruft Borbarad(außerhalb der Zeit= jenseits des Todes, Borbarad der nicht ins Totenreich? gegangen ist) |
-| Wenn die Verderberin der Leiber einen Leib dem Verderber der Welten schafft.                                              | [[Personen#Padona]] verschafft Borbarad einen Körper mit Hilfe vampiricher Macht                                                                              |
-| Wenn die verlorene Scharen der Gestaltlosen annehmen die Gestalt der Schar der Verlorenen.                                |                                                                                                                                                               |
-| Wenn aus kristallenem Herz der geraubte Schlangenfürst spricht.                                                           |                                                                                                                                                               |
-| Wenn die Bäume auf der See wurzeln, die Festungen über das land wandeln, und die Belagerungstürme über den Himmel ziehen. |                                                                                                                                                               |
+| Vers                                                                                                                      | Deutung                                                                                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Wenn der Diener jenseits des Todes den Meister außerhalb des Todes ruft.                                                  | [2. Rahja 22 n.H.](Geschichte#2.%20Rahja%2022%20n.H.)<br>Hamid ben Seyshaban ruft Borbarad(außerhalb der Zeit= jenseits des Todes, Borbarad der nicht ins Totenreich? gegangen ist) |
+| Wenn die Verderberin der Leiber einen Leib dem Verderber der Welten schafft.                                              | [Padona](Personen#Padona) verschafft Borbarad einen Körper mit Hilfe vampiricher Macht                                                                                              |
+| Wenn die verlorene Scharen der Gestaltlosen annehmen die Gestalt der Schar der Verlorenen.                                |                                                                                                                                                                                     |
+| Wenn aus kristallenem Herz der geraubte Schlangenfürst spricht.                                                           |                                                                                                                                                                                     |
+| Wenn die Bäume auf der See wurzeln, die Festungen über das land wandeln, und die Belagerungstürme über den Himmel ziehen. |                                                                                                                                                                                     |
 
 ### 4. Spruch: Von den Sieben Gezeichneten 
-| Vers                                                                            | Deutung                                                                   |
-| ------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| Wenn der allein Ahnende mit dem almadinen Auge angekommen.                      | [[Geschichte#2. Rahja 22 n.H.]] <br>[[Die Gezeichneten#Andrew der Weiße]] |
-| Wenn der Bote des wandelnden Bildes zum Bündnis bittet.                         | [[Die Gezeichneten#Findurian]]                                            |
-| Wenn das kühne Tier mit dem Krötensinn seinen Kürschmeister gekürt.             | [[Die Gezeichneten#Komischer Druide/Magier]]                              |
-| Wenn fünf firnglänzende finger den Fluch der Felder gefunden.                   |                                                                           |
-| Wenn nur mehr die stählerne Stirn den schrecklichen Schatten standhält.         |                                                                           |
-| Wenn das geflügelte Geschoss dem Grauen der Götter gilt.                        |                                                                           |
-| Wenn aus sieben Schalen Schärfe schäumt, dagegen kein Schrecknis gewachsen ist. |                                                                           |
+| Vers                                                                            | Deutung                                                                                                               |
+| ------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| Wenn der allein Ahnende mit dem almadinen Auge angekommen.                      | [2. Rahja 22 n.H.](Geschichte#2.%20Rahja%2022%20n.H.) <br>[Andrew der Weiße](Die%20Gezeichneten#Andrew%20der%20Weiße) |
+| Wenn der Bote des wandelnden Bildes zum Bündnis bittet.                         | [Findurian](Die%20Gezeichneten#Findurian)                                                                             |
+| Wenn das kühne Tier mit dem Krötensinn seinen Kürschmeister gekürt.             | [Komischer Druide/Magier](Die%20Gezeichneten#Komischer%20Druide/Magier)                                               |
+| Wenn fünf firnglänzende finger den Fluch der Felder gefunden.                   |                                                                                                                       |
+| Wenn nur mehr die stählerne Stirn den schrecklichen Schatten standhält.         |                                                                                                                       |
+| Wenn das geflügelte Geschoss dem Grauen der Götter gilt.                        |                                                                                                                       |
+| Wenn aus sieben Schalen Schärfe schäumt, dagegen kein Schrecknis gewachsen ist. |                                                                                                                       |
 
 ### 5. Spruch: Vom Ende des Zeitalters 
 | Vers                                                                                             | Deutung |
@@ -63,6 +63,6 @@
 | Dann wird kommen der Erste der sieben Boten und seine Nachricht wird sein der almadine Stein und das Wissen SEINES Namens...                                                                                         | Dann wird sterben der Erste der Sieben Gezeichneten und mit ihm der Rubin und das Wissen um SEINEN Namen.                                                                                                 |         |
 
 ### 2. Spruch
-|Vers|Deutung|
-|---|---|
-|Wenn der blinde Verblendete die **verblendete** Blinde trifft, wird ihr||
+| Vers                                                                    | Deutung |
+| ----------------------------------------------------------------------- | ------- |
+| Wenn der blinde Verblendete die **verblendete** Blinde trifft, wird ihr |         |

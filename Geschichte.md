@@ -1,7 +1,7 @@
 ## Das erste Mal
 ### 590 BF
 Kaiser Rohal der Weise stellt Borbarad mit Heer in der gorsichen Wüste
-selbe Sternenkonstealtion wie [[#2. Rahja 22 n.H.]] 
+selbe Sternenkonstealtion wie [2. Rahja 22 n.H.](#2.%20Rahja%2022%20n.H.) 
 
 
 ## Das zweite Mal
@@ -15,15 +15,15 @@ Brin, Sohn des Hal wird Reichsbehüter
 Es gibt zwei Boten des Lichts
 
 ## Alptraum ohne Ende
-[[Personen#Mutter Linai |Mutter Linai]] lädt nach Balio um seltsamen Geschehnissen auf den Grund zu gehen. Ebenso eine Inquisitionsdelegation unter [[Personen#Amano Laconda da Vanya|Da Vanja]], sowie ein Trupp im Auftrag von [[Personen#Delian von Wiedbrück|Delian von Wiedbrück]].  Gequält von Alpträumen reisen wir nach Dragenfeld. Dort hat [[Personen#Hamid ben Seyshaban |Hamid ben Seyshaban]] die junge Tsa Geweihte dazu gebracht mit Zeitformeln herum zu spielen. Selbiger führt Ritual durch um [[Borbarad]]'s Geist zurück zu holen.
+[Mutter Linai](Personen#Mutter%20Linai) lädt nach Balio um seltsamen Geschehnissen auf den Grund zu gehen. Ebenso eine Inquisitionsdelegation unter [Amano Laconda da Vanya](Personen#Amano%20Laconda%20da%20Vanya), sowie ein Trupp im Auftrag von [Delian von Wiedbrück](Personen#Delian%20von%20Wiedbrück).  Gequält von Alpträumen reisen wir nach Dragenfeld. Dort hat [Hamid ben Seyshaban](Personen#Hamid%20ben%20Seyshaban) die junge Tsa Geweihte dazu gebracht mit Zeitformeln herum zu spielen. Selbiger führt Ritual durch um [Borbarad](Borbarad.md)'s Geist zurück zu holen.
 ### 21. Ingerim 22 n.H.
 Warenschau in Baliho mit dicken Kartoffeln
 ### 2. Rahja 22 n.H. 
 Hamid ben Seyshaban beschwört den Geist Borbarads.
 ### 8. Rahja 22 n.H.
-Wir entkräften gegenüber der Inquisition die Vorwürfe gegen den Tsa-Tempel. [[Personen#Amano Laconda da Vanya|Da Vanja]] erklärt Andrews Seele für rein.
+Wir entkräften gegenüber der Inquisition die Vorwürfe gegen den Tsa-Tempel. [Amano Laconda da Vanya](Personen#Amano%20Laconda%20da%20Vanya) erklärt Andrews Seele für rein.
 
 ## Unsterbliche Gier
-[[Personen#Herzog Waldemar von Weiden|Herzog Waldemar von Weiden]] bittet, dass wir uns um verschwundene/getötete Leute kümmern sollen. Vampirismus oder Werwölfe? Der Aberglaube hier hilft nicht. Erste Spur: Mordserie in Baliho verläuft im Sande. 
+[Herzog Waldemar von Weiden](Personen#Herzog%20Waldemar%20von%20Weiden) bittet, dass wir uns um verschwundene/getötete Leute kümmern sollen. Vampirismus oder Werwölfe? Der Aberglaube hier hilft nicht. Erste Spur: Mordserie in Baliho verläuft im Sande. 
 ### 20.Travia 23 n.H
 Wir erreichen Trallop.

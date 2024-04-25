@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personen.md",
+                "file": "Prophezeihung und Deutung.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "178affb6969187dd",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personen.md",
+                "file": "Prophezeihung und Deutung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personen.md",
+                "file": "Prophezeihung und Deutung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,12 +125,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personen.md"
+                "file": "Prophezeihung und Deutung.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -150,16 +148,16 @@
   "active": "13a1f0fd4db0d235",
   "lastOpenFiles": [
     "Geschichte.md",
+    "Prophezeihung und Deutung.md",
     "Personen.md",
     "Die Gezeichneten.md",
-    "Prophezeihung und Deutung.md",
+    "Borbarad.md",
+    "Notizen/Post Gier.md",
     "Notizen/Kraftlinien.md",
     "Notizen/Borbaradianer.md",
     "Externes/Mandelentzündung.md",
     "Untitled.md",
-    "Borbarad.md",
     "Externes/Geburtstagsgeschenk.md",
-    "Notizen/Post Gier.md",
     "Externes",
     "Kraftlinien.md",
     "Notizen",
