@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personen.md",
+                "file": "Borbarad.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personen.md",
+                "file": "Borbarad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personen.md",
+                "file": "Borbarad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +125,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personen.md"
+                "file": "Borbarad.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,12 +148,12 @@
   "active": "e7a43264aea0a58e",
   "lastOpenFiles": [
     "Notizen/Borbaradianer.md",
+    "Personen.md",
     "Geschichte.md",
     "Notizen/Kraftlinien.md",
     "Notizen/Post Gier.md",
     "Borbarad.md",
     "Die Gezeichneten.md",
-    "Personen.md",
     "Prophezeihung und Deutung.md",
     "Externes/Mandelentzündung.md",
     "Untitled.md",
