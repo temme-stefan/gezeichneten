@@ -2,6 +2,7 @@ Dämonenbeschwörer, Schwarzmagier, Paktierer
 ## Namen
 Tharsonius von Bethana
 der Bethane
+Borbarad ist sein Kriegsname
 zwergisch: Burbar Domro, ~ der schwarze Borbarad ~ negative Person
 elfisch: Öffner der Tore
 
