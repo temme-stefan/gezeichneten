@@ -76,7 +76,8 @@ hatte 987 BF Vision einer verschlingenden Macht. Einigt die Hexenzirkel Weidens,
 ### Borbarad 
 [Borbarad](Borbarad.md)
 ### Padona 
-uralte (5000+) Elfe, urböse, auch *Badoc*, *die alles vergiftet*, Geweihte des Namenlosen?
+uralte (5000+) Elfe, urböse, auch *Badoc*, *die alles vergiftet*, Geweihte des Namenlosen
+[Borbarad](Borbarad.md) schlägt Bündniss mit Namenlosem aus
 
 ### (Hexe Achaz)
 Antagonistin [Lutzelin](#Lutzelin)s

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notizen/Zweites Zeichen.md",
+                "file": "Personen.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notizen/Zweites Zeichen.md",
+                "file": "Personen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notizen/Zweites Zeichen.md",
+                "file": "Personen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notizen/Zweites Zeichen.md"
+                "file": "Personen.md"
               }
             }
           }
@@ -159,6 +159,7 @@
   },
   "active": "e7a43264aea0a58e",
   "lastOpenFiles": [
+    "Notizen/Zweites Zeichen.md",
     "Personen.md",
     "Geschichte.md",
     "Borbarad.md",
@@ -167,7 +168,6 @@
     "Notizen/Kraftlinien.md",
     "Die Gezeichneten.md",
     "Notizen/Vampire.md",
-    "Notizen/Zweites Zeichen.md",
     "Notizen/Politisch.md",
     "Notizen/Träume.md",
     "Notizen/Das alamadine Auge.md",
