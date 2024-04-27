@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "6c528e0d63a965a7",
+    "id": "b33e7ae481f9359c",
     "type": "split",
     "children": [
       {
-        "id": "32bf7939b6db32a4",
+        "id": "c7c5866aecf01f2c",
         "type": "tabs",
         "children": [
           {
-            "id": "ddd9885ecdd12d32",
+            "id": "b687b84c0d84e523",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Die Gezeichneten.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,11 +21,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0774dc6bb4aaf0c7",
+    "id": "e3dbeedf461e838b",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "0a222de5e3a8a756",
+        "id": "b308529d9eeb13b1",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -39,7 +35,7 @@
         }
       },
       {
-        "id": "70b4767e058cca66",
+        "id": "c6f2e64066e1d430",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -54,7 +50,7 @@
         }
       },
       {
-        "id": "1392f8859175c6e5",
+        "id": "fc6b5b70ef1f87ee",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -65,7 +61,7 @@
         }
       },
       {
-        "id": "059a1e2277f59ef3",
+        "id": "9a044fbf416f8498",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -76,16 +72,15 @@
     "currentTab": 0
   },
   "right": {
-    "id": "4f85b09908029b90",
+    "id": "d720dd46b213e02d",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "ddba50c62223e4d6",
+        "id": "2d3c6461b62dfad5",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Die Gezeichneten.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,25 +92,22 @@
         }
       },
       {
-        "id": "59f99acbefe253ea",
+        "id": "9f848ce4d82ae241",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Die Gezeichneten.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "3adabb55b072e6e2",
+        "id": "6a3aeb00f7f54edb",
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Die Gezeichneten.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -131,12 +123,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ddd9885ecdd12d32",
+  "active": "b687b84c0d84e523",
   "lastOpenFiles": [
     "Prophezeihung und Deutung.md",
     "Personen.md",
+    "Notizen/Zweites Zeichen.md",
+    "Notizen/Vampire.md",
+    "Notizen/Träume.md",
     "Notizen/Post Gier.md",
+    "Notizen/Money.md",
+    "Notizen/Lore.md",
     "Notizen/Kraftlinien.md",
+    "Notizen/Das alamadine Auge.md",
     "Notizen/Borbaradianer.md",
     "Geschichte.md",
     "Die Gezeichneten.md",
