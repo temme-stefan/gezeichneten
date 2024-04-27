@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notizen/Lore.md",
+                "file": "Notizen/Money.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notizen/Lore.md",
+                "file": "Notizen/Money.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notizen/Lore.md",
+                "file": "Notizen/Money.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notizen/Lore.md"
+                "file": "Notizen/Money.md"
               }
             }
           }
@@ -159,16 +159,17 @@
   },
   "active": "e7a43264aea0a58e",
   "lastOpenFiles": [
-    "Personen.md",
-    "Notizen/Lore.md",
-    "Notizen/Zweites Zeichen.md",
     "Geschichte.md",
+    "Notizen/Money.md",
+    "Notizen/Vampire.md",
+    "Notizen/Lore.md",
+    "Personen.md",
+    "Notizen/Zweites Zeichen.md",
     "Borbarad.md",
     "conflict-files-obsidian-git.md",
     "Prophezeihung und Deutung.md",
     "Notizen/Kraftlinien.md",
     "Die Gezeichneten.md",
-    "Notizen/Vampire.md",
     "Notizen/Politisch.md",
     "Notizen/Träume.md",
     "Notizen/Das alamadine Auge.md",
