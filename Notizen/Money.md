@@ -1,0 +1,1 @@
+100 Dukaten je Jahr (Ritter des Bärenorden), nächset mal 25 Hal
