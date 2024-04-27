@@ -30,7 +30,7 @@ Hamid ben Seyshaban beschwört den Geist Borbarads.
 Wir entkräften gegenüber der Inquisition die Vorwürfe gegen den Tsa-Tempel. [Amano Laconda da Vanya](Personen.md#Amano%20Laconda%20da%20Vanya) erklärt Andrews Seele für rein.
 
 ## Unsterbliche Gier
-[Herzog Waldemar von Weiden](Personen.md#Herzog%20Waldemar%20von%20Weiden) bittet, dass wir uns um verschwundene/getötete Leute kümmern sollen. Vampirismus oder Werwölfe? Der Aberglaube hier hilft nicht. Erste Spur: Mordserie in Baliho verläuft im Sande. Wir töten dennoch ein paar Vampire.
+[Herzog Waldemar von Weiden](Personen.md#Herzog%20Waldemar%20von%20Weiden) bittet, dass wir uns um verschwundene/getötete Leute kümmern sollen. Vampirismus oder Werwölfe? Der Aberglaube hier hilft nicht. Erste Spur: Mordserie in Baliho verläuft im Sande. Wir töten dennoch ein paar Vampire. [[Borbarad]] bekommt von [[Personen#Padona]] neuen Körper.
 
 ### 20.Travia 23 Hal
 Wir erreichen Trallop.
