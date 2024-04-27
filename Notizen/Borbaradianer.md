@@ -2,3 +2,4 @@
 	* [[Personen#Korobar  | Korobar]]
 	* Jandrim und Kuwim, Zwerge in Kette
 	* 
+* Wieso kann Borbarad angebetet werden? Avatar eines Erzdämons?
