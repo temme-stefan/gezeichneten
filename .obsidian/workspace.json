@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "33e0fc83d2811687",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geschichte.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "n.H",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,16 +159,19 @@
   },
   "active": "e7a43264aea0a58e",
   "lastOpenFiles": [
+    "Prophezeihung und Deutung.md",
+    "Notizen/Kraftlinien.md",
     "Personen.md",
+    "Geschichte.md",
     "Die Gezeichneten.md",
+    "Notizen/Vampire.md",
+    "Notizen/Zweites Zeichen.md",
+    "Notizen/Politisch.md",
     "Notizen/Träume.md",
     "Notizen/Das alamadine Auge.md",
-    "Notizen/Kraftlinien.md",
-    "Geschichte.md",
     "Borbarad.md",
     "Notizen/Borbaradianer.md",
     "Notizen/Post Gier.md",
-    "Prophezeihung und Deutung.md",
     "Externes/Mandelentzündung.md",
     "Untitled.md",
     "Externes/Geburtstagsgeschenk.md",
