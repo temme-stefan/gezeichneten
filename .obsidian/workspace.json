@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notizen/Kraftlinien.md",
+                "file": "Notizen/offen Fäden.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notizen/Kraftlinien.md",
+                "file": "Notizen/offen Fäden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notizen/Kraftlinien.md",
+                "file": "Notizen/offen Fäden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notizen/Kraftlinien.md"
+                "file": "Notizen/offen Fäden.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   "active": "33e0fc83d2811687",
   "lastOpenFiles": [
     "Personen.md",
-    "Notizen/Zweites Zeichen.md",
     "Notizen/Kraftlinien.md",
+    "Notizen/Zweites Zeichen.md",
     "Notizen/Träume.md",
     "Notizen/Geschehnisse im Kloster.md",
     "Notizen/offen Fäden.md",
