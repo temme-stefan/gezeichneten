@@ -27,7 +27,7 @@
               "state": {
                 "file": "Notizen/Lore.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }

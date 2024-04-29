@@ -4,8 +4,8 @@ Der namenlose Gott hat eine Breche in die 7. Sphäre geschlagen, damit die Dämo
 Jeder Gott hat einen Antagonisten auf Dämonenebene, die sogenannten Erzdämonen. Dämonen haben entweder einen Erzdämon oder den Namenlosen über sich.
 Für den Preis seiner Seele kann man mit Erzdämonen paktieren
 
-| Erzdämon | Gott |
-| --- | --- |
-|Widharcal, Schänder der Elemente | Ingerimm |
+| Erzdämon                         | Gott     |
+| -------------------------------- | -------- |
+| Widharcal, Schänder der Elemente | Ingerimm |
 
 
