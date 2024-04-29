@@ -8,3 +8,4 @@ Adler auf Findurians Brust
 ## Fähigkeiten
 * "Gefühl der Verbundenheit" schützt vor Angst
 * Kommunikation über Distanz ?
+* Adler kann sich lösen und Nachrichten überbringen

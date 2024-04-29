@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notizen/Kraftlinien.md",
+                "file": "Notizen/Zweites Zeichen.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notizen/Kraftlinien.md",
+                "file": "Notizen/Zweites Zeichen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notizen/Kraftlinien.md",
+                "file": "Notizen/Zweites Zeichen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notizen/Kraftlinien.md"
+                "file": "Notizen/Zweites Zeichen.md"
               }
             }
           }
@@ -160,6 +160,7 @@
   },
   "active": "33e0fc83d2811687",
   "lastOpenFiles": [
+    "Notizen/Kraftlinien.md",
     "Personen.md",
     "Notizen/Träume.md",
     "Notizen/Geschehnisse im Kloster.md",
@@ -169,7 +170,6 @@
     "Prophezeihung und Deutung.md",
     "Borbarad.md",
     "Die Gezeichneten.md",
-    "Notizen/Kraftlinien.md",
     "Notizen/Das alamadine Auge.md",
     "Notizen/Borbaradianer.md",
     "Notizen/Post Gier.md",
