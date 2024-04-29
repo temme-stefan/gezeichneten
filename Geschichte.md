@@ -45,5 +45,6 @@ Wir folgen einer Ur-Eule, Oropheia die Eulenkönigen des Blautann (Wald) zu [Lut
 Nächtlicher Kampf am Nachtschattenturm. Erzvampir Walmir von Rieberhoff entkommt. [Borbarad](Borbarad.md) bekommt von [Padona](Personen#Padona) neuen Körper, schlägt aber Bündnis mit dem Namenlosen aus.
 
 ## Grenzenlose Macht
+In Geheimauftrag infiltrieren wir das Kloster Aras de Mot um die dortigen Vorfälle aufzuklären. Kloster ist bereits von [Borbaradianer](Notizen/Borbaradianer.md) infiltriert ([Kuwim, Sohn des Ambrosch](Personen.md#Kuwim,%20Sohn%20des%20Ambrosch) & [Jandrim, Sohn des Andrasch](Personen.md#Jandrim,%20Sohn%20des%20Andrasch) & Dämon in Gestalt des Lehrmeisters). Druide arbeit von außen gegen die Borbaradianer (Unfälle usw.). Wir erkennen zu spät was Sache ist. Mystisches Tal der Elemente, dort erhält Druide Zeichen. Währenddessen erschafft [Borbarad](Borbarad.md) Zauberstab aus Blutulme, und startet Ritual im Kloster um astrale Energie zu akkumulieren. (Wieviel Energie kann der Kerl speichern?). Wir unterbrechen das ritual, töten die Borbaradianer. Einige Orks sind ebenfalls auf der Strecke geblieben. 
 ### 27. Praios 24 Hal
 Wir erreichen Greifenfurth im Auftrag [Amando Laconda da Vanya](Personen.md#Amando%20Laconda%20da%20Vanya) das Kloster Aras de Mott zu infiltrieren.
