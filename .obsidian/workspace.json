@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notizen/Träume.md",
+                "file": "Personen.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notizen/Träume.md",
+                "file": "Personen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notizen/Träume.md",
+                "file": "Personen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notizen/Träume.md"
+                "file": "Personen.md"
               }
             }
           }
@@ -160,8 +160,8 @@
   },
   "active": "33e0fc83d2811687",
   "lastOpenFiles": [
-    "Notizen/Geschehnisse im Kloster.md",
     "Notizen/Träume.md",
+    "Notizen/Geschehnisse im Kloster.md",
     "Notizen/Zweites Zeichen.md",
     "Notizen/offen Fäden.md",
     "Geschichte.md",

@@ -72,7 +72,8 @@ Begleitet uns ein Stück und unterstützt im Endkampf von [Unsterbliche Gier](Ge
 Oberhexe Weiden? *tot*
 hatte 987 BF Vision einer verschlingenden Macht. Einigt die Hexenzirkel Weidens, Tobriens, Abernias und Rohrwheds in 16 Ritualen (16 Sonnenwendfeiern = 8 Jahren) das Zeichen zu erschaffen, erliegt dem Vampirismus nach Zeichenübergabe und wird mit einem Kuss getötet 
 
-
+### Orbrandt
+*Elementarist/Druide*
 
 
 ## Antagonisten
