@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geschichte.md",
+                "file": "Notizen/Klostertheorie.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschichte.md",
+                "file": "Notizen/Klostertheorie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geschichte.md",
+                "file": "Notizen/Klostertheorie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geschichte.md"
+                "file": "Notizen/Klostertheorie.md"
               }
             }
           }
@@ -160,11 +160,13 @@
   },
   "active": "33e0fc83d2811687",
   "lastOpenFiles": [
-    "Notizen/Drittes Zeichen.md",
-    "Die Gezeichneten.md",
     "Notizen/Lore.md",
+    "Notizen/Money.md",
+    "Notizen/Klostertheorie.md",
     "Personen.md",
     "Geschichte.md",
+    "Notizen/Drittes Zeichen.md",
+    "Die Gezeichneten.md",
     "Prophezeihung und Deutung.md",
     "Notizen/Zweites Zeichen.md",
     "Notizen/offen Fäden.md",
@@ -175,7 +177,6 @@
     "Notizen/Das alamadine Auge.md",
     "Notizen/Borbaradianer.md",
     "Notizen/Post Gier.md",
-    "Notizen/Money.md",
     "Notizen/Vampire.md",
     "conflict-files-obsidian-git.md",
     "Notizen/Politisch.md",
@@ -187,7 +188,6 @@
     "Notizen",
     "Post Gier.md",
     "Birte.md",
-    "Externes/Next Bike.md",
     "Unbenannt.canvas"
   ]
 }

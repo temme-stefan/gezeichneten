@@ -51,6 +51,7 @@ Inquisitor
 *Praios*
 Anführer eines Bannstrahler Regiments, fanatisch
 Teil der Inquisitionsdelegation ([Alptraum ohne Ende](Geschichte.md#Alptraum%20ohne%20Ende))
+Kooperativ nach [Grenzenlose Macht](Geschichte.md#Grenzenlose%20Macht)
 
 ### (Anselm Hornbringer)
 *Praios*
