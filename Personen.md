@@ -82,8 +82,8 @@ Gefangenener von [Orbrandt](#Orbrandt),
 Gefangenener von [Orbrandt](#Orbrandt), 
 
 
-### Orbrandt
-*Elementarist/Druide*
+### Orbrandt, auch Archon Megalon
+*Elementarist/Druide*, ehem. Hofmagier der Fürsten von Harvena, Träger des Schla
 
 
 ## Antagonisten
