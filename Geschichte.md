@@ -7,7 +7,7 @@ erstes Schisma der Praioskirche
 #### ein 29. Travia in dieser Zeit
 Er foltert Praios-Geweihten Gilborn (später der heil. Gilborn) zu Tode
 ### 590 BF
-Kaiser Rohal der Weise stellt Borbarad mit Heer in der gorsichen Wüste
+Kaiser Rohal der Weise stellt Borbarad mit Heer in der gorischen Wüste
 selbe Sternenkonstealtion wie [2. Rahja 22 Hal](#2.%20Rahja%2022%20Hal) 
 
 ### ~600 BF
