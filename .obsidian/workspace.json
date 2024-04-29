@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notizen/Drittes Zeichen.md",
+                "file": "Geschichte.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notizen/Drittes Zeichen.md",
+                "file": "Geschichte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notizen/Drittes Zeichen.md",
+                "file": "Geschichte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notizen/Drittes Zeichen.md"
+                "file": "Geschichte.md"
               }
             }
           }
@@ -160,8 +160,8 @@
   },
   "active": "33e0fc83d2811687",
   "lastOpenFiles": [
-    "Die Gezeichneten.md",
     "Notizen/Drittes Zeichen.md",
+    "Die Gezeichneten.md",
     "Notizen/Lore.md",
     "Personen.md",
     "Geschichte.md",
