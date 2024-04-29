@@ -12,13 +12,13 @@
 | Zweimal, nicht einmal wird der Rabe nach dem Thron des Herren über Zwölf greifen.                                                                    | Rabe = Borbarad?<br>2. Jetzt will Borbarad Praios stürzen? ambitioniert der Kerl                             |
 
 ### 2. Spruch: Von Drachen und Kaisern 
-| Vers                                                                                                                                | Deutung                                         |
-| ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| Wenn sich Drachenblut mit Menschenblut auf einem Berg von Gold verbindet.                                                           |                                                 |
-| Wenn sich wegen des Schicksals der Zwillingkaiser nicht erfüllen kann das Schicksal der Kaiserzwillinge.                            |                                                 |
-| Wenn der alte Elfenkönig und der neue Elfenkönig mit Schiff und Ross heimgekehrt und bewiesen, dass der Elfenkönig nimmermehr wahr. |                                                 |
-| Wenn der alte Kaiser dem neuen Kaiser nachfolgt.                                                                                    |                                                 |
-| Wenn in der Neunflüssigen ein Alter Drach bar eines Karfunkels und ein Alter Karfunkel bar eines Drachen weilen.                    | Verweiß auf eine Wanderung des almadinen Auges? |
+| Vers                                                                                                                                | Deutung                                                       |
+| ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| Wenn sich Drachenblut mit Menschenblut auf einem Berg von Gold verbindet.                                                           |                                                               |
+| Wenn sich wegen des Schicksals der Zwillingkaiser nicht erfüllen kann das Schicksal der Kaiserzwillinge.                            |                                                               |
+| Wenn der alte Elfenkönig und der neue Elfenkönig mit Schiff und Ross heimgekehrt und bewiesen, dass der Elfenkönig nimmermehr wahr. |                                                               |
+| Wenn der alte Kaiser dem neuen Kaiser nachfolgt.                                                                                    | Königin des liebichen Feld hat sich als Horas ausrufen lassen |
+| Wenn in der Neunflüssigen ein Alter Drach bar eines Karfunkels und ein Alter Karfunkel bar eines Drachen weilen.                    | Verweiß auf eine Wanderung des almadinen Auges?               |
 
 ### 3. Spruch: Von den Handlangern des Unterganges 
 | Vers                                                                                                                      | Deutung                                                                                                                                                                                                                                 |

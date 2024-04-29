@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prophezeihung und Deutung.md",
+                "file": "Borbarad.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prophezeihung und Deutung.md",
+                "file": "Borbarad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prophezeihung und Deutung.md",
+                "file": "Borbarad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prophezeihung und Deutung.md"
+                "file": "Borbarad.md"
               }
             }
           }
@@ -160,8 +160,9 @@
   "active": "e7a43264aea0a58e",
   "lastOpenFiles": [
     "Geschichte.md",
-    "Prophezeihung und Deutung.md",
     "Die Gezeichneten.md",
+    "Prophezeihung und Deutung.md",
+    "Personen.md",
     "Borbarad.md",
     "Notizen/Zweites Zeichen.md",
     "Notizen/Kraftlinien.md",
@@ -172,7 +173,6 @@
     "Notizen/Money.md",
     "Notizen/Lore.md",
     "Notizen/Vampire.md",
-    "Personen.md",
     "conflict-files-obsidian-git.md",
     "Notizen/Politisch.md",
     "Externes/Mandelentzündung.md",
