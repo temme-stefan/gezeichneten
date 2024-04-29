@@ -36,13 +36,17 @@ Baliho, Tempelvorsteher
 ### Schwester Praiogard
 *Praios*
 Baliho, Geweihte *tot*
-### Amano Laconda da Vanya
+
+### Amando Laconda da Vanya
 *Praios*
 Inquisitor, 
 Teil der Inquisitionsdelegation ([Alptraum ohne Ende](Geschichte.md#Alptraum%20ohne%20Ende))
 hatte Einblick in Andrews Seele
 Auftraggeber 
 
+### (Freiherr Arbas Jondrean von Berglund)
+*Praios*
+Inquisitor
 ### Ucurian Jago
 *Praios*
 Anführer eines Bannstrahler Regiments, fanatisch
