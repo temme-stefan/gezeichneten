@@ -15,6 +15,7 @@
 	* Thonnysblüten gestohlen für mehr Power
 	* [Magister Emmerich von Falkenhein](Personen.md#Magister%20Emmerich%20von%20Falkenhein) & [Ankoron von Katzenzorn](Personen.md#Ankoron%20von%20Katzenzorn) entführt und ihnen Magie entzogen
 * **6. Rondra 24 Hal** wir erreichen das Kloster
+* Mord Bruder Wismund
 
 
 
