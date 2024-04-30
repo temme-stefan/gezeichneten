@@ -1,13 +1,18 @@
 *Schule der Gegenmagie in Kuslik*
+
 *Schule der hohen Magie in Punin*
 
 Dämenonbeschwörer, Schwarzmagier, Paktierer 
 
 ## Namen
 Tharsonius von Bethana, der Bethanier
+
 elfisch: Öffner der Tore
+
 zwergisch: Burbar Domron ≙ der schwarze Borbarad
+
 Rabe? [1. Spruch Von der Zweiheit der göttlichen Ungaben](Prophezeihung%20und%20Deutung#1.%20Spruch%20Von%20der%20Zweiheit%20der%20göttlichen%20Ungaben)
+
 Meister außerhalb des Todes [4. Spruch Von den Sieben Gezeichneten](Prophezeihung%20und%20Deutung#4.%20Spruch%20Von%20den%20Sieben%20Gezeichneten)
 ## Vergangenheit
 * [570 BF - 589 BF](Geschichte.md#570%20BF%20-%20589%20BF) Terror in den Tulamidenlanden
