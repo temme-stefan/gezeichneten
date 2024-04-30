@@ -6,11 +6,11 @@
 * Alternative Deutung: Arras de Mott erlangt göttliche Einsicht durch Wunder, und macht bereitet deshalb alles im Kloster vor.
 ## Jetzt
 * [Jandrim, Sohn des Andrasch](Personen.md#Jandrim,%20Sohn%20des%20Andrasch) ersinnt (mit B. Hilfe vermutlich) Pläne für Magiefokusmaschine, basierend auf der Energie die aus dem Tal der Elemente abgezogen wird?
-* [Jandrim, Sohn des Andrasch](Personen.md#Jandrim,%20Sohn%20des%20Andrasch) tötet Nicola de Mot und ersetzt ihn durch Dämon
-* neuer Nicola de Mot beschließt Kloster wieder aufzuziehen, als Tarnung zum Bau der Magiefokusmaschine
-* [Orbrandt, auch Archon Megalon](Personen.md#Orbrandt,%20auch%20Archon%20Megalon) spürt Änderungen in den Kraftlinien/Elementen und beginnt den Klosterbau zu sabotieren. Methodik: fragwürdig
+* **Namenlose Tage 23 Hal** [Jandrim, Sohn des Andrasch](Personen.md#Jandrim,%20Sohn%20des%20Andrasch) tötet Nicola de Mot und ersetzt ihn durch Dämon
+* **Ab  [Orbrandt, auch Archon Megalon](Personen.md#Orbrandt,%20auch%20Archon%20Megalon) spürt Änderungen in den Kraftlinien/Elementen und beginnt den Klosterbau zu sabotieren. Methodik: fragwürdig
 	* Beherrschung zur Sabotage/ Blutschmierereien
 	* Beherrschung zu Streit/Keilereien/Unfälle
+	* Vergiftete Hühner
 	* Goblinüberfälle? (am Weg)
 	* Thonnysblüten gestohlen für mehr Power
 	* [Magister Emmerich von Falkenhein](Personen.md#Magister%20Emmerich%20von%20Falkenhein) & [Ankoron von Katzenzorn](Personen.md#Ankoron%20von%20Katzenzorn) entführt und ihnen Magie entzogen
