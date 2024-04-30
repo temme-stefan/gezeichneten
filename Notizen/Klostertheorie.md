@@ -1,4 +1,4 @@
-* praiosgefälliger Pilger wurde Arras de Mott getauft. Name bis dato unbekannt, Wörter könnten für vieles stehen: Hüter der Erdscholle, Hüter der Geheimnisse, Geheimnis des Hüters, Geheimnis des Verstorbenen [¹]
+* praiosgefälliger Pilger Herbald wurde Arras de Mott getauft. Name bis dato unbekannt, Wörter könnten für vieles stehen: Hüter der Erdscholle, Hüter der Geheimnisse, Geheimnis des Hüters, Geheimnis des Verstorbenen [¹]
 * Arras de Mott baut Kloster ohne offensichtlichem Grund an genau diesem Ort. Ebenso hinterlässt er Anweisungen für seine Beisetzung und übergibt das Szepter, mit einer Prophezeihung. [²]
 * gläubiger Bauer Arnkiel verliert Haus und Hof und wandert zur Goldspitze. Dort betritt er zufällig Tal der Elemente. Dort trifft er Elementarherren die ihn für Stillschweigen belohnen (Haus, Hof & Acker) [³]
 * Deutung: Arnkiel = Aras de Mot, Elementarherren = Geoden, ggf mit Eschim von Quell ([Drittes Zeichen](Notizen/Drittes%20Zeichen.md)). 
