@@ -8,4 +8,7 @@ Für den Preis seiner Seele kann man mit Erzdämonen paktieren
 | -------------------------------- | -------- |
 | Widharcal, Schänder der Elemente | Ingerimm |
 
+## Mysterium von Kha
+
+## Madas Frevel
 
