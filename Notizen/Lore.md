@@ -9,6 +9,6 @@ Für den Preis seiner Seele kann man mit Erzdämonen paktieren
 | Widharcal, Schänder der Elemente | Ingerimm |
 
 ## Mysterium von Kha
-
+steht Madas Frevel gegenüber ??? (vgl Szepter Aras de Mot, Hinterlassenschaften des Hüters)
 ## Madas Frevel
-
+Mada bringt der Welt die Magie und wird dafür an den Himmel gebannt (Mond = Madamal)
