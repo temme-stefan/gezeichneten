@@ -28,7 +28,7 @@
 * **10. Rondra 24 Hal** gesteigertes Pflanzenwachstum (als Folge der gesteigerten Astralenergie?)
 * **11. Rondra 24 Hal** Quanion ermordert, nachdem er versucht hat Kontakt mit uns aufzunehmen. Vermutlich wurde entdeckt, dass er reden wollte.
 * **13. Rondra 24 Hal** Wir verlassen das Kloster
-* 19. Rondra 24 Hal
+* **19. Rondra 24 Hal** Nach Zeitsprung und Tal der Elemente zurück ins Kloster und finale Schlacht
 
 
 

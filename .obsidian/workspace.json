@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notizen/Klostertheorie.md",
+                "file": "Notizen/Drittes Zeichen.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notizen/Klostertheorie.md",
+                "file": "Notizen/Drittes Zeichen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notizen/Klostertheorie.md",
+                "file": "Notizen/Drittes Zeichen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notizen/Klostertheorie.md"
+                "file": "Notizen/Drittes Zeichen.md"
               }
             }
           }
@@ -159,8 +159,8 @@
   },
   "active": "6230872dea85a09e",
   "lastOpenFiles": [
-    "Geschichte.md",
     "Notizen/Klostertheorie.md",
+    "Geschichte.md",
     "Notizen/Money.md",
     "Notizen/Drittes Zeichen.md",
     "Notizen/Zweites Zeichen.md",
