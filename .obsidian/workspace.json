@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notizen/Drittes Zeichen?.md",
+                "file": "Borbarad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "afd0694af2903102",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notizen/Lore.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notizen/Drittes Zeichen?.md",
+                "file": "Borbarad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notizen/Drittes Zeichen?.md",
+                "file": "Borbarad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notizen/Drittes Zeichen?.md"
+                "file": "Borbarad.md"
               }
             }
           }
@@ -159,13 +171,13 @@
   },
   "active": "6230872dea85a09e",
   "lastOpenFiles": [
+    "Notizen/Lore.md",
+    "Borbarad.md",
+    "Notizen/Drittes Zeichen?.md",
     "Notizen/Klostertheorie.md",
     "Geschichte.md",
     "Notizen/Money.md",
-    "Notizen/Drittes Zeichen?.md",
     "Notizen/Zweites Zeichen.md",
-    "Notizen/Lore.md",
-    "Borbarad.md",
     "Notizen/Kraftlinien.md",
     "Personen.md",
     "Die Gezeichneten.md",

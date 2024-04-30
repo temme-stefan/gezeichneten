@@ -17,6 +17,7 @@ Meister außerhalb des Todes [4. Spruch Von den Sieben Gezeichneten](Prophezeihu
 * *?Schüler Rohals?*
 * Bastard einer Hure
 * Bruder Rohals
+* Archon Megalon fühlt Veränderungen im Tal der Elemente die auf Einflüsse Widharcal hindeuten ([Von den Erzdämonen](Notizen/Lore.md#Von%20den%20Erzdämonen)). Wie bereits Zerstörung des Humus in diesem Tal. Kommt die Macht Borbarads von Widharcal?
 
 ## Neuzeit
 * es tauchen [Borbaradianer](Notizen/Borbaradianer.md) auf
