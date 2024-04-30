@@ -9,6 +9,7 @@
 * [Jandrim, Sohn des Andrasch](Personen.md#Jandrim,%20Sohn%20des%20Andrasch) tötet Nicola de Mot und ersetzt ihn durch Dämon
 * neuer Nicola de Mot beschließt Kloster wieder aufzuziehen, als Tarnung zum Bau der Magiefokusmaschine
 * [Orbrandt, auch Archon Megalon](Personen.md#Orbrandt,%20auch%20Archon%20Megalon) spürt Änderungen in den Kraftlinien/Elementen und beginnt den Klosterbau zu sabotieren. Methodik: fragwürdig
+	* Beherrschung zur Sabotage/ Blutschmierereien
 	* 
 
 
