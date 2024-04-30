@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notizen/Klostertheorie.md",
+                "file": "Notizen/Money.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notizen/Klostertheorie.md",
+                "file": "Notizen/Money.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notizen/Klostertheorie.md",
+                "file": "Notizen/Money.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notizen/Klostertheorie.md"
+                "file": "Notizen/Money.md"
               }
             }
           }
@@ -147,9 +147,9 @@
   },
   "active": "6230872dea85a09e",
   "lastOpenFiles": [
+    "Notizen/Klostertheorie.md",
     "Notizen/Drittes Zeichen.md",
     "Notizen/Zweites Zeichen.md",
-    "Notizen/Klostertheorie.md",
     "Geschichte.md",
     "Notizen/Lore.md",
     "Borbarad.md",
