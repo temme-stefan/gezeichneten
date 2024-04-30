@@ -16,8 +16,11 @@
 	* [Magister Emmerich von Falkenhein](Personen.md#Magister%20Emmerich%20von%20Falkenhein) & [Ankoron von Katzenzorn](Personen.md#Ankoron%20von%20Katzenzorn) entführt und ihnen Magie entzogen
 	* Denunzierung
 	* Krankheit
+	* Krähenangriff
 * **6. Rondra 24 Hal** wir erreichen das Kloster
-* **7. Rondra 24 Hal** Mord Bruder Wismund. Verstärkte Regeneration
+* **7. Rondra 24 Hal** Mord Bruder Wismund
+* vermutlich hier erster Teil eines Rituals um die Kraftlinien anzuzapfen und astrale Energie freizusetzen
+* **8. Rondra 24 Hal** verstärkte Regeneration
 * **9. Rondra 24 Hal** Mord Zwerg Kagrim
 
 
