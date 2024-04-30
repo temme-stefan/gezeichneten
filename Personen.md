@@ -84,7 +84,7 @@ Gefangenener von [Orbrandt](#Orbrandt),
 
 
 ### Orbrandt, auch Archon Megalon
-*Elementarist/Druide*, ehem. Hofmagier der Fürsten von Harvena, Träger des [Drittes Zeichen](Notizen/Drittes%20Zeichen.md)
+*Elementarist/Druide*, ehem. Hofmagier der Fürsten von Harvena, Träger des [Drittes Zeichen?](Notizen/Drittes%20Zeichen?.md)
 
 ## Antagonisten
 
