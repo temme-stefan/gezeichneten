@@ -82,7 +82,6 @@ Gefangenener von [Orbrandt](#Orbrandt),
 ### Ankoron von Katzenzorn
 Gefangenener von [Orbrandt](#Orbrandt), 
 
-
 ### Orbrandt, auch Archon Megalon
 *Elementarist/Druide*, ehem. Hofmagier der Fürsten von Harvena, Träger des [Drittes Zeichen?](Notizen/Drittes%20Zeichen?.md)
 
@@ -95,7 +94,7 @@ uralte (5000+) Elfe, urböse, auch *Badoc*, *die alles vergiftet*, Geweihte des 
 [Borbarad](Borbarad.md) schlägt Bündniss mit Namenlosem aus
 
 ### (Hexe Achaz)
-Antagonistin [Lutzelin](#Lutzelin)s
+Antagonistin [Lutzelin](#Lutzelin)s (Diener eines anderen Herren)
 
 ## Leichen pflastern ihren Weg
 
