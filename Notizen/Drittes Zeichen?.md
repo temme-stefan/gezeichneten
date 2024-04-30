@@ -2,8 +2,8 @@ Eschin von Quell, Geode, hat es vor 1000 Jahren im Tal der Elemente versteckt
 
 golden glitzernder Armreif, Schlange die sich selbst beißt.
 
-Fähigkeiten:
+## Fähigkeiten: 
 Antimagie
 
-### Ist das ein Zeichen? 
-es scheint keine permanente Veränderung zu sein wie bei Andrew und Findurian. Krötensinn passt auch nicht wirklich zu Schlange
+## Ist das ein Zeichen? 
+es scheint keine permanente Veränderung zu sein wie bei Andrew und Findurian. Krötensinn passt auch nicht wirklich zu Schlange (Meister sagte auch irgendetwas von Nebenabenteuer?)

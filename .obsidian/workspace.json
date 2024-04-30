@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Borbarad.md",
+                "file": "Notizen/offen Fäden.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Borbarad.md",
+                "file": "Notizen/offen Fäden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Borbarad.md",
+                "file": "Notizen/offen Fäden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Borbarad.md"
+                "file": "Notizen/offen Fäden.md"
               }
             }
           }
@@ -171,22 +171,22 @@
   },
   "active": "6230872dea85a09e",
   "lastOpenFiles": [
-    "Notizen/Borbaradianer.md",
-    "Personen.md",
-    "Borbarad.md",
-    "Notizen/Lore.md",
-    "Notizen/Drittes Zeichen?.md",
-    "Notizen/Klostertheorie.md",
-    "Geschichte.md",
     "Notizen/Money.md",
-    "Notizen/Zweites Zeichen.md",
+    "Notizen/Lore.md",
     "Notizen/Kraftlinien.md",
+    "Notizen/Klostertheorie.md",
+    "Notizen/Drittes Zeichen?.md",
+    "Notizen/Das alamadine Auge.md",
+    "Notizen/Borbaradianer.md",
+    "Borbarad.md",
+    "Personen.md",
+    "Geschichte.md",
+    "Notizen/Zweites Zeichen.md",
     "Die Gezeichneten.md",
     "Prophezeihung und Deutung.md",
     "Notizen/offen Fäden.md",
     "Notizen/Träume.md",
     "Notizen/Geschehnisse im Kloster.md",
-    "Notizen/Das alamadine Auge.md",
     "Notizen/Post Gier.md",
     "Notizen/Vampire.md",
     "conflict-files-obsidian-git.md",
