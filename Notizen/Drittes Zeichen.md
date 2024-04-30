@@ -4,3 +4,6 @@ golden glitzernder Armreif, Schlange die sich selbst beißt.
 
 Fähigkeiten:
 Antimagie
+
+### Ist das ein Zeichen? 
+es scheint keine permanente Veränderung zu sein wie bei Andrew und Findurian. Krötensinn passt auch nicht wirklich zu Schlange
