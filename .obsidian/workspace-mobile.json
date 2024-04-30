@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c7c5866aecf01f2c",
+        "id": "e5305f0d5f98c1a9",
         "type": "tabs",
         "children": [
           {
-            "id": "b687b84c0d84e523",
+            "id": "94e3c7c10cdf3b99",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -123,20 +123,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b687b84c0d84e523",
+  "active": "94e3c7c10cdf3b99",
   "lastOpenFiles": [
+    "/Personen.md",
+    "/Notizen/Lore.md",
+    "/Notizen/Klostertheorie.md",
+    "/Borbarad.md",
     "Notizen/offen Fäden.md",
     "Notizen/Klostertheorie.md",
     "Notizen/Drittes Zeichen.md",
     "/Prophezeihung und Deutung.md",
-    "/Personen.md",
     "/Notizen/offen Fäden.md",
     "/Notizen/Zweites Zeichen.md",
     "/Notizen/Träume.md",
     "/Notizen/Money.md",
-    "/Notizen/Lore.md",
     "/Notizen/Kraftlinien.md",
-    "/Notizen/Klostertheorie.md",
     "/Notizen/Drittes Zeichen.md",
     "/Notizen/Das alamadine Auge.md",
     "/Notizen/Borbaradianer.md",
@@ -150,7 +151,6 @@
     "Notizen/Post Gier.md",
     "Notizen/Money.md",
     "Notizen/Lore.md",
-    "Notizen/Kraftlinien.md",
     "Notizen"
   ]
 }
