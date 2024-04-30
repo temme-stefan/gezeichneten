@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b061fcc7d258fa04",
+        "id": "5866aa4db80fce58",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a43264aea0a58e",
+            "id": "6230872dea85a09e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33e0fc83d2811687",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notizen/Kraftlinien.md",
+                "file": "Notizen/Klostertheorie.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notizen/Kraftlinien.md",
+                "file": "Notizen/Klostertheorie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notizen/Kraftlinien.md",
+                "file": "Notizen/Klostertheorie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notizen/Kraftlinien.md"
+                "file": "Notizen/Klostertheorie.md"
               }
             }
           }
@@ -158,12 +145,13 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "33e0fc83d2811687",
+  "active": "6230872dea85a09e",
   "lastOpenFiles": [
     "Borbarad.md",
-    "Geschichte.md",
-    "Personen.md",
     "Notizen/Klostertheorie.md",
+    "Notizen/Kraftlinien.md",
+    "Personen.md",
+    "Geschichte.md",
     "Notizen/Lore.md",
     "Notizen/Money.md",
     "Notizen/Drittes Zeichen.md",
@@ -171,7 +159,6 @@
     "Prophezeihung und Deutung.md",
     "Notizen/Zweites Zeichen.md",
     "Notizen/offen Fäden.md",
-    "Notizen/Kraftlinien.md",
     "Notizen/Träume.md",
     "Notizen/Geschehnisse im Kloster.md",
     "Notizen/Das alamadine Auge.md",
