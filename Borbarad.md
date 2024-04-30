@@ -17,6 +17,9 @@ Meister außerhalb des Todes [4. Spruch Von den Sieben Gezeichneten](Prophezeihu
 ## Neuzeit
 * es tauchen [Borbaradianer](Notizen/Borbaradianer.md) auf
 * geflügeltes Wort: borbaradianischer Forschungsdrang = Wissen um **jeden** Preis
-* [Alptraum ohne Ende](Geschichte.md#Alptraum%20ohne%20Ende) Borbarads Geist ist wieder in dieser Sphäre (Methoden: [Hamid ben Seyshaban](Personen.md#Hamid%20ben%20Seyshaban) mittels Zeitformeln, Zeitpunkt durch Gestirne bestimmt. Hier gibt es mind. eine Kraftlinie.)
+* [Alptraum ohne Ende](Geschichte.md#Alptraum%20ohne%20Ende) Borbarads Geist ist wieder in dieser Sphäre (Methoden: [Hamid ben Seyshaban](Personen.md#Hamid%20ben%20Seyshaban) mittels Zeitformeln, echsicher Magie, Zeitpunkt durch Gestirne bestimmt. Hier gibt es mind. eine Kraftlinie.)
 * [Unsterbliche Gier](Geschichte.md#Unsterbliche%20Gier) Borbarad bekommt wieder einen Körper (Methoden: Artefaktkessel, der mit vampirischer Energie gefüttert wird, an Kraftlinienknotenpunkt)
-* 
+* [Grenzenlose Macht](Geschichte.md#Grenzenlose%20Macht) Borbarad erhält Blutulmenstab und sammelt einige tausend ASP. Vielleicht auch schon ein Versuch ein Loch in die Sphären zu reißen? (Methoden: Kraftlinienknotenpunkt, "schwarzes Auge" zapft Kraftlinien an, Mondsilberkuppel darüber sammelt die astrale Energie und leitet sie zur Sonnenuhr weiter, die sie fokusiert (mittels Kristallen) in den Himmel schickt)
+## Besitztümer
+* Zauberstab aus einer der ältesteten Blutulmen
+* fliegender Streitwagen von Dämonen gezogen
