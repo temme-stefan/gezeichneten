@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notizen/Drittes Zeichen.md",
+                "file": "Notizen/Klostertheorie.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notizen/Drittes Zeichen.md",
+                "file": "Notizen/Klostertheorie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notizen/Drittes Zeichen.md",
+                "file": "Notizen/Klostertheorie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notizen/Drittes Zeichen.md"
+                "file": "Notizen/Klostertheorie.md"
               }
             }
           }
@@ -147,14 +147,14 @@
   },
   "active": "6230872dea85a09e",
   "lastOpenFiles": [
-    "Geschichte.md",
+    "Notizen/Drittes Zeichen.md",
     "Notizen/Klostertheorie.md",
+    "Geschichte.md",
     "Notizen/Lore.md",
     "Borbarad.md",
     "Notizen/Kraftlinien.md",
     "Personen.md",
     "Notizen/Money.md",
-    "Notizen/Drittes Zeichen.md",
     "Die Gezeichneten.md",
     "Prophezeihung und Deutung.md",
     "Notizen/Zweites Zeichen.md",
