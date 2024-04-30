@@ -1,6 +1,5 @@
 *Schule der Gegenmagie in Kuslik*
 *Schule der hohen Magie in Punin*
-*?Schüler Rohals?*
 
 Dämenonbeschwörer, Schwarzmagier, Paktierer 
 
@@ -13,6 +12,11 @@ Meister außerhalb des Todes [4. Spruch Von den Sieben Gezeichneten](Prophezeihu
 ## Vergangenheit
 * [570 BF - 589 BF](Geschichte.md#570%20BF%20-%20589%20BF) Terror in den Tulamidenlanden
 * [590 BF](Geschichte.md#590%20BF) Schlacht gegen Rohal in gorischer Wüste, endet mit Verschwinden der beiden.
+
+### Unklarheiten
+* *?Schüler Rohals?*
+* Bastard einer Hure
+* Bruder Rohals
 
 ## Neuzeit
 * es tauchen [Borbaradianer](Notizen/Borbaradianer.md) auf

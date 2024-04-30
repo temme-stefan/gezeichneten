@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Borbarad.md",
+                "file": "Notizen/Kraftlinien.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Borbarad.md",
+                "file": "Notizen/Kraftlinien.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Borbarad.md",
+                "file": "Notizen/Kraftlinien.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Borbarad.md"
+                "file": "Notizen/Kraftlinien.md"
               }
             }
           }
@@ -160,8 +160,8 @@
   },
   "active": "33e0fc83d2811687",
   "lastOpenFiles": [
-    "Geschichte.md",
     "Borbarad.md",
+    "Geschichte.md",
     "Personen.md",
     "Notizen/Klostertheorie.md",
     "Notizen/Lore.md",
