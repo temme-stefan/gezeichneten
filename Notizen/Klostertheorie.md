@@ -27,6 +27,8 @@
 * Zettel mit Ritual führt zu Theorie, dass er den Zettel in Jandrims Unterlagen fand, der das Fehlen bemerkte und ihn tötete
 * **10. Rondra 24 Hal** gesteigertes Pflanzenwachstum (als Folge der gesteigerten Astralenergie?)
 * **11. Rondra 24 Hal** Quanion ermordert, nachdem er versucht hat Kontakt mit uns aufzunehmen. Vermutlich wurde entdeckt, dass er reden wollte.
+* **13. Rondra 24 Hal** Wir verlassen das Kloster
+* 19. Rondra 24 Hal
 
 
 
