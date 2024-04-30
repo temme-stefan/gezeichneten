@@ -10,6 +10,7 @@
 * neuer Nicola de Mot beschließt Kloster wieder aufzuziehen, als Tarnung zum Bau der Magiefokusmaschine
 * [Orbrandt, auch Archon Megalon](Personen.md#Orbrandt,%20auch%20Archon%20Megalon) spürt Änderungen in den Kraftlinien/Elementen und beginnt den Klosterbau zu sabotieren. Methodik: fragwürdig
 	* Beherrschung zur Sabotage/ Blutschmierereien
+	* Goblinüberfälle
 	* 
 
 
