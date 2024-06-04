@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geschichte.md",
+                "file": "Notizen/Trivia.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschichte.md",
+                "file": "Notizen/Trivia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geschichte.md",
+                "file": "Notizen/Trivia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geschichte.md"
+                "file": "Notizen/Trivia.md"
               }
             }
           }
@@ -171,20 +171,21 @@
   },
   "active": "6230872dea85a09e",
   "lastOpenFiles": [
+    "Notizen/Lore.md",
+    "Notizen/Trivia.md",
+    "Geschichte.md",
     "Borbarad.md",
     "Notizen/3. Zeichen ? Krötensinn ?.md",
     "Prophezeihung und Deutung.md",
     "Notizen/2. Zeichen Das wandelndene Bild.md",
     "Notizen/1. Zeichen Das alamadine Auge.md",
     "Personen.md",
-    "Geschichte.md",
     "Die Gezeichneten.md",
     "Notizen/Vampire.md",
     "Notizen/Träume.md",
     "Notizen/Post Gier.md",
     "Notizen/offen Fäden.md",
     "Notizen/Money.md",
-    "Notizen/Lore.md",
     "Notizen/Kraftlinien.md",
     "Notizen/Klostertheorie.md",
     "Notizen/Borbaradianer.md",
@@ -198,7 +199,6 @@
     "Kraftlinien.md",
     "Notizen",
     "Post Gier.md",
-    "Birte.md",
     "Unbenannt.canvas"
   ]
 }

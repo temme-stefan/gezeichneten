@@ -19,6 +19,7 @@ selbe Sternenkonstealtion wie [2. Rahja 22 Hal](#2.%20Rahja%2022%20Hal)
 Zug der 1000 Oger in Tobrien
 ### 17 Hal
 Kaiser Hal ist verschwunden.
+Answin von Rabenmund erhebt Ansprüche auf Thron
 ### 18 Hal
 Orkensturm bis vor Gareth
 ### 21 Hal
