@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prophezeihung und Deutung.md",
+                "file": "Notizen/Trivia.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prophezeihung und Deutung.md",
+                "file": "Notizen/Trivia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prophezeihung und Deutung.md",
+                "file": "Notizen/Trivia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prophezeihung und Deutung.md"
+                "file": "Notizen/Trivia.md"
               }
             }
           }
@@ -172,12 +172,12 @@
   },
   "active": "5b27913f37ffb1d2",
   "lastOpenFiles": [
+    "Prophezeihung und Deutung.md",
     "Geschichte.md",
     "Notizen/Trivia.md",
     "Notizen/Kraftlinien.md",
     "Notizen/Lore.md",
     "Personen.md",
-    "Prophezeihung und Deutung.md",
     "Borbarad.md",
     "Notizen/Borbaradianer.md",
     "Notizen/3. Zeichen ? Krötensinn ?.md",
