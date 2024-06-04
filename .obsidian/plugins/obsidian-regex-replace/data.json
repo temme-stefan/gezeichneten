@@ -1,6 +1,6 @@
 {
-  "findText": "",
-  "replaceText": "",
+  "findText": "(\\d\\d) (\\d\\d)",
+  "replaceText": "$1:00-$1:59 $2:00-$2:59",
   "useRegEx": true,
   "selOnly": false,
   "caseInsensitive": true,
