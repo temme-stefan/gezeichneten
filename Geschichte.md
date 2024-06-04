@@ -41,7 +41,7 @@ Wir entkräften gegenüber der Inquisition die Vorwürfe gegen den Tsa-Tempel. [
 ### 20.Travia 23 Hal
 Wir erreichen Trallop.
 ### 11. Bororn 23 Hal
-Wir folgen einer Ur-Eule, Oropheia die Eulenkönigen des Blautann (Wald) zu [Lutzelin](Personen.md#Lutzelin)s Grotte. [Findurian Taurelii](Die%20Gezeichneten.md#Findurian%20Taurelii) empfängt zweites Zeichen.
+Wir folgen einer Ur-Eule, Oropheia die Eulenkönigin des Blautann (Wald) zu [Lutzelin](Personen.md#Lutzelin)s Grotte. [Findurian Taurelii](Die%20Gezeichneten.md#Findurian%20Taurelii) empfängt zweites Zeichen.
 ### 22. Boron 23 Hal
 Nächtlicher Kampf am Nachtschattenturm. Erzvampir Walmir von Rieberhoff entkommt. [Borbarad](Borbarad.md) bekommt von [Padona](Personen#Padona) neuen Körper, schlägt aber Bündnis mit dem Namenlosen aus.
 

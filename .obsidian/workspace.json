@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personen.md",
+                "file": "Notizen/Trivia.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personen.md",
+                "file": "Notizen/Lore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personen.md",
+                "file": "Notizen/Lore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personen.md"
+                "file": "Notizen/Lore.md"
               }
             }
           }
@@ -169,13 +170,13 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "6230872dea85a09e",
+  "active": "afd0694af2903102",
   "lastOpenFiles": [
-    "Notizen/Trivia.md",
     "Geschichte.md",
     "Notizen/Lore.md",
-    "Prophezeihung und Deutung.md",
     "Personen.md",
+    "Notizen/Trivia.md",
+    "Prophezeihung und Deutung.md",
     "Borbarad.md",
     "Notizen/Borbaradianer.md",
     "Notizen/3. Zeichen ? Krötensinn ?.md",
