@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geschichte.md",
+                "file": "Prophezeihung und Deutung.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notizen/Trivia.md",
+                "file": "Prophezeihung und Deutung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notizen/Trivia.md",
+                "file": "Prophezeihung und Deutung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notizen/Trivia.md"
+                "file": "Prophezeihung und Deutung.md"
               }
             }
           }
@@ -170,13 +170,13 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "afd0694af2903102",
+  "active": "5b27913f37ffb1d2",
   "lastOpenFiles": [
+    "Geschichte.md",
+    "Notizen/Trivia.md",
     "Notizen/Kraftlinien.md",
     "Notizen/Lore.md",
-    "Geschichte.md",
     "Personen.md",
-    "Notizen/Trivia.md",
     "Prophezeihung und Deutung.md",
     "Borbarad.md",
     "Notizen/Borbaradianer.md",
