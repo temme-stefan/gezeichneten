@@ -1,5 +1,5 @@
-## Von den Göttern
-Am Anfang waren Los und Sumu. Los erschlug Sumu. Aus Sumus Leib wurde die Welt. Los weinte. Aus ihren Tränen entstanden die ersten Tiere der Welt (Tierkönige wie  Oropheia die Eulenkönigin des Blautann).
+## Schöpfung
+Am Anfang waren Los und Sumu. Los erschlug Sumu. Aus Sumus Leib wurde die Welt. Los weinte. Aus ihren Tränen entstanden die ersten Tiere der Welt (Tierkönige wie  Oropheia die Eulenkönigin des Blautann). Aus dem Blut entstehen die zwölf Götter.
 
 ## Vom namenlosen Gott
 Der namenlose Gott hat eine Breche in die 7. Sphäre geschlagen, damit die Dämonen in unsere Sphäre kommen können. Die anderen Götter stopfen den namenlosen in die Breche, und nehmen ihm Namen und Macht. Wird sein Name ausgesprochen, geht die Welt unter. Täglich nagen Dämonen an seinem Leib

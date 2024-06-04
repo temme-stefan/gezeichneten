@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notizen/Lore.md",
+                "file": "Notizen/Kraftlinien.md",
                 "mode": "source",
                 "source": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notizen/Lore.md",
+                "file": "Notizen/Kraftlinien.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notizen/Lore.md",
+                "file": "Notizen/Kraftlinien.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notizen/Lore.md"
+                "file": "Notizen/Kraftlinien.md"
               }
             }
           }
@@ -172,8 +172,8 @@
   },
   "active": "afd0694af2903102",
   "lastOpenFiles": [
-    "Geschichte.md",
     "Notizen/Lore.md",
+    "Geschichte.md",
     "Personen.md",
     "Notizen/Trivia.md",
     "Prophezeihung und Deutung.md",
