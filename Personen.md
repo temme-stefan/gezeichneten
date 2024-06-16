@@ -83,7 +83,7 @@ Gefangenener von [Orbrandt](#Orbrandt),
 Gefangenener von [Orbrandt](#Orbrandt), 
 
 ### Orbrandt, auch Archon Megalon
-*Elementarist/Druide*, ehem. Hofmagier der Fürsten von Harvena, Träger des [3. Zeichen ? Krötensinn ?](Notizen/3.%20Zeichen%20?%20Krötensinn%20?.md)
+*Elementarist/Druide*, ehem. Hofmagier der Fürsten von Harvena, Träger des [3. Zeichen ? Krötensinn ?](Notizen/3.%20Zeichen%20?%20Krötensinn%20?.md), Seelentier Grauwolf?
 
 ## Antagonisten
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notizen/Trivia.md",
+                "file": "Geschichte.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notizen/Trivia.md",
+                "file": "Geschichte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notizen/Trivia.md",
+                "file": "Geschichte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notizen/Trivia.md"
+                "file": "Geschichte.md"
               }
             }
           }
@@ -147,13 +147,13 @@
   },
   "active": "5b27913f37ffb1d2",
   "lastOpenFiles": [
-    "Geschichte.md",
+    "Personen.md",
     "Notizen/Trivia.md",
+    "Geschichte.md",
     "Notizen/Klostertheorie.md",
     "Prophezeihung und Deutung.md",
     "Notizen/Kraftlinien.md",
     "Notizen/Lore.md",
-    "Personen.md",
     "Borbarad.md",
     "Notizen/Borbaradianer.md",
     "Notizen/3. Zeichen ? Krötensinn ?.md",
