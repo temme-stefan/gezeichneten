@@ -2,6 +2,9 @@
 
 ### ~417 BF
 erstes Schisma der Praioskirche
+### ~517 BF - 617 BF
+Entweihung Tal der Elemente durch Widharcal'schen Einfluss
+
 ### 570 BF - 589 BF
 [Borbarad](Borbarad.md) terrorisiert die Tulamidenlande.
 #### ein 29. Travia in dieser Zeit

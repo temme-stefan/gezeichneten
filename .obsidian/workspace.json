@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ae7787a2dfb6e226",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notizen/Lore.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -147,13 +159,13 @@
   },
   "active": "5b27913f37ffb1d2",
   "lastOpenFiles": [
+    "Notizen/Lore.md",
+    "Geschichte.md",
     "Personen.md",
     "Notizen/Trivia.md",
-    "Geschichte.md",
     "Notizen/Klostertheorie.md",
     "Prophezeihung und Deutung.md",
     "Notizen/Kraftlinien.md",
-    "Notizen/Lore.md",
     "Borbarad.md",
     "Notizen/Borbaradianer.md",
     "Notizen/3. Zeichen ? Krötensinn ?.md",
