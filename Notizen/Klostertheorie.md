@@ -22,7 +22,7 @@
 * **7. Rondra 24 Hal** Mord Bruder Wismund
 * Theorie: vermutlich hier erster Teil eines Rituals um die Kraftlinien anzuzapfen und astrale Energie freizusetzen (-> Pulsieren der Linien), und Wismund beobachtete dies
 * Bormund ruft im geheimen die Inquisition (Wie?)
-* **8. Rondra 24 Hal** verstärkte Regeneration, Angriff Orklager, in verlassenen Dorf ca 3 Wochen altes Beschwörungspentagramm, ca 8. Praios 24 Hal. Könnte auch Dschinnbeschwörung durch Orbrand gewesen sein um Kloster aufzuklären?
+* **8. Rondra 24 Hal** verstärkte Regeneration, Angriff Orklager, in verlassenen Dorf ca 3 Wochen altes Beschwörungspentagramm, ca 8. Praios 24 Hal (oder doch früher? Aufzeichnungen divergieren). Könnte auch Dschinnbeschwörung durch Orbrand gewesen sein um Kloster aufzuklären?
 * **9. Rondra 24 Hal** Mord Zwerg Kagrim
 * Zettel mit Ritual führt zu Theorie, dass er den Zettel in Jandrims Unterlagen fand, der das Fehlen bemerkte und ihn tötete
 * **10. Rondra 24 Hal** gesteigertes Pflanzenwachstum (als Folge der gesteigerten Astralenergie?)

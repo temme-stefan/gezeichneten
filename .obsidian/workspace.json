@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notizen/Trivia.md",
+                "file": "Notizen/Klostertheorie.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notizen/Trivia.md",
+                "file": "Notizen/Klostertheorie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notizen/Trivia.md",
+                "file": "Notizen/Klostertheorie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notizen/Trivia.md"
+                "file": "Notizen/Klostertheorie.md"
               }
             }
           }
@@ -145,11 +145,12 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "8240018f1075eeb9",
+  "active": "5b27913f37ffb1d2",
   "lastOpenFiles": [
-    "Prophezeihung und Deutung.md",
     "Geschichte.md",
     "Notizen/Trivia.md",
+    "Notizen/Klostertheorie.md",
+    "Prophezeihung und Deutung.md",
     "Notizen/Kraftlinien.md",
     "Notizen/Lore.md",
     "Personen.md",
@@ -164,7 +165,6 @@
     "Notizen/Post Gier.md",
     "Notizen/offen Fäden.md",
     "Notizen/Money.md",
-    "Notizen/Klostertheorie.md",
     "Notizen/Geschehnisse im Kloster.md",
     "conflict-files-obsidian-git.md",
     "Notizen/Politisch.md",
