@@ -9,7 +9,7 @@ Für den Preis seiner Seele kann man mit Erzdämonen paktieren
 
 | Erzdämon                         | Gott     |
 | -------------------------------- | -------- |
-| Widharcal, Schänder der Elemente | Ingerimm |
+| Widharcal, Schänder der Elemente, Agrimot | Ingerimm |
 
 ## Mysterium von Kha
 steht Madas Frevel gegenüber ??? (vgl Szepter Aras de Mot, Hinterlassenschaften des Hüters)

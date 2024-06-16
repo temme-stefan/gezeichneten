@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschichte.md",
+                "file": "Notizen/Lore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geschichte.md",
+                "file": "Notizen/Lore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geschichte.md"
+                "file": "Notizen/Lore.md"
               }
             }
           }
@@ -157,10 +158,10 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "5b27913f37ffb1d2",
+  "active": "ae7787a2dfb6e226",
   "lastOpenFiles": [
-    "Notizen/Lore.md",
     "Geschichte.md",
+    "Notizen/Lore.md",
     "Personen.md",
     "Notizen/Trivia.md",
     "Notizen/Klostertheorie.md",
