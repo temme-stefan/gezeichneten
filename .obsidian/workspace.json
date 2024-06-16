@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geschichte.md",
+                "file": "Notizen/Trivia.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notizen/Lore.md",
+                "file": "Notizen/Trivia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notizen/Lore.md",
+                "file": "Notizen/Trivia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notizen/Lore.md"
+                "file": "Notizen/Trivia.md"
               }
             }
           }
@@ -158,8 +157,9 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "ae7787a2dfb6e226",
+  "active": "5b27913f37ffb1d2",
   "lastOpenFiles": [
+    "Notizen/3. Zeichen ? Krötensinn ?.md",
     "Geschichte.md",
     "Notizen/Lore.md",
     "Personen.md",
@@ -169,7 +169,6 @@
     "Notizen/Kraftlinien.md",
     "Borbarad.md",
     "Notizen/Borbaradianer.md",
-    "Notizen/3. Zeichen ? Krötensinn ?.md",
     "Notizen/2. Zeichen Das wandelndene Bild.md",
     "Notizen/1. Zeichen Das alamadine Auge.md",
     "Die Gezeichneten.md",
