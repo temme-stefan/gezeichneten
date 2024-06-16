@@ -13,6 +13,7 @@ selbe Sternenkonstealtion wie [2. Rahja 22 Hal](#2.%20Rahja%2022%20Hal)
 ### ~604 BF
 \1. Orkenstrum
 ### 994 BF = 1 Hal
+
 ## Das zweite Mal
 
 ### 10/11 Hal
