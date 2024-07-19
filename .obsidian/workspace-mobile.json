@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notizen/Borbaradianer.md",
+                "file": "Notizen/Klostertheorie.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notizen/Borbaradianer.md",
+            "file": "Notizen/Klostertheorie.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notizen/Borbaradianer.md",
+            "file": "Notizen/Klostertheorie.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notizen/Borbaradianer.md"
+            "file": "Notizen/Klostertheorie.md"
           }
         }
       }
@@ -133,6 +133,9 @@
   },
   "active": "94e3c7c10cdf3b99",
   "lastOpenFiles": [
+    "Notizen/Borbaradianer.md",
+    "Notizen/2. Zeichen Das wandelndene Bild.md",
+    "Notizen/1. Zeichen Das alamadine Auge.md",
     "Notizen/Klostertheorie.md",
     "/Notizen",
     "Notizen/Trivia.md",
@@ -142,8 +145,6 @@
     "/Notizen/Kraftlinien.md",
     "/Notizen/Klostertheorie.md",
     "/Geschichte.md",
-    "Notizen/2. Zeichen Das wandelndene Bild.md",
-    "Notizen/1. Zeichen Das alamadine Auge.md",
     "/Notizen/2. Zeichen Das wandelndene Bild.md",
     "/Notizen/1. Zeichen Das alamadine Auge.md",
     "/Notizen/Träume.md",
