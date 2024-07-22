@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notizen/Klostertheorie.md",
+                "file": "Prophezeihung und Deutung.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notizen/Klostertheorie.md",
+            "file": "Prophezeihung und Deutung.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notizen/Klostertheorie.md",
+            "file": "Prophezeihung und Deutung.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notizen/Klostertheorie.md"
+            "file": "Prophezeihung und Deutung.md"
           }
         }
       }
@@ -133,12 +133,23 @@
   },
   "active": "94e3c7c10cdf3b99",
   "lastOpenFiles": [
+    "Personen.md",
+    "Die Gezeichneten.md",
+    "Geschichte.md",
+    "Borbarad.md",
+    "Notizen/Vampire.md",
+    "Notizen/Trivia.md",
+    "Notizen/Träume.md",
+    "Notizen/Post Gier.md",
+    "Notizen/offen Fäden.md",
+    "Notizen/Money.md",
+    "Notizen/Lore.md",
+    "Notizen/Kraftlinien.md",
+    "Notizen/Klostertheorie.md",
     "Notizen/Borbaradianer.md",
     "Notizen/2. Zeichen Das wandelndene Bild.md",
     "Notizen/1. Zeichen Das alamadine Auge.md",
-    "Notizen/Klostertheorie.md",
     "/Notizen",
-    "Notizen/Trivia.md",
     "/Personen.md",
     "/Notizen/Trivia.md",
     "/Notizen/Lore.md",
@@ -149,17 +160,6 @@
     "/Notizen/1. Zeichen Das alamadine Auge.md",
     "/Notizen/Träume.md",
     "/Notizen/Money.md",
-    "/Die Gezeichneten.md",
-    "/Borbarad.md",
-    "Notizen/offen Fäden.md",
-    "Notizen/Drittes Zeichen.md",
-    "/Prophezeihung und Deutung.md",
-    "/Notizen/offen Fäden.md",
-    "/Notizen/Zweites Zeichen.md",
-    "/Notizen/Drittes Zeichen.md",
-    "/Notizen/Das alamadine Auge.md",
-    "/Notizen/Borbaradianer.md",
-    "Prophezeihung und Deutung.md",
     "Notizen"
   ]
 }
