@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prophezeihung und Deutung.md",
+                "file": "Personen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Prophezeihung und Deutung.md",
+            "file": "Personen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Prophezeihung und Deutung.md",
+            "file": "Personen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Prophezeihung und Deutung.md"
+            "file": "Personen.md"
           }
         }
       }
@@ -133,6 +133,7 @@
   },
   "active": "94e3c7c10cdf3b99",
   "lastOpenFiles": [
+    "Prophezeihung und Deutung.md",
     "Personen.md",
     "Die Gezeichneten.md",
     "Geschichte.md",
@@ -159,7 +160,6 @@
     "/Notizen/2. Zeichen Das wandelndene Bild.md",
     "/Notizen/1. Zeichen Das alamadine Auge.md",
     "/Notizen/Träume.md",
-    "/Notizen/Money.md",
     "Notizen"
   ]
 }
