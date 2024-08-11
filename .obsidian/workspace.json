@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "f90ae3f85df825a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notizen/Über Proben.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ae7787a2dfb6e226",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notizen/Offtime.md",
+                "file": "Notizen/Über Proben.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notizen/Offtime.md",
+                "file": "Notizen/Über Proben.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notizen/Offtime.md"
+                "file": "Notizen/Über Proben.md"
               }
             }
           }
@@ -157,10 +170,11 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "5b27913f37ffb1d2",
+  "active": "f90ae3f85df825a0",
   "lastOpenFiles": [
-    "Notizen/Trivia.md",
     "Notizen/Offtime.md",
+    "Notizen/Über Proben.md",
+    "Notizen/Trivia.md",
     "Geschichte.md",
     "Notizen/Lore.md",
     "Notizen/3. Zeichen ? Krötensinn ?.md",
@@ -185,7 +199,6 @@
     "Untitled.md",
     "Externes/Geburtstagsgeschenk.md",
     "Externes",
-    "Kraftlinien.md",
     "Notizen",
     "Unbenannt.canvas"
   ]
