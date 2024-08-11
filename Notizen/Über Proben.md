@@ -22,7 +22,8 @@ Tauchen gepatzt und meisterlich zusammen in einer Probe auf wiederholen wir meis
 | 20   | nicht erfolgreich | potenziell gepatzt        |
 ## Meine Meinung
 Aufgeschrieben sehe ich jetzt glaube ich den Punkt der mich am meisten stört:
-Eine 20 mit erfolgreichem Bestätigungswurf (also ein angewendeter Patzer) ist immer noch ein Fehlschlag der Gesamtprobe.  Wenn wir weiter mit der Hausregel spielen, sollten wir in diesem Fall zumindest erlauben den 20er Wurf regulär mit Talentpunkten auszugleichen, ihn also wie eine nicht bestätigte 1 als regulären Wurf betrachten.
+Eine 20 mit erfolgreichem Bestätigungswurf (also ein angewendeter Patzer) ist immer noch ein Fehlschlag der Gesamtprobe. 
+Wenn wir weiter mit der Hausregel spielen, sollten wir in diesem Fall zumindest erlauben den 20er Wurf regulär mit Talentpunkten auszugleichen, ihn also wie eine nicht bestätigte 1 als regulären Wurf betrachten.
  **Bsp:** *Andrew macht eine Magiekunde (KL KL IN) Probe mit TaW 12, KL 14 und IN 16. Er würfelt 12 (ok), 15 (er setzt einen Punkt ein, es bleiben 11 TaP\*), 20. Ein Patzer liegt in der Luft kann aber mit einer gewürfelten 16 ohne weiteres abgewendet werden. Er benötigt noch 4 Punkte um die 20 auszugleichen und beendet die Probe mit 7 TaP\*.*
 
 | Wurf | Bestätigungswurf  | Resultat                              |
