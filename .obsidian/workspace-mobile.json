@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Offtime.md",
+                "file": "Notizen/Lore.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Offtime.md",
+            "file": "Notizen/Lore.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Offtime.md",
+            "file": "Notizen/Lore.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Offtime.md"
+            "file": "Notizen/Lore.md"
           }
         }
       }
@@ -146,12 +146,12 @@
   },
   "active": "098bf5bd3c47ffaa",
   "lastOpenFiles": [
-    "Notizen/Lore.md",
+    "Notizen/Trivia.md",
     "Offtime.md",
+    "Notizen/Lore.md",
     "Notizen/Kraftlinien.md",
     "Notizen/Post Gier.md",
     "Notizen/offen Fäden.md",
-    "Notizen/Trivia.md",
     "Notizen/Träume.md",
     "Notizen/Money.md",
     "Personen.md",
