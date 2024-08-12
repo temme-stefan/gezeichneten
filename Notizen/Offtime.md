@@ -4,3 +4,5 @@ Studium/Forschung [Kraftlinien](Notizen/Kraftlinien.md), ggf. [Dschelef Ibn Jass
 Studium/Forschung [Mysterium von Kha](lore#Mysterium%20von%20Kha)-> Spezialisierung?
 Alltag:
 Mehr Interesse an aktueller Politik/Entwicklung. Welche Talente?
+
+Anschaffung: 
