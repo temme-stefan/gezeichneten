@@ -5,4 +5,6 @@ Studium/Forschung [Mysterium von Kha](lore#Mysterium%20von%20Kha)-> Spezialisier
 Alltag:
 Mehr Interesse an aktueller Politik/Entwicklung. Welche Talente?
 
-Anschaffung: 
+Sternkunde? Parallele Konstellationen in naher Zukunft zu früher finden. 
+
+Geld eintreiben
