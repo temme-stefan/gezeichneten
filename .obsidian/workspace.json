@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frag den Meister/Fragen.md",
+                "file": "Andrew/Magie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frag den Meister/Fragen.md",
+                "file": "Andrew/Magie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frag den Meister/Fragen.md"
+                "file": "Andrew/Magie.md"
               }
             }
           }
@@ -194,12 +194,12 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "83bddbd87af2867f",
+  "active": "ae7787a2dfb6e226",
   "lastOpenFiles": [
+    "Frag den Meister/Fragen.md",
     "Andrew/Magie.md",
     "Andrew/Steigern.md",
     "Geschichte.md",
-    "Frag den Meister/Fragen.md",
     "Frag den Meister/Über Proben.md",
     "Andrew/Offtime.md",
     "Frag den Meister",

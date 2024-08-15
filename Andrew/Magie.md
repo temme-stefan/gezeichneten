@@ -34,7 +34,7 @@
 * Psychostabilis: Sowas in einem Artefakt...Mag unter Umständen ssinnvoll sein, aber Mut...
 * Resposami: Nö... Mut und so
 * Schadenszauber bannen: Wie soll damit ein Fulminictus oder Ignifaxius gebannt werden. Ein Kulminatio vielleicht... Und Mut....
-* Wand aus Flammen: 
+* Wand aus Flammen: Mut
 
 
 
