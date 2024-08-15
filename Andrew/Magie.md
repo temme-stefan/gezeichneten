@@ -12,3 +12,4 @@ Hinweis: ZfP* < ZfW
 * Zauberdauer halbieren: -5 ZfP
 * Zauberdauer erzwingen: +n ZfP für 2<sup>n-1</sup> AsP und +n Aktionen
 * Astralenergie sparen: -3\*n ZfP für -n/10 * Basis Asp und +n Aktionen
+* Wirkungsdauer verdoppeln: -7 ZfP je Verdopplung
