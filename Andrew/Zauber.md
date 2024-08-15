@@ -1,1 +1,1 @@
-* Adamantium: 
+* Adamantium: 40 Aktionen!
