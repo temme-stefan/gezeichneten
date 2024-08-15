@@ -8,4 +8,5 @@ Prüfe Stab: weiteres Ritual oder apport?
 
 Zauber:
 Attributo 10-> 11 für Modifikation Schnellsteigerung
+Dupplicatus 6->7 für 2 Doppelgänger
 
