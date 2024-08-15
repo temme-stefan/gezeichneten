@@ -20,7 +20,9 @@
 * Flim Flam: Licht bis zu Tageslicht. Helligkeit ZfP* abhängig, kann per ASP verstärkt werden.
 * Foramen: könnte man Steigern, ist ja Hellsicht also nur noch B
 * Fortifex: könnte mit ZFW 11 und Adrew goes Martial Interessant werden (Schimmernder Schild). Dann Kandidat für Stabzauber (Armatrutz, Stabzauber, Flammenschwert, Nahkampf)
-* Fulminictus: 2W6 + ZfP* Schaden, 1 Asp je Schaden, modifikationen Murks
+* Fulminictus: 2W6 + ZfP* Schaden, 1 Asp je Schaden, Modifikationen Murks, keine Kostenmodifikation möglich. Stabzauber?
+* Guardianum: gegen Magier sofort Zaubern
+* 
 
 
 
