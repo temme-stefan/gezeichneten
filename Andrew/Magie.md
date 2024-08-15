@@ -29,8 +29,8 @@
 * ~~Last des Alters: Finger weg hier von. Der tötet meinen Helden~~
 * Oculus: Über Auge, auf jeden Fall weiter nutzen, zur Kraftlinien Forschung
 * Odem: Brauch ich den noch? Hohe Kenntniss hier erklärt aber guten Umgang mit dem Oculus
-* Paralysis: Hauptanwendung vermutlich Selbstrettung
-* Plumbunbarum
+* Paralysis: Hauptanwendung vermutlich Selbstrettung, Verzweifelt einzelnen aus dem Kampf nehmen
+* Plumbumbarum: Debuff gegen mehrere, Sinnvoll wenn Blitz nicht geht
 * Psychostabilis
 * Resposami
 * Schadenszauber bannen
