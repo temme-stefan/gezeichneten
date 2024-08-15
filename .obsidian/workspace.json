@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andrew/Magie.md",
+                "file": "Notizen/Offtime.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andrew/Magie.md",
+                "file": "Notizen/Offtime.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Andrew/Magie.md",
+                "file": "Notizen/Offtime.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Andrew/Magie.md"
+                "file": "Notizen/Offtime.md"
               }
             }
           }
@@ -184,9 +184,10 @@
   },
   "active": "e1bd75bc25882042",
   "lastOpenFiles": [
+    "Notizen/Post Gier.md",
+    "Andrew/Magie.md",
     "Unbenannt",
     "Notizen/Über Proben.md",
-    "Andrew/Magie.md",
     "Andrew",
     "Notizen/Offtime.md",
     "Notizen/Trivia.md",
@@ -204,7 +205,6 @@
     "Die Gezeichneten.md",
     "Notizen/Vampire.md",
     "Notizen/Träume.md",
-    "Notizen/Post Gier.md",
     "Notizen/offen Fäden.md",
     "Notizen/Money.md",
     "Notizen/Geschehnisse im Kloster.md",
