@@ -10,7 +10,7 @@
 * Balsam: Heilung daher D und keine spontanen Modifikationen sonst mit Zauberdauer und Kosten sparen --> schlechte Entscheidung, Magier heilen besser als Elfen
 * Beherschung brechen. 40 Aktionen Antimagie
 * ~~Beschwörung vereiteln: Sogar relativ ok mit 15 Runden. Allerdings sind bei uns die Dämonenbeschwörer immer schon weg/tot. Für mich unnütz wegen zögerlicher Zauberer.~~
-* 
+* Blitz dich find: gekauft, 
 
 
 
