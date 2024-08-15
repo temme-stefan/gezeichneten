@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andrew/Magie.md",
+                "file": "Andrew/Steigern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Andrew/Magie.md",
+                "file": "Andrew/Steigern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Andrew/Magie.md"
+                "file": "Andrew/Steigern.md"
               }
             }
           }
@@ -194,13 +194,13 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "ae7787a2dfb6e226",
+  "active": "e1bd75bc25882042",
   "lastOpenFiles": [
+    "Andrew/Magie.md",
+    "Andrew/Steigern.md",
     "Geschichte.md",
     "Frag den Meister/Fragen.md",
     "Frag den Meister/Über Proben.md",
-    "Andrew/Steigern.md",
-    "Andrew/Magie.md",
     "Andrew/Offtime.md",
     "Frag den Meister",
     "Notizen/Post Gier.md",
