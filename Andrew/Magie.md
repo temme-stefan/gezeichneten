@@ -8,7 +8,7 @@
 * Auris Nasus: überlassen wir den Illusionisten
 * Axxeleratus: schon cool. Kann ich nicht, kann Findurian den?
 * Balsam: Heilung daher D und keine spontanen Modifikationen sonst mit Zauberdauer und Kosten sparen --> schlechte Entscheidung, Magier heilen besser als Elfen
-* 
+* Beherschung brechen. 40 Aktionen Antimagie
 
 
 
