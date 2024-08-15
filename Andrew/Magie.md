@@ -17,7 +17,7 @@
 * Desintegratus: 30 Asp. um eine Tür zu öffnen...
 * Duplicatus: eigentlich ganz cool. aber Illusion
 * Eisenrost: Überzeugt mich nicht ist aber ein temporalzauber, falls Metamagie
-* Flim Flam: Licht bis zu Tageslicht. in meinem Liber 
+* Flim Flam: Licht bis zu Tageslicht. Helligkeit ZfP* abhängig, kann per ASP verstärkt werden.
 
 
 
