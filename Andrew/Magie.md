@@ -28,7 +28,13 @@
 * ~~Kulminato: Der könnte mal als Belohnung droppen, bzw ein geneigter Lehrmeister. Nichts was ich einfach so bekommen will ~~
 * ~~Last des Alters: Finger weg hier von. Der tötet meinen Helden~~
 * Oculus: Über Auge, auf jeden Fall weiter nutzen, zur Kraftlinien Forschung
-* Odem: 
+* Odem: Brauch ich den noch? Hohe Kenntniss hier erklärt aber guten Umgang mit dem Oculus
+* Paralysis: 
+* Plumbunbarum
+* Psychostabilis
+* Resposami
+* Schadenszauber bannen
+* Wand aus Flammen
 
 
 
