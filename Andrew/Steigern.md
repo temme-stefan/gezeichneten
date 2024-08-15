@@ -6,6 +6,3 @@ Sternkunde: Versuch einer Möglichkeit Ereignisse vorherzusagen (12 Götter gef�
 Pysical training: Schwerter und physiche Attribute "überkommen der Schwäche" und "günstige TP"
 
 
-## Fragen an den Meister
-* Erkläre mir Schildkampf
-* Wie gehen wir mit Offtime Punkten um? Sinnvoll halte ich recherchepunkte für sie Kampagne, ungern wenn die zu Lasten des Chars gehen.
