@@ -13,7 +13,8 @@
 * Blitz dich find: gekauft, nicht gegen Untote, Dämonen, Elementare, Spontan mehrere Personen: max MR + Anzahl Gegner
 * Corpofrigo: miese Attribute, gut gegen Humus,Feuer, Wasser ansonsten solide debuff + schaden
 * Cryptographo: Utility, nichts für mich
-* 
+* Custodosigil: s.o.
+* Desintegratus: 
 
 
 
