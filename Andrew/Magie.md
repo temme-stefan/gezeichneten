@@ -32,9 +32,9 @@
 * Paralysis: Hauptanwendung vermutlich Selbstrettung, Verzweifelt einzelnen aus dem Kampf nehmen
 * Plumbumbarum: Debuff gegen mehrere, Sinnvoll wenn Blitz nicht geht
 * Psychostabilis: Sowas in einem Artefakt...Mag unter Umständen ssinnvoll sein, aber Mut...
-* Resposami
-* Schadenszauber bannen
-* Wand aus Flammen
+* Resposami: Nö... Mut und so
+* Schadenszauber bannen: Wie soll damit ein Fulminictus oder Ignifaxius gebannt werden. Ein Kulminatio vielleicht... Und Mut....
+* Wand aus Flammen: 
 
 
 
