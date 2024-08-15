@@ -27,6 +27,7 @@
 * Invercano: !!!F!!! Warten wir mal, wann mir der Guardianum nicht mehr reicht.
 * ~~Kulminato: Der könnte mal als Belohnung droppen, bzw ein geneigter Lehrmeister. Nichts was ich einfach so bekommen will ~~
 * ~~Last des Alters: Finger weg hier von. Der tötet meinen Helden~~
+* Oculus: Über Auge, auf jeden Fall weiter nutzen, zur Kraftlinien Forschung
 * Odem: 
 
 
