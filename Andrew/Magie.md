@@ -6,9 +6,11 @@
 * Armatrutz, max RS ZfW/2 für RS\*RS -ZfP*/2 Asp, m,in 4 Asp, SM: Berührung: -1 ZfP (schon halbiert) gelingt im Schnitt mit vollen ZfP also nicht unter 4 RS ansetzen für 16-8-1 Asp
 * Attributo: vorbereitend aber eine Stunde Wirkung ZfP*/3 auf gewähltes Attribut (nicht Mut nehmen dann -5 auf die Probe), GE oder KK falls Nahkämpfer, IN falls Fernkämpfer, vorher rechnen, ob der Basiswert sich erhöht. Modifikation Schnellsteigerung ab TaW 11 interessant (KK+8 klingt schon nett)
 * Auris Nasus: überlassen wir den Illusionisten
-* Axxeleratus: schon cool. Kann ich nicht, kann Findurian den?
+* ~~Axxeleratus: schon cool. Kann ich nicht, kann Findurian den?~~
 * Balsam: Heilung daher D und keine spontanen Modifikationen sonst mit Zauberdauer und Kosten sparen --> schlechte Entscheidung, Magier heilen besser als Elfen
 * Beherschung brechen. 40 Aktionen Antimagie
+* ~~Beschwörung vereiteln: Sogar relativ ok mit 15 Runden. Allerdings sind bei uns die Dämonenbeschwörer immer schon weg/tot. Für mich unnütz wegen zögerlicher Zauberer.~~
+* 
 
 
 
