@@ -6,3 +6,6 @@ Sternkunde: Versuch einer Möglichkeit Ereignisse vorherzusagen (12 Götter gef�
 Pysical training: Schwerter und physiche Attribute "überkommen der Schwäche" und "günstige TP"
 
 
+Zauber:
+Attributo 10-> 11 für 
+

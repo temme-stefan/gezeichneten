@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andrew/Magie.md",
+                "file": "Andrew/Steigern.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andrew/Magie.md",
+                "file": "Andrew/Steigern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Andrew/Magie.md",
+                "file": "Andrew/Steigern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Andrew/Magie.md"
+                "file": "Andrew/Steigern.md"
               }
             }
           }
@@ -196,8 +196,8 @@
   },
   "active": "83bddbd87af2867f",
   "lastOpenFiles": [
-    "Andrew/Steigern.md",
     "Andrew/Magie.md",
+    "Andrew/Steigern.md",
     "Frag den Meister/Fragen.md",
     "Frag den Meister/Über Proben.md",
     "Frag den Meister",
