@@ -7,7 +7,7 @@
 * Attributo: vorbereitend aber eine Stunde Wirkung ZfP*/3 auf gewähltes Attribut (nicht Mut nehmen dann -5 auf die Probe), GE oder KK falls Nahkämpfer, IN falls Fernkämpfer, vorher rechnen, ob der Basiswert sich erhöht. Modifikation Schnellsteigerung ab TaW 11 interessant (KK+8 klingt schon nett)
 * Auris Nasus: überlassen wir den Illusionisten
 * Axxeleratus: schon cool. Kann ich nicht, kann Findurian den?
-* Balsam: 
+* Balsam: Hailung daher D und keine spontanen Modifikationen.
 
 
 
