@@ -11,7 +11,9 @@
 * Beherschung brechen. 40 Aktionen Antimagie
 * ~~Beschwörung vereiteln: Sogar relativ ok mit 15 Runden. Allerdings sind bei uns die Dämonenbeschwörer immer schon weg/tot. Für mich unnütz wegen zögerlicher Zauberer.~~
 * Blitz dich find: gekauft, nicht gegen Untote, Dämonen, Elementare, Spontan mehrere Personen: max MR + Anzahl Gegner
-* Corpofrigo: miese Attribute, gut gegen Humus,Feuer Wasser
+* Corpofrigo: miese Attribute, gut gegen Humus,Feuer, Wasser ansonsten solide debuff + schaden
+* Cryptographo: Utility, nichts für mich
+* 
 
 
 
