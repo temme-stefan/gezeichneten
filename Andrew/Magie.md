@@ -18,6 +18,9 @@
 * Duplicatus: eigentlich ganz cool. aber Illusion
 * Eisenrost: Überzeugt mich nicht ist aber ein temporalzauber, falls Metamagie
 * Flim Flam: Licht bis zu Tageslicht. Helligkeit ZfP* abhängig, kann per ASP verstärkt werden.
+* Foramen: könnte man Steigern, ist ja Hellsicht also nur noch B
+* Fortifex: könnte mit ZFW 11 und Adrew goes Martial Interessant werden (Schimmernder Schild). Dann Kandidat für Stabzauber (Armatrutz, Stabzauber, Flammenschwert, Nahkampf)
+* 
 
 
 
