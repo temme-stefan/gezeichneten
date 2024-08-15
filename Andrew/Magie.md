@@ -24,7 +24,10 @@
 * Guardianum: gegen Magier sofort Zaubern, Dämonenschild!
 * ~~Gefäß der Jahre: Hier hätten wir noch eine Möglichkeit wie Andrew mit dem Altern umgehne könnte~~
 * Ignifaxius: Flammenlanze, Ansage: ZfP W6 Feuerschaden als TP, macht Rüstung ggf. kaputt (je 10 TP 1 RS) . Stabzauber?
-* Invercano: 
+* Invercano: !!!F!!! Warten wir mal, wann mir der Guardianum nicht mehr reicht.
+* ~~Kulminato: Der könnte mal als Belohnung droppen, bzw ein geneigter Lehrmeister. Nichts was ich einfach so bekommen will ~~
+* ~~Last des Alters: Finger weg hier von. Der tötet meinen Helden~~
+* Odem: 
 
 
 
