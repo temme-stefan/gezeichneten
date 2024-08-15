@@ -23,7 +23,8 @@
 * Fulminictus: 2W6 + ZfP* Schaden, 1 Asp je Schaden, Modifikationen Murks, keine Kostenmodifikation möglich. Stabzauber?
 * Guardianum: gegen Magier sofort Zaubern, Dämonenschild!
 * ~~Gefäß der Jahre: Hier hätten wir noch eine Möglichkeit wie Andrew mit dem Altern umgehne könnte~~
-* Ignifaxius: Flammenlanze ZfP W6 Feuerschaden gegen Rüstung. Stabzauber?
+* Ignifaxius: Flammenlanze, Ansage: ZfP W6 Feuerschaden als TP, macht Rüstung ggf. kaputt (je 10 TP 1 RS) . Stabzauber?
+* Invercano: 
 
 
 
