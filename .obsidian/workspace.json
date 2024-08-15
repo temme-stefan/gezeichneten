@@ -61,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geschichte.md",
+                "file": "Andrew/Magie.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frag den Meister/Fragen.md",
+                "file": "Andrew/Magie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frag den Meister/Fragen.md",
+                "file": "Andrew/Magie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frag den Meister/Fragen.md"
+                "file": "Andrew/Magie.md"
               }
             }
           }
@@ -194,20 +194,20 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "83bddbd87af2867f",
+  "active": "ae7787a2dfb6e226",
   "lastOpenFiles": [
-    "Andrew/Magie.md",
-    "Andrew/Steigern.md",
-    "Andrew/Offtime.md",
+    "Geschichte.md",
     "Frag den Meister/Fragen.md",
     "Frag den Meister/Über Proben.md",
+    "Andrew/Steigern.md",
+    "Andrew/Magie.md",
+    "Andrew/Offtime.md",
     "Frag den Meister",
     "Notizen/Post Gier.md",
     "Notizen/Vampire.md",
     "Notizen/Borbaradianer.md",
     "Andrew",
     "Notizen/Trivia.md",
-    "Geschichte.md",
     "Notizen/Lore.md",
     "Notizen/3. Zeichen ? Krötensinn ?.md",
     "Personen.md",
