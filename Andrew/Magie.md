@@ -7,7 +7,7 @@
 * Attributo: vorbereitend aber eine Stunde Wirkung ZfP*/3 auf gewähltes Attribut (nicht Mut nehmen dann -5 auf die Probe), GE oder KK falls Nahkämpfer, IN falls Fernkämpfer, vorher rechnen, ob der Basiswert sich erhöht. Modifikation Schnellsteigerung ab TaW 11 interessant (KK+8 klingt schon nett)
 * Auris Nasus: überlassen wir den Illusionisten
 * Axxeleratus: schon cool. Kann ich nicht, kann Findurian den?
-* Balsam: Hailung daher D und keine spontanen Modifikationen.
+* Balsam: Heilung daher D und keine spontanen Modifikationen sonst mit Zauberduaer und Kosten sparen
 
 
 
@@ -16,5 +16,5 @@ Hinweis: ZfP* < ZfW
 * Zauberdauer verdoppeln: +4 ZfP (Gildenmagier)
 * Zauberdauer halbieren: -5 ZfP
 * Zauberdauer erzwingen: +n ZfP für 2<sup>n-1</sup> AsP und +n Aktionen
-* Astralenergie sparen: -3\*n ZfP für -n/10 * Basis Asp und +n Aktionen
+* Kosten sparen: -3\*n ZfP für -n/10 * Basis Asp und +n Aktionen
 * Wirkungsdauer verdoppeln: -7 ZfP je Verdopplung + 1 Aktion
