@@ -14,7 +14,8 @@
 * Corpofrigo: miese Attribute, gut gegen Humus,Feuer, Wasser ansonsten solide debuff + schaden
 * Cryptographo: Utility, nichts für mich
 * Custodosigil: s.o.
-* Desintegratus: 
+* Desintegratus: 30 Asp. um eine Tür zu öffnen...
+* 
 
 
 
