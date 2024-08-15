@@ -15,7 +15,7 @@
 * Cryptographo: Utility, nichts für mich
 * Custodosigil: s.o.
 * Desintegratus: 30 Asp. um eine Tür zu öffnen...
-* 
+* Duplicatus: eigentlich ganz cool.
 
 
 
