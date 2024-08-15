@@ -7,5 +7,5 @@ Pysical training: Schwerter und physiche Attribute "überkommen der Schwäche" u
 
 
 Zauber:
-Attributo 10-> 11 für 
+Attributo 10-> 11 für Modifikation Schnellsteigerung
 
