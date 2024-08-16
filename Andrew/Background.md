@@ -5,3 +5,4 @@ Als Andrews magische Begabung zu Tage kam, wurden beträchtliche Mittel und Gefa
 Andrews Mutter, Kriegerin im Ruhestand, starb im Orkensturm als sie sich den Verteidigungstruppen anschloss.
 Seitdem hat sich Andrews Vater mehr und mehr von den Geschäften zurückgezogen und überlässt Agathe die Geschäfte. Zufrieden pflegt er den kleinen Rosengarten, den er für seine Frau einst anlegte.
 Andrew verbringt seine Zeit meist im Stadthaus, da er dort seine Ruhe hat. Wenn nicht gerade gesellschaftliche Events anstehen, leben nur nur Gwen und Tate in dem Haus und halten es in Schuss. Das ältere Ehepaar ist selbst kinderlos, und liebt alle drei Kinder von Herzen. 
+In Beilunk hat Andrew keine Zimmer permanent gemietet. 
