@@ -12,6 +12,15 @@ Dupplicatus 6->7 für 2 Doppelgänger
 Ignifaxius 10 -> 11 für Varianten und Sicherheit
 
 ## Kosten
+### Free:
++3 pAsp
+### Spezielle Erfahrung:
+Magiekunde (b->)
+Geografie
+Baukunst
+Götter & Kulte 
+
+
 Klugheit 14 -> 15: 410
 
 
