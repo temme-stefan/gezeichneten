@@ -11,3 +11,6 @@ Attributo 10-> 11 für Modifikation Schnellsteigerung
 Dupplicatus 6->7 für 2 Doppelgänger
 Ignifaxius 10 -> 11 für Varianten und Sicherheit
 
+Kosten:
+
+
