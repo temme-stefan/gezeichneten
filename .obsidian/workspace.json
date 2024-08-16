@@ -61,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andrew/Steigern.md",
+                "file": "Andrew/Magie.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,12 +194,12 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "ae7787a2dfb6e226",
+  "active": "e1bd75bc25882042",
   "lastOpenFiles": [
     "Andrew/Magie.md",
+    "Andrew/Steigern.md",
     "Andrew/Background.md",
     "Frag den Meister/Fragen.md",
-    "Andrew/Steigern.md",
     "Geschichte.md",
     "Frag den Meister/Über Proben.md",
     "Andrew/Offtime.md",

@@ -3,7 +3,7 @@
 	* Fazit: vor ZfW 7 nicht nutzen, dann Gruppe auf Ersatzwaffen hinweisen
 * Adlerauge: 4-1-1 Asp, 5 Aktionen. Cool. Ggf Kombinierbar mit Okkulus um Kraftlinien/Nodices zu finden/spionieren? Schnitt 8 über also macht Variante mit Einzelsinn (-4 ZfP*) für doppelt wenig Sinn. 
 * Analys, eher uninteressant, wird über D (also C) gesteigert
-* Armatrutz, max RS ZfW/2 für RS\*RS -ZfP*/2 Asp, m,in 4 Asp, SM: Berührung: -1 ZfP (schon halbiert) gelingt im Schnitt mit vollen ZfP also nicht unter 4 RS ansetzen für 16-8-1 Asp
+* Armatrutz, max RS ZfW/2 für RS\*RS -ZfP*/2 Asp, m,in 4 Asp, SM: Berührung: -1 ZfP (schon halbiert) gelingt im Schnitt mit vollen ZfP also nicht unter 4 RS ansetzen für 16-7-1 Asp
 * Attributo: vorbereitend aber eine Stunde Wirkung ZfP*/3 auf gewähltes Attribut (nicht Mut nehmen dann -5 auf die Probe), GE oder KK falls Nahkämpfer, IN falls Fernkämpfer, vorher rechnen, ob der Basiswert sich erhöht. Modifikation Schnellsteigerung ab TaW 11 interessant (KK+8 klingt schon nett)
 * Auris Nasus: überlassen wir den Illusionisten
 * ~~Axxeleratus: schon cool. Kann ich nicht, kann Findurian den?~~
