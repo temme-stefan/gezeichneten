@@ -15,9 +15,9 @@ Ignifaxius 10 -> 11 für Varianten und Sicherheit
 ### Free:
 +3 pAsp
 ### Spezielle Erfahrung:
-Magiekunde (b->)
-Geografie
-Baukunst
+Magiekunde (B-> A 12 -> 13): 17
+Geografie (B -> A 11 -> 12):16
+Baukunst (B-> A Aktivierung für TaW 0)
 Götter & Kulte 
 
 
