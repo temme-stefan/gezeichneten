@@ -1,0 +1,3 @@
+Mir ist aufgefallen das Andrew keinen Hintergrund hat. Das will ich jetzt mal ändern. 
+Andrews Familie gehört dem Stadtadel von Gareth seit einigen Generationen an. Dazu gehören Besitztümer außerhalb von Gareth (Wälder und drei Bauernhöfe, ein Landgut) sowie ein Stadthaus für gesellschaftliche Anlässe.
+Von den drei Geschwistern hat sich seine ältere Schwester als diejenige herausgestellt, die Besitztümer zu verwalten. Sein jüngerer Bruder 
