@@ -1,7 +1,7 @@
 Mir ist aufgefallen das Andrew keinen Hintergrund hat. Das will ich jetzt mal ändern. 
 Andrews Familie gehört dem Stadtadel von Gareth seit einigen Generationen an. Dazu gehören Besitztümer außerhalb von Gareth (Wälder und drei Bauernhöfe, ein Landgut) sowie ein Stadthaus für gesellschaftliche Anlässe.
-Von den drei Geschwistern hat sich seine ältere Schwester Agathe als diejenige herausgestellt, die Besitztümer zu verwalten. Für seinen jüngerer Bruder wurde eine Karriere in der Rondrakirche bestimmt. Auch wenn er kämpferisch nicht unbegabt ist, hat er in sich nicht den Ruf der Löwin gespürt und dient im Tempel Sankt-Ardare-Sakrale zu Gareth als Proviantmeister.
-Als Andrews magische Begabung zu Tage kam, wurden beträchtliche Mittel und Gefallen genutzt in in Beilunk einzuschreiben, trotz seines kränklichen Aussehen.
+Von den drei Geschwistern hat sich seine ältere Schwester Agathe als diejenige herausgestellt, die Besitztümer zu verwalten. Für seinen jüngerer Bruder Aldirk wurde eine Karriere in der Rondrakirche bestimmt. Auch wenn dieser kämpferisch nicht unbegabt war, hatte er in sich nie den Ruf der Löwin gespürt und dient im Tempel Sankt-Ardare-Sakrale zu Gareth als Proviantmeister.
+Als Andrews magische Begabung zu Tage kam, wurden beträchtliche Mittel und Gefallen genutzt ihn in Beilunk einzuschreiben, trotz seines kränklichen Aussehen.
 Andrews Mutter, Kriegerin im Ruhestand, starb im Orkensturm als sie sich den Verteidigungstruppen anschloss.
-Seitdem hat sich Andrews Vater mehr und mehr von den Geschäften zurückgezogen und überlässt Agathe die Geschäfte. Er kommt auch nicht mehr in die Stadt.
-Andrew verbringt seine Zeit meist im Stadthaus, da er dort seine Ruhe hat. 
+Seitdem hat sich Andrews Vater mehr und mehr von den Geschäften zurückgezogen und überlässt Agathe die Geschäfte. Zufrieden pflegt er den kleinen Rosengarten, den er für seine Frau einst anlegte.
+Andrew verbringt seine Zeit meist im Stadthaus, da er dort seine Ruhe hat. Wenn nicht gerade gesellschaftliche Events anstehen, leben nur nur Gwen und Tate in dem Haus und halten es in Schuss. Das ältere Ehepaar ist selbst kinderlos, und liebt alle drei Kinder von Herzen. 
