@@ -17,10 +17,10 @@ Ignifaxius 10 -> 11 für Varianten und Sicherheit
 ### Spezielle Erfahrung:
 Magiekunde (B-> A 12 -> 13): 17
 Geografie (B -> A 11 -> 12):16
-Baukunst (B-> A Aktivierung für TaW 0)
-Götter & Kulte 
+Baukunst (B-> A Aktivierung Stufe 11) :14
+Götter & Kulte (B-> A 9 -> 10):13 
 
 
-Klugheit 14 -> 15: 410
+Klugheit (H 14 -> 15): 410
 
 
