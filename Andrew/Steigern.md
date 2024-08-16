@@ -12,6 +12,7 @@ Dupplicatus 6->7 für 2 Doppelgänger
 Ignifaxius 10 -> 11 für Varianten und Sicherheit
 
 ## Kosten
+Ab 6600 Stufe 12 also erst aktivieren :)
 ### Free:
 +3 pAsp
 ### Spezielle Erfahrung:
