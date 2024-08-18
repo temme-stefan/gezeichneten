@@ -16,14 +16,14 @@ Ab 6600 Stufe 12 also erst aktivieren :)
 ### Free:
 +3 pAsp
 ### Spezielle Erfahrung:
-Magiekunde (B-> A 12 -> 13): 17
-Geografie (B -> A 11 -> 12):16
-Malen/Zeichnen (B  4->5): 11 für Baukunst
-Baukunst (B-> A Aktivierung Stufe 11) :14
-Götter & Kulte (B-> A 9 -> 10):13 
+* Magiekunde (B-> A 12 -> 13): 17
+* Geografie (B -> A 11 -> 12):16
+* Malen/Zeichnen (B  4->5): 11 für Baukunst
+* Baukunst (B-> A Aktivierung Stufe 11) :14
+* Götter & Kulte (B-> A 9 -> 10):13 
 
 ### Sonstiges:
-Schwerter: (E 8-> 10): 55+65
-Klugheit (H 14 -> 15): 410
++ Schwerter: (E 8-> 10): 55+65
++ Klugheit (H 14 -> 15): 410
 
 
