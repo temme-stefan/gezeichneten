@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frag den Meister/Über Proben.md",
+                "file": "Frag den Meister/Andrew wieder spielbar machen.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,19 +37,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frag den Meister/Fragen.md",
+                "file": "Andrew/Magie.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "0bd1c2010bb0376f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
               }
             }
           },
@@ -78,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frag den Meister/Fragen.md",
+                "file": "Frag den Meister/Andrew wieder spielbar machen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frag den Meister/Fragen.md",
+                "file": "Frag den Meister/Andrew wieder spielbar machen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frag den Meister/Fragen.md"
+                "file": "Frag den Meister/Andrew wieder spielbar machen.md"
               }
             }
           }
@@ -204,14 +194,15 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "0bd1c2010bb0376f",
+  "active": "f90ae3f85df825a0",
   "lastOpenFiles": [
+    "Frag den Meister/Über Proben.md",
+    "Andrew/Magie.md",
+    "Frag den Meister/Andrew wieder spielbar machen.md",
+    "Frag den Meister/Fragen.md",
     "Andrew/Steigern.md",
     "Geschichte.md",
-    "Andrew/Magie.md",
     "Andrew/Background.md",
-    "Frag den Meister/Fragen.md",
-    "Frag den Meister/Über Proben.md",
     "Andrew/Offtime.md",
     "Frag den Meister",
     "Notizen/Post Gier.md",
@@ -233,7 +224,6 @@
     "Notizen/offen Fäden.md",
     "Notizen/Money.md",
     "Notizen/Geschehnisse im Kloster.md",
-    "conflict-files-obsidian-git.md",
     "Externes",
     "Notizen",
     "Unbenannt.canvas"
