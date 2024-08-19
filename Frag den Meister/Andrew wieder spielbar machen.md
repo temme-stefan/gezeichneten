@@ -6,5 +6,6 @@
 
 ## Lösungsansätze
 * schnelles Altern streichen und ebenso besonderer Besitz. Beides 3GP und letzteres haben wir nie ausgespielt oder festgelegt was es ist. "irgendwas besonderes am Stab" entspricht auch nicht einem Pferd. Damit würde Andrew immer noch in der Alterstufe 45+ sein, aber wir würden uns im Verlustbereich ~350 AP bewegen und nicht 1200 AP-2200 AP. Und nur minimaler Konsistenzbruch, den man vielleicht durch Stress/Krankheit im letzten Abenteuer erklären könnte.
-* Unfähigkeit Heilung ist das kleinere Übel. Würde ich jetzt nicht mehr wäjöen, sondern z.B. 
+* Unfähigkeit Heilung ist das kleinere Übel. Würde ich jetzt nicht mehr wählen, sondern z.B. Herbeirufung
+* 
 	
