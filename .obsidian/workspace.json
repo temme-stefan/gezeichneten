@@ -44,6 +44,16 @@
             }
           },
           {
+            "id": "0bd1c2010bb0376f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
             "id": "83bddbd87af2867f",
             "type": "leaf",
             "state": {
@@ -68,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -194,7 +204,7 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "e1bd75bc25882042",
+  "active": "0bd1c2010bb0376f",
   "lastOpenFiles": [
     "Andrew/Steigern.md",
     "Geschichte.md",
