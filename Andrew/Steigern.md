@@ -4,12 +4,15 @@ Ideen:
 Kraftlinien: Spezialisierung oder SF I
 Sternkunde: Versuch einer Möglichkeit Ereignisse vorherzusagen (12 Götter gefällig?)
 Pysical training: Schwerter und physiche Attribute "überkommen der Schwäche" und "günstige TP"
+Staatskunst / Sagen und Legenden /Geschichtswissen /Heraldik
 Stab finalisieren: Apport
 
 Zauber:
 Attributo 10-> 11 für Modifikation Schnellsteigerung
 Dupplicatus 6->7 für 2 Doppelgänger
 Ignifaxius 10 -> 11 für Varianten und Sicherheit
+
+
 
 ## Kosten
 Ab 6600 Stufe 12 also erst aktivieren :)
