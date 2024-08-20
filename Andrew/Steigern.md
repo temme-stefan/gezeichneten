@@ -4,7 +4,7 @@ Ideen:
 Kraftlinien: Spezialisierung oder SF I
 Sternkunde: Versuch einer Möglichkeit Ereignisse vorherzusagen (12 Götter gefällig?)
 Pysical training: Schwerter und physiche Attribute "überkommen der Schwäche" und "günstige TP"
-Prüfe Stab: weiteres Ritual oder apport?
+Stab finalisieren: Apport
 
 Zauber:
 Attributo 10-> 11 für Modifikation Schnellsteigerung
@@ -25,5 +25,7 @@ Ab 6600 Stufe 12 also erst aktivieren :)
 ### Sonstiges:
 + Schwerter: (E 8-> 10): 55+65
 + Klugheit (H 14 -> 15): 410
++ Object Ritual: Apport: 200\*3/4
++ 
 
 
