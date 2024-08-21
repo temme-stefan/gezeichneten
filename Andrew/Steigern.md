@@ -5,6 +5,7 @@ Ideen:
 * Forschung Kraftlinien: SF Kraftlinien I (KL 15) 50 AP \*3/4 =38
 * Mysterium von Kha: Spezialisierung Magiekunde Sphären -> 20
 * Sternkunde: Versuch einer Möglichkeit Ereignisse vorherzusagen (12 Götter gefällig?)
+	* Sternkunde 3 -> 10: 128-12=116
 * Pysical training: Schwerter und physiche Attribute "überkommen der Schwäche" und "günstige TP"
 	* Schwerter: (E 8-> 10): 55+65
 	* Stäbe: (D 8 -> 10): 45+50
@@ -18,15 +19,15 @@ Attributo 10-> 11 für Modifikation Schnellsteigerung : 14
 Dupplicatus 6->7 für 2 Doppelgänger: 25
 Ignifaxius 10 -> 11 für Varianten und Sicherheit: 14
 
-Dämonentraining:
-* Merkmal Kraft als zweites Merkmal: 180 \*3/4: 135
+Dämonentraining, später:
+* Merkmal Kraft als zweites Merkmal: 180 \*3/4: 135 (wo? wie teuer?)
 * Spezialisierung Guardianum: Dämonenschild: 80, falls Kraft: 60
-* Aktivieren Zauberklinge: Stufe 11 ohne Merkmal Kraft -> 55, mit Merkmal Kraft 43
+* Aktivieren Zauberklinge: Stufe 12 ohne Merkmal Kraft -> 65, mit Merkmal Kraft 47
 * Steigern Zauberklinge auf +5: ohne Kraft 61 mit Kraft: 47
-* SUMME: ohne Kraft:
+* SUMME: ohne Kraft: 206, 154+135
 
 Später mal:
-Aktivieren Kulminatio : Stufe 11 -> 43
+Aktivieren Kulminatio
 
 
 Spezialisierungen je Talent:
@@ -36,6 +37,16 @@ Spezialisierungen je Talent:
 Spezialisierungen je Zauber:
 * Erste ab ZfW 7, 20 * Aktivuerungsfaktor
 * Zweite ab TaW 14,  doppelte Kosten
+
+| Block | Kosten |
+| ----- | ------ |
+|Spezielle Erfahrungen| 71|
+|Kraftlinien + KL|410 +38 = 448|
+|Mysterium| 20 |
+| = | 539 |
+| Rest | 662 - 539 = 123 |
+
+
 
 ## Kosten
 Ab 6600 Stufe 12 also erst aktivieren :)
