@@ -14,9 +14,10 @@ Ideen:
 	* Object Ritual: Apport: 200\*3/4 = 175
 
 Zauber:
-Attributo 10-> 11 für Modifikation Schnellsteigerung
-Dupplicatus 6->7 für 2 Doppelgänger
-Ignifaxius 10 -> 11 für Varianten und Sicherheit
+Attributo 10-> 11 für Modifikation Schnellsteigerung : 14
+Dupplicatus 6->7 für 2 Doppelgänger: 25
+Ignifaxius 10 -> 11 für Varianten und Sicherheit: 14
+
 Aktivieren Zauberklinge: Stufe 11 ohne Merkmal Kraft -> 55, mit Merkmal Kraft 43
 Aktivieren Kulminatio : Stufe 11 -> 43
 
