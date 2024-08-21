@@ -29,6 +29,7 @@ Ab 6600 Stufe 12 also erst aktivieren :)
 + Schwerter: (E 8-> 10): 55+65
 + Klugheit (H 14 -> 15): 410
 + Object Ritual: Apport: 200\*3/4
-+ 
++ Merkmal Eigenschaften: mittel \*3/8 
++ Merkmal Kraft: mittel \*3/4
 
 
