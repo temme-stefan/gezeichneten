@@ -1,4 +1,5 @@
 
+## 
 
 
 ## Ideen
@@ -24,8 +25,8 @@
 * Aktuelle Politik:
 	* Staatskunst 2->4: 14
 	* Etikette 6->7: 17
-	* Überzeugen: 1->4:18
-* Dämonentraining, später:
+	* Überzeugen: 1->3:10
+* Dämonentraining:
 	* Merkmal Kraft als zweites Merkmal: 180 \*3/4: 135 (wo? wie teuer?)
 	* Spezialisierung Guardianum: Dämonenschild: 80, falls Kraft: 60
 	* Aktivieren Zauberklinge: Stufe 12 ohne Merkmal Kraft -> 65, mit Merkmal Kraft 47
@@ -49,13 +50,6 @@ Spezialisierungen je Zauber:
 * Erste ab ZfW 7, 20 * Aktiverungsfaktor
 * Zweite ab TaW 14,  doppelte Kosten
 
-| Block                 | Kosten        |
-| --------------------- | ------------- |
-| Spezielle Erfahrungen | 71            |
-| Kraftlinien + KL      | 410 +38 = 448 |
-| Mysterium & Sterne    | 20+ 50 = 70   |
-
-
 ## Nach Grenzenlose Macht
 ### Free:
 +3 pAsp
@@ -66,6 +60,17 @@ Spezialisierungen je Zauber:
 * Baukunst (B-> A Aktivierung Stufe 11) :14
 * Götter & Kulte (B-> A 9 -> 10):13 
 * **SUMME**: 71
+
+| Steigerung            | AP      |
+| --------------------- | ------- |
+| **Start**             | **662** |
+| spezielle Erfahrungen | -71     |
+| Anti Borbarad         | -70     |
+| Forschung Kraftlinien | -448    |
+| Magisches Training    | -28     |
+| Politische Bildung    | -41     |
+| **Rest**              | **4**   |
+ 
 
 
 

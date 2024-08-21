@@ -21,6 +21,7 @@ Von dem Gewebe das die Welt durchzieht, von Andrew Treublatt [Kraftlinien](Notiz
 ## Besorgungen
 * Geld eintreiben
 * vllt Teleskop?
+* Lehrer Ignifaxius & Attributo
 
 
  
