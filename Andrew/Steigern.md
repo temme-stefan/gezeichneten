@@ -20,6 +20,10 @@ Aktivieren Zauberklinge: Stufe 11 ohne Merkmal Kraft -> 55, mit Merkmal Kraft 43
 Aktivieren Kulminatio : Stufe 11 -> 43
 
 
+Spezialisierungen je Talent/Zauber:
+Erste ab TaW 7, A 20, B 25, C 35, D 50, E 70, F 100
+Zweite ab TaW 15,  doppelte Kosten
+
 ## Kosten
 Ab 6600 Stufe 12 also erst aktivieren :)
 ### Free:
