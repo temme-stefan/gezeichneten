@@ -1,4 +1,4 @@
-## Aktionen nach 
+## Aktionen nach Unendliche Macht
 
 ### Anti-Borbarad
 Was tut der Kerl als nächstes, kenne deinen Feind
@@ -19,6 +19,7 @@ Von dem Gewebe das die Welt durchzieht, von Andrew Treublatt [Kraftlinien](Notiz
 
 ### Besorgungen
 * Geld eintreiben
+* gute Karte Aventuriens
 * vllt Teleskop?
 * Lehrer Ignifaxius & Attributo
 

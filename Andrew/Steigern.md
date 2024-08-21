@@ -1,7 +1,4 @@
 
-## 
-
-
 ## Ideen
 * Anti-Borbarad
 	* Mysterium von Kha: Spezialisierung Magiekunde Sphären -> 20
