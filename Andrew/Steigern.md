@@ -7,19 +7,25 @@ Ideen:
 	* SF Kraftlinien I (KL 15) 50 AP \*3/4 =38
 * Mysterium von Kha: Spezialisierung Magiekunde Sphären -> 20
 * Sternkunde: Versuch einer Möglichkeit Ereignisse vorherzusagen (12 Götter gefällig? Ja)
-	* Sternkunde 3 -> 10: 128-12=116
+	* Sternkunde 3 -> 7: 62-12=50
 * Pysical training: Schwerter und physiche Attribute "überkommen der Schwäche" und "günstige TP"
 	* Schwerter: (E 8-> 10): 55+65
 	* Stäbe: (D 8 -> 10): 45+50
 	* KK oder GE identisch, ohne Auswirkungen auf AT/PA: KK (H11->12): 320
 	* LeP: (H 1->2): 35, (H 1->3): 95, (H 1->4): 180
+* Magisches training
+	* Attributo 10-> 11 für Modifikation Schnellsteigerung : 14
+	* Dupplicatus 6->7 für 2 Doppelgänger: 25
+	* Ignifaxius 10 -> 11 für Varianten und Sicherheit: 14
 * Stab finalisieren: Apport
 	* Object Ritual: Apport: 200\*3/4 = 175
+* Aktuelle Politik:
+	* Staatskunst 2->4: 14
+	* Etikette 6->7: 17
+	* Überzeugen: 1->4:18
 
 Zauber:
-Attributo 10-> 11 für Modifikation Schnellsteigerung : 14
-Dupplicatus 6->7 für 2 Doppelgänger: 25
-Ignifaxius 10 -> 11 für Varianten und Sicherheit: 14
+
 
 Dämonentraining, später:
 * Merkmal Kraft als zweites Merkmal: 180 \*3/4: 135 (wo? wie teuer?)
@@ -44,9 +50,10 @@ Spezialisierungen je Zauber:
 | ----- | ------ |
 |Spezielle Erfahrungen| 71|
 |Kraftlinien + KL|410 +38 = 448|
-|Mysterium & Sterne| 20+ 116 =136 |
-| = | 655 |
-| Rest | 662 - 655 = 7 |
+|Mysterium & Sterne| 20+ 50 = 70 |
+|Aktuelle Politik
+| = | 589 |
+| Rest | 662 - 655 = 73 |
 
 
 
