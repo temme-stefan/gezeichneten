@@ -22,7 +22,8 @@ Dämonentraining:
 * Merkmal Kraft als zweites Merkmal: 180 \*3/4: 135
 * Spezialisierung Guardianum: Dämonenschild: 80, falls Kraft: 60
 * Aktivieren Zauberklinge: Stufe 11 ohne Merkmal Kraft -> 55, mit Merkmal Kraft 43
-* 
+* Steigern Zauberklinge auf +5: ohne Kraft 61 mit Kraft: 47
+* SUMME: ohne Kraft:
 
 Später mal:
 Aktivieren Kulminatio : Stufe 11 -> 43
