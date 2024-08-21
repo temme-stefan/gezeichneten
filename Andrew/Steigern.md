@@ -1,4 +1,5 @@
 Klugheit 15 für 2 spontane Modifikationen gleichzeitig
+* Klugheit (H 14 -> 15): 410
 
 Ideen:
 * Kraftlinien: Spezialisierung oder SF I
@@ -32,7 +33,7 @@ Ab 6600 Stufe 12 also erst aktivieren :)
 
 ### Sonstiges:
 + 
-+ Klugheit (H 14 -> 15): 410
++ 
 + 
 + Merkmal Eigenschaften: (180 oder 450) \*3/8 
 + Merkmal Kraft: (180 oder 450) \*3/4
