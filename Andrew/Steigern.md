@@ -11,7 +11,8 @@ Zauber:
 Attributo 10-> 11 für Modifikation Schnellsteigerung
 Dupplicatus 6->7 für 2 Doppelgänger
 Ignifaxius 10 -> 11 für Varianten und Sicherheit
-
+Aktivieren Zauberklinge: Stufe 11 ohne Merkmal Kraft -> 55, mit Merkmal Kraft 43
+Aktivieren Kulminatio : Stufe 11 -> 43
 
 
 ## Kosten
@@ -29,7 +30,8 @@ Ab 6600 Stufe 12 also erst aktivieren :)
 + Schwerter: (E 8-> 10): 55+65
 + Klugheit (H 14 -> 15): 410
 + Object Ritual: Apport: 200\*3/4
-+ Merkmal Eigenschaften: mittel \*3/8 
-+ Merkmal Kraft: mittel \*3/4
++ Merkmal Eigenschaften: (180 oder 450) \*3/8 
++ Merkmal Kraft: (180 oder 450) \*3/4
+	+ Besser Kraft zuerst: 135 Kraft. Eigenschaften: 169
 
 
