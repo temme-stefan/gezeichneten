@@ -2,13 +2,13 @@ Klugheit 15 für 2 spontane Modifikationen gleichzeitig
 * Klugheit (H 14 -> 15): 410
 
 Ideen:
-* Kraftlinien: Spezialisierung oder SF I
+* Forschung Kraftlinien: SF Kraftlinien I 
 * Sternkunde: Versuch einer Möglichkeit Ereignisse vorherzusagen (12 Götter gefällig?)
 * Pysical training: Schwerter und physiche Attribute "überkommen der Schwäche" und "günstige TP"
 	* Schwerter: (E 8-> 10): 55+65
-	* KK oder GE identisch, ohne Auswoikungen auf AT/PA -> KK (H11->12): 320
-	* LeP 
-* Staatskunst / Sagen und Legenden /Geschichtswissen /Heraldik
+	* Stäbe: (D 8 -> 10): 45+50
+	* KK oder GE identisch, ohne Auswirkungen auf AT/PA: KK (H11->12): 320
+	* LeP: (H 1->2): 35, (H 1->3): 95, (H 1->4): 180
 * Stab finalisieren: Apport
 	* Object Ritual: Apport: 200\*3/4 = 175
 
