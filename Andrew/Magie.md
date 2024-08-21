@@ -35,6 +35,7 @@
 * Resposami: Nö... Mut und so
 * Schadenszauber bannen: Wie soll damit ein Fulminictus oder Ignifaxius gebannt werden. Ein Kulminatio vielleicht... Und Mut....
 * Wand aus Flammen: Mut
+* ~~Zauberklinge Geisterspeer: JAA ~~
 
 
 
