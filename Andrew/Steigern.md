@@ -2,18 +2,19 @@
 
 
 Ideen:
+* Anti-Borbarad
+	* Mysterium von Kha: Spezialisierung Magiekunde Sphären -> 20
+	* Sternkunde: Versuch einer Möglichkeit Ereignisse vorherzusagen (12 Götter gefällig? Ja)
+		* Sternkunde 3 -> 7: 62-12=50
 * Forschung Kraftlinien: 
 	* Klugheit (H 14 -> 15): 410 (Wichtig für 2 spontane Mods)
 	* SF Kraftlinien I (KL 15) 50 AP \*3/4 =38
-* Mysterium von Kha: Spezialisierung Magiekunde Sphären -> 20
-* Sternkunde: Versuch einer Möglichkeit Ereignisse vorherzusagen (12 Götter gefällig? Ja)
-	* Sternkunde 3 -> 7: 62-12=50
-* Pysical training: Schwerter und physiche Attribute "überkommen der Schwäche" und "günstige TP"
+* Pysical training: Schwerter und physiche Attribute "überkommen der Schwäche" 
 	* Schwerter: (E 8-> 10): 55+65
 	* Stäbe: (D 8 -> 10): 45+50
 	* KK oder GE identisch, ohne Auswirkungen auf AT/PA: KK (H11->12): 320
 	* LeP: (H 1->2): 35, (H 1->3): 95, (H 1->4): 180
-* Magisches training
+* Magisches Training
 	* Attributo 10-> 11 für Modifikation Schnellsteigerung : 14
 	* Dupplicatus 6->7 für 2 Doppelgänger: 25
 	* Ignifaxius 10 -> 11 für Varianten und Sicherheit: 14

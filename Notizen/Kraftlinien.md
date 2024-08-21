@@ -11,3 +11,6 @@
 + Karte besorgen
 + Bekannte Abschnitte einzeichnen
 + Korrespondenz an die Akademien
++ eigene Forschungsreise, ggf. mit [Dschelef Ibn Jassfar](Personen#Dschelef%20Ibn%20Jassfar) 
++ Verlauf Kartogrphieren mittels Auge + Auris Nasus Occulus
++ ggf weitere Phänomene dabei entdecken

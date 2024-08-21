@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5b27913f37ffb1d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Andrew/Offtime.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "f90ae3f85df825a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andrew/Steigern.md",
+                "file": "Andrew/Offtime.md",
                 "mode": "source",
                 "source": true
               }
@@ -37,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andrew/Magie.md",
+                "file": "Andrew/Steigern.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +49,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andrew/Magie.md",
+                "file": "Notizen/Kraftlinien.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andrew/Steigern.md",
+                "file": "Andrew/Offtime.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Andrew/Steigern.md",
+                "file": "Andrew/Offtime.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Andrew/Steigern.md"
+                "file": "Andrew/Offtime.md"
               }
             }
           }
@@ -196,18 +183,19 @@
   },
   "active": "f90ae3f85df825a0",
   "lastOpenFiles": [
-    "Andrew/Offtime.md",
     "Andrew/Steigern.md",
+    "Andrew/Offtime.md",
     "Andrew/Magie.md",
+    "Notizen/Kraftlinien.md",
+    "Frag den Meister/Fragen.md",
+    "Notizen/Borbaradianer.md",
     "Andrew/Background.md",
     "Frag den Meister/Andrew wieder spielbar machen.md",
-    "Frag den Meister/Fragen.md",
     "Frag den Meister/Über Proben.md",
     "Geschichte.md",
     "Frag den Meister",
     "Notizen/Post Gier.md",
     "Notizen/Vampire.md",
-    "Notizen/Borbaradianer.md",
     "Andrew",
     "Notizen/Trivia.md",
     "Notizen/Lore.md",
@@ -215,7 +203,6 @@
     "Personen.md",
     "Notizen/Klostertheorie.md",
     "Prophezeihung und Deutung.md",
-    "Notizen/Kraftlinien.md",
     "Borbarad.md",
     "Notizen/2. Zeichen Das wandelndene Bild.md",
     "Notizen/1. Zeichen Das alamadine Auge.md",
