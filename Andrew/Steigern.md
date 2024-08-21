@@ -16,10 +16,11 @@
 	* LeP: (H 1->2): 35, (H 1->3): 95, (H 1->4): 180
 * Magisches Training
 	* Attributo 10-> 11 für Modifikation Schnellsteigerung : 14
-	* Dupplicatus 6->7 für 2 Doppelgänger: 25
 	* Ignifaxius 10 -> 11 für Varianten und Sicherheit: 14
-* Stab finalisieren: Apport
-	* Object Ritual: Apport: 200\*3/4 = 175
+* Magisches Training II
+	*  Dupplicatus 6->7 für 2 Doppelgänger: 25
+	* Stab finalisieren: Apport
+		* Object Ritual: Apport: 200\*3/4 = 175
 * Aktuelle Politik:
 	* Staatskunst 2->4: 14
 	* Etikette 6->7: 17
