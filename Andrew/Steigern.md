@@ -18,7 +18,13 @@ Attributo 10-> 11 für Modifikation Schnellsteigerung : 14
 Dupplicatus 6->7 für 2 Doppelgänger: 25
 Ignifaxius 10 -> 11 für Varianten und Sicherheit: 14
 
-Aktivieren Zauberklinge: Stufe 11 ohne Merkmal Kraft -> 55, mit Merkmal Kraft 43
+Dämonentraining:
+* Merkmal Kraft als zweites Merkmal: 180 \*3/4: 135
+* Spezialisierung Guardianum: Dämonenschild: 80, falls Kraft: 60
+* Aktivieren Zauberklinge: Stufe 11 ohne Merkmal Kraft -> 55, mit Merkmal Kraft 43
+* 
+
+Später mal:
 Aktivieren Kulminatio : Stufe 11 -> 43
 
 
@@ -43,9 +49,6 @@ Ab 6600 Stufe 12 also erst aktivieren :)
 * **SUMME**: 71
 
 ### Sonstiges:
-+ 
-+ 
-+ 
 + Merkmal Eigenschaften: (180 oder 450) \*3/8 
 + Merkmal Kraft: (180 oder 450) \*3/4
 	+ Besser Kraft zuerst: 135 Kraft. Eigenschaften: 169

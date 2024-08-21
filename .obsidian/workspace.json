@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andrew/Magie.md",
+                "file": "Andrew/Steigern.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andrew/Magie.md",
+                "file": "Andrew/Steigern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Andrew/Magie.md",
+                "file": "Andrew/Steigern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Andrew/Magie.md"
+                "file": "Andrew/Steigern.md"
               }
             }
           }
@@ -196,9 +196,9 @@
   },
   "active": "f90ae3f85df825a0",
   "lastOpenFiles": [
+    "Andrew/Magie.md",
     "Andrew/Steigern.md",
     "Andrew/Offtime.md",
-    "Andrew/Magie.md",
     "Andrew/Background.md",
     "Frag den Meister/Andrew wieder spielbar machen.md",
     "Frag den Meister/Fragen.md",
