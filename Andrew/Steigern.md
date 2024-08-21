@@ -2,7 +2,8 @@ Klugheit 15 für 2 spontane Modifikationen gleichzeitig
 * Klugheit (H 14 -> 15): 410
 
 Ideen:
-* Forschung Kraftlinien: SF Kraftlinien I (KL 15)
+* Forschung Kraftlinien: SF Kraftlinien I (KL 15) 50 AP \*3/4 =38
+* Mysterium von Kha: Spezialisierung Magiekunde Sphären -> 20
 * Sternkunde: Versuch einer Möglichkeit Ereignisse vorherzusagen (12 Götter gefällig?)
 * Pysical training: Schwerter und physiche Attribute "überkommen der Schwäche" und "günstige TP"
 	* Schwerter: (E 8-> 10): 55+65
