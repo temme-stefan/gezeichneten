@@ -6,7 +6,8 @@ Ideen:
 * Sternkunde: Versuch einer Möglichkeit Ereignisse vorherzusagen (12 Götter gefällig?)
 * Pysical training: Schwerter und physiche Attribute "überkommen der Schwäche" und "günstige TP"
 	* Schwerter: (E 8-> 10): 55+65
-	* 
+	* KK oder GE identisch, ohne Auswoikungen auf AT/PA -> KK (H11->12): 320
+	* LeP 
 * Staatskunst / Sagen und Legenden /Geschichtswissen /Heraldik
 * Stab finalisieren: Apport
 	* Object Ritual: Apport: 200\*3/4 = 175
