@@ -20,13 +20,11 @@ Von dem Gewebe das die Welt durchzieht, von Andrew Treublatt [Kraftlinien](Notiz
 
 ## Besorgungen
 * Geld eintreiben
-* Astrolabium
+* vllt Teleskop?
 
-* Physical Fitness Training
-* 
 
-Alltag:
+ 
 
-* Sternkunde? Parallele Konstellationen in naher Zukunft zu früher finden. 
+
 
 
