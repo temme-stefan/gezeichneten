@@ -35,7 +35,7 @@ Spezialisierungen je Talent:
 * Zweite ab TaW 15,  doppelte Kosten
 
 Spezialisierungen je Zauber:
-* Erste ab ZfW 7, 20 * Aktivuerungsfaktor
+* Erste ab ZfW 7, 20 * Aktiverungsfaktor
 * Zweite ab TaW 14,  doppelte Kosten
 
 | Block | Kosten |
