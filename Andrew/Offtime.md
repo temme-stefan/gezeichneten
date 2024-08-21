@@ -12,13 +12,12 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 ### Forschungsarbeit zum Adeptus Major
 Von dem Gewebe das die Welt durchzieht, von Andrew Treublatt [Kraftlinien](Notizen/Kraftlinien.md) 
 
-
-## Lebenswandel
+### Lebenswandel
 * Konsultation Borongeweihten wegen [Träumen](Notizen/Träume.md)
 * Mehr Interesse an aktueller Politik/Entwicklung. Welche Talente?
 	* Staatskunst / Sagen und Legenden /Geschichtswissen /Heraldik
 
-## Besorgungen
+### Besorgungen
 * Geld eintreiben
 * vllt Teleskop?
 * Lehrer Ignifaxius & Attributo
