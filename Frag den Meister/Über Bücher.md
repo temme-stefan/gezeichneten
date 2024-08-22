@@ -9,4 +9,8 @@
 | Liber Zamorican Satinav   | RDF70             | ?                                                                                                                                                      | vermutlich fragwürdig |
 | 5 arkanen Kapitel H'ranga | RDF70             | H’ranga, echsische Gottheit des Krieges, Hinweise auf andere Gottheiten, ziemlich blutige Rituale, ggf. Verkaufen bei Rakojom aus Selem, Echsenexperte | fragwürdig            |
 Meta Vermutung:
-Mit Hilfe der drei Bücher und der Übersetzung hat ben Seyshaban Zeitformeln rekonstruiert, vermultich in echs 
+Mit Hilfe der drei Bücher und der Übersetzung hat ben Seyshaban Zeitformeln rekonstruiert, vermutlich in achater Representation. 
+Meta Fragen:
+* Wieviel verbaue ich uns, wenn ich die nicht studiere?
+* Gibt es irgendeine Kompensation wenn wir die nicht verkaufen sondern in einen Tempel (PRA/HES) verwahren?
+	* Wie würfelt man auf schlechte Eigenschaften?

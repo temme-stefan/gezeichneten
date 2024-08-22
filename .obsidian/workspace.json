@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frag den Meister/Über Bücher.md",
+                "file": "Andrew/Offtime.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andrew/Offtime.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83bddbd87af2867f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archiv/Fragen.md",
+                "file": "Frag den Meister/Über Bücher.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,16 +170,16 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "f90ae3f85df825a0",
+  "active": "e1bd75bc25882042",
   "lastOpenFiles": [
     "Andrew/Offtime.md",
+    "Archiv/Fragen.md",
     "Frag den Meister/Über Bücher.md",
     "Personen.md",
     "Andrew/Steigern.md",
     "Notizen/offen Fäden.md",
     "Andrew/Magie.md",
     "Andrew/Background.md",
-    "Archiv/Fragen.md",
     "Archiv/Andrew wieder spielbar machen.md",
     "Archiv",
     "Geschichte.md",
