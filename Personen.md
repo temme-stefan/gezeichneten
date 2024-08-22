@@ -76,10 +76,10 @@ Oberhexe Weiden? *tot*
 hatte 987 BF Vision einer verschlingenden Macht. Einigt die Hexenzirkel Weidens, Tobriens, Abernias und Rohrwheds in 16 Ritualen (16 Sonnenwendfeiern = 8 Jahren) das Zeichen zu erschaffen, erliegt dem Vampirismus nach Zeichenübergabe und wird mit einem Kuss getötet 
 
 ### Magister Emmerich von Falkenhein
-Gefangenener von [Orbrandt](#Orbrandt), 
+Gefangenener von [Orbrandt](#Orbrandt), durch uns befreit
 
 ### Ankoron von Katzenzorn
-Gefangenener von [Orbrandt](#Orbrandt), 
+Gefangenener von [Orbrandt](#Orbrandt), durch uns befreit
 
 ### Orbrandt, auch Archon Megalon
 *Elementarist/Druide*, ehem. Hofmagier der Fürsten von Harvena, Träger des [3. Zeichen ? Krötensinn ?](Notizen/3.%20Zeichen%20?%20Krötensinn%20?.md), Seelentier Grauwolf?
