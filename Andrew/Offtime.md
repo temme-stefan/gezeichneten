@@ -11,7 +11,6 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 * Bücher einordnen & verkaufen & verteilen 
 	* Tagebuch Laniara -> TSA tempel?
 	* die vermutlich 3 verbotenen Bücher -> PRA (Gareth) oder HES (Kuslik)
-	* 
 	
 ### Forschungsarbeit zum Adeptus Major
 Von dem Gewebe das die Welt durchzieht, von Andrew Treublatt [Kraftlinien](Notizen/Kraftlinien.md) 
