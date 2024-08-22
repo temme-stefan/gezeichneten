@@ -10,9 +10,12 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 	* Vorsichtsmaßnahmen: nur im Licht des Praios lesend, am liebsten mit Geweihten an meiner Seite der mein Seelenheil überwacht (Andrew hat davor einen enormen Respekt)
 * Bücher einordnen:
 	* Magica Arcana Band 1/8
-	* Wörterbuch Selenia
+	* Wörterbuch Selemia
+	* Tagebuch Laniara
 	* Codex Sauris
-	* 
+	* Liber Zamorican Satinav
+	* 5 arkanen Kapitel H'ranga 
+		* H’ranga, echsische Gottheit des Krieges, Hinweise auf andere Gottheiten, ziemlich blutige Rituale, ggf. Verkaufen bei Rakojom aus Selem, Echsenexperte
 	
 ### Forschungsarbeit zum Adeptus Major
 Von dem Gewebe das die Welt durchzieht, von Andrew Treublatt [Kraftlinien](Notizen/Kraftlinien.md) 

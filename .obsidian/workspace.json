@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andrew/Offtime.md",
+                "file": "Personen.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andrew/Offtime.md",
+                "file": "Personen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Andrew/Offtime.md",
+                "file": "Personen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Andrew/Offtime.md"
+                "file": "Personen.md"
               }
             }
           }
@@ -184,11 +184,11 @@
   },
   "active": "e1bd75bc25882042",
   "lastOpenFiles": [
+    "Andrew/Offtime.md",
     "Andrew/Steigern.md",
     "Notizen/offen Fäden.md",
     "Personen.md",
     "Andrew/Magie.md",
-    "Andrew/Offtime.md",
     "Andrew/Background.md",
     "Archiv/Fragen.md",
     "Archiv/Andrew wieder spielbar machen.md",
