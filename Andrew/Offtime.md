@@ -3,13 +3,14 @@
 ### Anti-Borbarad
 Was tut der Kerl als nächstes, kenne deinen Feind
 * Studium/Forschung [Mysterium von Kha](lore#Mysterium%20von%20Kha)-> Spezialisierung Magiekunde Sphären 
-* Blick in die Sterne: versuche vorherzusehen, wann wieder etwas passiert, vergleich jetzt damals -> Steigern Sternkunde mit Hilfe Neobaras Sterdeutung
+* Blick in die Sterne: versuche vorherzusehen, wann wieder etwas passiert, vergleich jetzt damals -> Steigern Sternkunde mit Hilfe Neobaras Sterndeutung
 * Kenne deinen Feind: Studium von Borbaradts Testament unter Aufsicht der Praioskirche (verbotene Schrift) und ggf sekundär Literatur. Begündung: Seltsame Magiewirker, Magieraltar, da war ein Dämon über Wochen im Praioskloster!!!
 	* Wie erkennt man einen Borbaradianer?
 	* Woher beziehen sie ihre Macht?
 	* Vorsichtsmaßnahmen: nur im Licht des Praios lesend, am liebsten mit Geweihten an meiner Seite der mein Seelenheil überwacht (Andrew hat davor einen enormen Respekt)
 * Bücher einordnen & verkaufen & verteilen 
 	* Tagebuch Laniara -> TSA tempel?
+	* die vermutlich 3 verbotenen Bücher -> PRA (Gareth) oder HES (Kuslik)
 	* 
 	
 ### Forschungsarbeit zum Adeptus Major

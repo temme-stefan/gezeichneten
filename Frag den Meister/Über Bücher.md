@@ -2,8 +2,8 @@
 | Buch                      | Fundort           | Inhalt                                                                                                                                                 | verboten   |
 | ------------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- |
 | Magica Arcana Band 1/8    | Greifenpass, Turm |                                                                                                                                                        |            |
-| Wörterbuch Selemia        | RDF70             |                                                                                                                                                        |            |
-| Neobaras Sterndeutung     | RDF70             | Standardwerk mit Anmerkungen von Liscom                                                                                                                | ok         |
+| Wörterbuch Selemia        | RDF70             | Kann ich hiermit eine Sprache lernen?                                                                                                                  |            |
+| Neobaras Sterndeutung     | RDF70             | Standardwerk mit Anmerkungen von Liscom, benutze ich als Lehrwerk                                                                                      | ok         |
 | Tagebuch Laniara          | RDF70             | Berichtet von Laniaras Fall, der Verführung durch ben Seyshaban                                                                                        | ok         |
 | Codex Sauris              | RDF70             |                                                                                                                                                        |            |
 | Liber Zamorican Satinav   | RDF70             |                                                                                                                                                        |            |

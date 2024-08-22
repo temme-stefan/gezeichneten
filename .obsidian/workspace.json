@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andrew/Offtime.md",
+                "file": "Frag den Meister/Über Bücher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Andrew/Offtime.md",
+                "file": "Frag den Meister/Über Bücher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Andrew/Offtime.md"
+                "file": "Frag den Meister/Über Bücher.md"
               }
             }
           }
@@ -182,11 +181,11 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "e1bd75bc25882042",
+  "active": "f90ae3f85df825a0",
   "lastOpenFiles": [
+    "Andrew/Offtime.md",
     "Personen.md",
     "Frag den Meister/Über Bücher.md",
-    "Andrew/Offtime.md",
     "Andrew/Steigern.md",
     "Notizen/offen Fäden.md",
     "Andrew/Magie.md",
