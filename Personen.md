@@ -15,7 +15,7 @@ Tochter des [Herzog Waldemar von Weiden](#Herzog%20Waldemar%20von%20Weiden)
 Ehemann von [Walpurga von Weiden](#Walpurga%20von%20Weiden)
 ### Delian von Wiedbrück
 KGIA Agent, wir haben einmal gerettet, er uns auch einmal
-### Derek Baston
+### ✟Derek Baston
 Ritter der Kriegerschule Schild und Schwert zu Balio , *tot*
 
 
@@ -33,7 +33,7 @@ Baliho, Hochgeweihter
 *Rondra*
 Baliho, Tempelvorsteher
 
-### Schwester Praiogard
+### ✟ Schwester Praiogard
 *Praios*
 Baliho, Geweihte *tot*
 
@@ -63,7 +63,6 @@ kurzes Treffen, wir "retten" sie aus einem Alptraum  ([Alptraum ohne Ende](Gesch
 ### Selara Moriani 
 *Schule der Austreibung zu Perricum*
 Teil der Inquisitionsdelegation ([Alptraum ohne Ende](Geschichte.md#Alptraum%20ohne%20Ende))
-
 ### Thiran von Uckelsbrück
 *Akademie der Magischen Rüstung zu Gareth*
 Teil der Inquisitionsdelegation ([Alptraum ohne Ende](Geschichte.md#Alptraum%20ohne%20Ende))
@@ -72,7 +71,7 @@ Teil der Inquisitionsdelegation ([Alptraum ohne Ende](Geschichte.md#Alptraum%20o
 ehemals Leiter der Akademie, jetzt seine Tochter. Forscht zu [Prophezeihung und Deutung](Prophezeihung%20und%20Deutung.md)  und [Kraftlinien](Notizen/Kraftlinien.md), inspiriert durch Erz-Erzelementar
 Begleitet uns ein Stück und unterstützt im Endkampf von [Unsterbliche Gier](Geschichte.md#Unsterbliche%20Gier)
 
-### Lutzelin
+### ✟ Lutzelin
 Oberhexe Weiden? *tot*
 hatte 987 BF Vision einer verschlingenden Macht. Einigt die Hexenzirkel Weidens, Tobriens, Abernias und Rohrwheds in 16 Ritualen (16 Sonnenwendfeiern = 8 Jahren) das Zeichen zu erschaffen, erliegt dem Vampirismus nach Zeichenübergabe und wird mit einem Kuss getötet 
 
@@ -98,17 +97,17 @@ Antagonistin [Lutzelin](#Lutzelin)s (Diener eines anderen Herren)
 
 ## Leichen pflastern ihren Weg
 
-### Korobar
+### ✟ Korobar
 Scharzmagier/ Paktierer, zaubert trotz Bannstaub *tot*
-### Hamid ben Seyshaban
+### ✟ Hamid ben Seyshaban
 auch Liscom von Fasar
 Schwarzmagier, [belebt Borbarad wieder](Geschichte.md#2.%20Rahja%2022%20Hal), *tot*
 Versuchte schon in der gorichen Wüste Borbarad wieder zu beleben, wurde dort aber von helden + uraltem Drachen besiegt.
 
-### Jandrim, Sohn des Andrasch
+### ✟ Jandrim, Sohn des Andrasch
 Zwergischer Baumeister, tötet Nicolas de Mot und ersetzt ihn mit Dämon, baut Astralenergie-Sammel-Kuppel und startet Ritual die Energie an Borbarad zu geben, zauberte im Kettenhemd,*tot*
 
-### Kuwim, Sohn des Ambrosch
+### ✟ Kuwim, Sohn des Ambrosch
 Gefährte Jandrims, zauberte im Kettenhemd, *tot*
 
 
