@@ -8,7 +8,7 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 	* Wie erkennt man einen Borbaradianer?
 	* Woher beziehen sie ihre Macht?
 	* Vorsichtsmaßnahmen: nur im Licht des Praios lesend, am liebsten mit Geweihten an meiner Seite der mein Seelenheil überwacht (Andrew hat davor einen enormen Respekt)
-* Bücher einordnen & verkaufen & verteilen: , Fragen dazu: 
+* Bücher einordnen & verkaufen & verteilen 
 	* 
 	
 ### Forschungsarbeit zum Adeptus Major
