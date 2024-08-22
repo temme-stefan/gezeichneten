@@ -25,10 +25,10 @@
 	* Überzeugen: 1->3:10
 * Dämonentraining:
 	* Merkmal Kraft als zweites Merkmal: 180 \*3/4: 135 (wo? wie teuer?)
-	* Spezialisierung Guardianum: Dämonenschild: 80, falls Kraft: 60
+	* Spezialisierung Guardianum: Dämonenschild: 80, falls Kraft: 60 \*3/4
 	* Aktivieren Zauberklinge: Stufe 12 ohne Merkmal Kraft -> 65, mit Merkmal Kraft 47
 	* Steigern Zauberklinge auf +5: ohne Kraft 61 mit Kraft: 47
-	* SUMME: ohne Kraft: 206, 154+135
+	* 
 * Jetzt machen wir Aua:
 	* Aktivieren & Steigern Kulminatio
 	* Jetzt auf jeden Fall zu früh
