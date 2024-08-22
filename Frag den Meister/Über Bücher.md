@@ -8,5 +8,5 @@
 | Codex Sauris              | RDF70             | ?                                                                                                                                                      | vermutlich fragwürdig |
 | Liber Zamorican Satinav   | RDF70             | ?                                                                                                                                                      | vermutlich fragwürdig |
 | 5 arkanen Kapitel H'ranga | RDF70             | H’ranga, echsische Gottheit des Krieges, Hinweise auf andere Gottheiten, ziemlich blutige Rituale, ggf. Verkaufen bei Rakojom aus Selem, Echsenexperte | fragwürdig            |
-Vermutung:
+Meta Vermutung:
 Mit Hilfe der drei Bücher und der Übersetzung hat ben Seyshaban Zeitformeln rekonstruiert, vermultich in echs 
