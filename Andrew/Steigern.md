@@ -13,7 +13,7 @@
 	* KK oder GE identisch, ohne Auswirkungen auf AT/PA: KK (H11->12): 320
 	* LeP: (H 1->2): 35, (H 1->3): 95, (H 1->4): 180
 * Magisches Training
-	* Attributo 10-> 11 für Modifikation Schnellsteigerung : 14
+	* Attributo 10-> 11 für Modifikation Schnellsteigerung: 14
 	* Ignifaxius 10 -> 11 für Varianten und Sicherheit: 14
 * Magisches Training II
 	*  Dupplicatus 6->7 für 2 Doppelgänger: 25
