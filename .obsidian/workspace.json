@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personen.md",
+                "file": "Andrew/Offtime.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personen.md",
+                "file": "Andrew/Offtime.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personen.md",
+                "file": "Andrew/Offtime.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personen.md"
+                "file": "Andrew/Offtime.md"
               }
             }
           }
@@ -185,6 +185,8 @@
   "active": "e1bd75bc25882042",
   "lastOpenFiles": [
     "Andrew/Steigern.md",
+    "Notizen/offen Fäden.md",
+    "Personen.md",
     "Andrew/Magie.md",
     "Andrew/Offtime.md",
     "Andrew/Background.md",
@@ -202,7 +204,6 @@
     "Notizen/Trivia.md",
     "Notizen/Lore.md",
     "Notizen/3. Zeichen ? Krötensinn ?.md",
-    "Personen.md",
     "Notizen/Klostertheorie.md",
     "Prophezeihung und Deutung.md",
     "Borbarad.md",
@@ -210,7 +211,6 @@
     "Notizen/1. Zeichen Das alamadine Auge.md",
     "Die Gezeichneten.md",
     "Notizen/Träume.md",
-    "Notizen/offen Fäden.md",
     "Notizen/Money.md",
     "Externes",
     "Notizen",

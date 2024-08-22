@@ -8,6 +8,11 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 	* Wie erkennt man einen Borbaradianer?
 	* Woher beziehen sie ihre Macht?
 	* Vorsichtsmaßnahmen: nur im Licht des Praios lesend, am liebsten mit Geweihten an meiner Seite der mein Seelenheil überwacht (Andrew hat davor einen enormen Respekt)
+* Bücher einordnen:
+	* Magica Arcana Band 1/8
+	* Wörterbuch Selenia
+	* Codex Sauris
+	* 
 	
 ### Forschungsarbeit zum Adeptus Major
 Von dem Gewebe das die Welt durchzieht, von Andrew Treublatt [Kraftlinien](Notizen/Kraftlinien.md) 
