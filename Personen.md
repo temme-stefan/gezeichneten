@@ -76,7 +76,7 @@ Oberhexe Weiden? *tot*
 hatte 987 BF Vision einer verschlingenden Macht. Einigt die Hexenzirkel Weidens, Tobriens, Abernias und Rohrwheds in 16 Ritualen (16 Sonnenwendfeiern = 8 Jahren) das Zeichen zu erschaffen, erliegt dem Vampirismus nach Zeichenübergabe und wird mit einem Kuss getötet 
 
 ### Magister Emmerich von Falkenhein
-
+*Seminar der elfischen Verständigung und natürlichen Heilung zu Donnerbach*
 Gefangenener von [Orbrandt](#Orbrandt), durch uns befreit
 
 ### Ankoron von Katzenzorn
