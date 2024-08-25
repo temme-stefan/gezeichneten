@@ -45,6 +45,13 @@ Schriftenforschung in Bibliothek, Forschungsreise entlang aktiver Linien
 	* Etikette 6->7: 17
 	* Überzeugen: 1->3:10
 	* **Summe: 41**
+### Akademie I - Intensivkurs Dämonenkampf
+
+* SF Merkmal Kraft als zweites Merkmal: 180 \*3/4: 135
+* Spezialisierung Guardianum: Dämonenschild: 80, falls Kraft: 60 \*3/4: 23
+* Aktivieren Zauberklinge: Stufe 12 ohne Merkmal Kraft -> 65, mit Merkmal Kraft 47
+* Steigern Zauberklinge auf +5: ohne Kraft 61 mit Kraft: 47
+* **Summe: 252**
 
 
 ### Besorgungen
