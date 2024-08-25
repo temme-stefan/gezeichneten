@@ -28,15 +28,7 @@ Spezialisierungen je Zauber:
 * Götter & Kulte (B-> A 9 -> 10):13 
 * **SUMME**: 71
 
-| Steigerung            | AP      |
-| --------------------- | ------- |
-| **Start**             | **662** |
-| spezielle Erfahrungen | -71     |
-| Anti Borbarad         | -70     |
-| Forschung Kraftlinien | -448    |
-| Magisches Training    | -28     |
-| Politische Bildung    | -41     |
-| **Rest**              | **4**   |
+
  
 
 
