@@ -1,32 +1,4 @@
 
-## Ideen
-* Anti-Borbarad
-	* Mysterium von Kha: Spezialisierung Magiekunde Sphären -> 20
-	* Sternkunde: Versuch einer Möglichkeit Ereignisse vorherzusagen (12 Götter gefällig? Ja)
-		* Sternkunde 3 -> 7: 62-12=50
-
-* Physisches Training: Waffen und physische Attribute "überkommen der Schwäche" 
-	* Schwerter: (E 8-> 10): 55+65
-	* Stäbe: (D 8 -> 10): 45+50
-	* KK oder GE identisch, ohne Auswirkungen auf AT/PA: KK (H11->12): 320
-	* LeP: (H 1->2): 35, (H 1->3): 95, (H 1->4): 180
-* Magisches Training
-	* Attributo 10-> 11 für Modifikation Schnellsteigerung: 14
-	* Ignifaxius 10 -> 11 für Varianten und Sicherheit: 14
-* Magisches Training II
-	*  Dupplicatus 6->7 für 2 Doppelgänger: 25
-	* Stab finalisieren: Apport
-		* Object Ritual: Apport: 200\*3/4 = 175
-* Aktuelle Politik:
-	* Staatskunst 2->4: 14
-	* Etikette 6->7: 17
-	* Überzeugen: 1->3:10
-* Dämonentraining:
-	* Merkmal Kraft als zweites Merkmal: 180 \*3/4: 135 (wo? wie teuer?)
-	* Spezialisierung Guardianum: Dämonenschild: 80, falls Kraft: 60 \*3/4
-	* Aktivieren Zauberklinge: Stufe 12 ohne Merkmal Kraft -> 65, mit Merkmal Kraft 47
-	* Steigern Zauberklinge auf +5: ohne Kraft 61 mit Kraft: 47
-	* 
 * Jetzt machen wir Aua:
 	* Aktivieren & Steigern Kulminatio
 	* Jetzt auf jeden Fall zu früh

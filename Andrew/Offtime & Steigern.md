@@ -1,4 +1,4 @@
-## Besondere Erfahrungen
+## Spezielle Erfahrungen
 ### Free:
 +3 pAsp -> eingetragen
 ### Spezielle Erfahrung:
@@ -27,20 +27,12 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 	* Sternkunde: 3 -> 7: 62-12=50
 	* **Summe: 70**
 	* ggf. Teleskop/gutes Fernrohr kaufen
-### Forschungsarbeit zum Magus
-Von dem Gewebe das die Welt durchzieht, von Andrew Treublatt [Kraftlinien](Notizen/Kraftlinien.md) 
-Schriftenforschung in Bibliothek, Forschungsreise entlang aktiver Linien
-* Kosten: 
-	* Klugheit (H 14 -> 15): 410 (Wichtig für 2 spontane Mods)
-	* SF Kraftlinien I (KL 15) 50 AP \*3/4 =38
-	* **Summe: 448**
-	* gute Karte Aventuriens 
 
 ### allgemeiner Lebenswandel
 * Konsultation Borongeweihten wegen [Träumen](Notizen/Träume.md), Schutz vor Träumen, Schutz vor Schaden durch Träume
 * Mehr Interesse an aktueller Politik/Entwicklung. Welche Talente?
 	* Staatskunst / Sagen und Legenden /Geschichtswissen /Heraldik
-* Kosten:
+* Alltag I:
 	* Staatskunst 2->4: 14
 	* Etikette 6->7: 17
 	* Überzeugen: 1->3:10
@@ -53,12 +45,57 @@ Schriftenforschung in Bibliothek, Forschungsreise entlang aktiver Linien
 * Aktivieren Zauberklinge: Stufe 12 ohne Merkmal Kraft -> 65, mit Merkmal Kraft 47
 * Steigern Zauberklinge auf +5: ohne Kraft 61 mit Kraft: 47
 * **Summe: 252**
+### Akademie II - Auf die Beine du Schwächling
+*"Ach ne... der Herr von und zu Treublatt. Ihr habt euch gehen lassen. Ihr solltet euch den Eleven im Hof anschließen. So wie ihr ausseht am besten nicht nur heute. Denkt daran: Schwert **und** Stab. Rondra mit euch."
+ * Schwerter: (E 8-> 10): 55+65
+* Stäbe: (D 8 -> 10): 45+50
+* ~~KK oder GE identisch, ohne Auswirkungen auf AT/PA: KK (H11->12): 320~~
+* LeP: (H 1->2): 35, (H 1->3): 95, (H 1->4): 180
+* **Summe: 215+35|95|180 = 240|310|395**
+### Akademie III - Selbststudium/Literaturarbeit
+* Attributo 10-> 11 für Modifikation Schnellsteigerung: 14 -> Lehrer?
+* Ignifaxius 10 -> 11 für Varianten und Sicherheit: 14 -> Lehrer
+* Dupplicatus 6->7 für 2 Doppelgänger: 25
+* Stab finalisieren: Apport
+		* Object Ritual: Apport: 200\*3/4 = 175
+* Paket Akademie IIIa:
+	* Attributo & Ignifaxius
+	* **Summe:28**
 
+### Akademie IV - Forschungsarbeit zum Magus
+Von dem Gewebe das die Welt durchzieht, von Andrew Treublatt [Kraftlinien](Notizen/Kraftlinien.md) 
+Schriftenforschung in Bibliothek, Forschungsreise entlang aktiver Linien
+* Kosten: 
+	* Klugheit (H 14 -> 15): 410 (Wichtig für 2 spontane Mods)
+	* SF Kraftlinien I (KL 15) 50 AP \*3/4 =38
+	* **Summe: 448**
+	* gute Karte Aventuriens 
 
 ### Besorgungen
 * Geld eintreiben
-* Lehrer Ignifaxius & Attributo
 
+## Was tun?
+### Variante 1
+
+| Steigerung            | AP      |
+| --------------------- | ------- |
+| **Start**             | **662** |
+| spezielle Erfahrungen | -71     |
+| Anti Borbarad         | -70     |
+| Akademie IV           | -448    |
+| Akademie IIIa         | -28     |
+| Alltag I              | -41     |
+| **Rest**              | **4**   |
+### Variante 2
+| Steigerung            | AP      |
+| --------------------- | ------- |
+| **Start**             | **662** |
+| spezielle Erfahrungen | -71     |
+| Anti Borbarad         | -70     |
+| Akademie I            | -252    |
+| Akademie IIIa         | -28     |
+| Alltag I              | -41     |
+| **Rest**              | **4**   |
 
  
 
