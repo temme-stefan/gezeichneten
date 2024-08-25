@@ -51,17 +51,19 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 * Stäbe: (D 8 -> 10): 45+50
 * ~~KK oder GE identisch, ohne Auswirkungen auf AT/PA: KK (H11->12): 320~~
 * LeP: (H 1->2): 35, (H 1->3): 95, (H 1->4): 180
-* **Summe: 215+35|95|180 = 240|310|395**
+* **Summe: 215+0|35|95|180 = 215|240|310|395**
 ### Akademie III - Selbststudium/Literaturarbeit
 * Attributo 10-> 11 für Modifikation Schnellsteigerung: 14 -> Lehrer?
 * Ignifaxius 10 -> 11 für Varianten und Sicherheit: 14 -> Lehrer
 * Dupplicatus 6->7 für 2 Doppelgänger: 25
 * Stab finalisieren: Apport
 		* Object Ritual: Apport: 200\*3/4 = 175
-* Paket Akademie IIIa:
+* Akademie IIIa:
 	* Attributo & Ignifaxius
 	* **Summe:28**
-
+* Akademie IIIb:
+	* Ignifaxius
+	* **Summe: 14**
 ### Akademie IV - Forschungsarbeit zum Magus
 Von dem Gewebe das die Welt durchzieht, von Andrew Treublatt [Kraftlinien](Notizen/Kraftlinien.md) 
 Schriftenforschung in Bibliothek, Forschungsreise entlang aktiver Linien
@@ -93,9 +95,11 @@ Schriftenforschung in Bibliothek, Forschungsreise entlang aktiver Linien
 | spezielle Erfahrungen | -71     |
 | Anti Borbarad         | -70     |
 | Akademie I            | -252    |
-| Akademie IIIa         | -28     |
+| Akademie II (0 TP)    | -214    |
+| Akademie IIIb         | -14     |
 | Alltag I              | -41     |
-| **Rest**              | **4**   |
+| **Rest**              | **0**   |
+|                       |         |
 
  
 
