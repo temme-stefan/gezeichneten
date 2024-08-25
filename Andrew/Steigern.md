@@ -4,9 +4,7 @@
 	* Mysterium von Kha: Spezialisierung Magiekunde Sphären -> 20
 	* Sternkunde: Versuch einer Möglichkeit Ereignisse vorherzusagen (12 Götter gefällig? Ja)
 		* Sternkunde 3 -> 7: 62-12=50
-* Forschung Kraftlinien: 
-	* Klugheit (H 14 -> 15): 410 (Wichtig für 2 spontane Mods)
-	* SF Kraftlinien I (KL 15) 50 AP \*3/4 =38
+
 * Physisches Training: Waffen und physische Attribute "überkommen der Schwäche" 
 	* Schwerter: (E 8-> 10): 55+65
 	* Stäbe: (D 8 -> 10): 45+50

@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andrew/Steigern.md",
+                "file": "Andrew/Offtime & Steigern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Andrew/Steigern.md",
+                "file": "Andrew/Offtime & Steigern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Andrew/Steigern.md"
+                "file": "Andrew/Offtime & Steigern.md"
               }
             }
           }
@@ -169,10 +170,11 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "f90ae3f85df825a0",
+  "active": "e1bd75bc25882042",
   "lastOpenFiles": [
-    "Andrew/Offtime & Steigern.md",
     "Andrew/Steigern.md",
+    "Andrew/Offtime & Steigern.md",
+    "Notizen/Kraftlinien.md",
     "Frag den Meister/Über Bücher.md",
     "Frag den Meister/Über Proben.md",
     "Archiv/Fragen.md",
@@ -183,7 +185,6 @@
     "Archiv/Andrew wieder spielbar machen.md",
     "Archiv",
     "Geschichte.md",
-    "Notizen/Kraftlinien.md",
     "Notizen/Borbaradianer.md",
     "Frag den Meister",
     "Notizen/Post Gier.md",

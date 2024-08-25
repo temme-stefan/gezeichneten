@@ -22,19 +22,33 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 * Bücher einordnen & verkaufen & verteilen 
 	* Tagebuch Laniara -> TSA tempel?
 	* die vermutlich 3 verbotenen Bücher -> PRA (Gareth) oder HES (Kuslik)
-	
+* Kosten:
+	* Mysterium von Kha: Spezialisierung Magiekunde Sphären -> 20
+	* Sternkunde: 3 -> 7: 62-12=50
+	* **Summe: 70**
+	* ggf. Teleskop/gutes Fernrohr kaufen
 ### Forschungsarbeit zum Adeptus Major
 Von dem Gewebe das die Welt durchzieht, von Andrew Treublatt [Kraftlinien](Notizen/Kraftlinien.md) 
+Schriftenforschung in Bibliothek, Forschungsreise entlang aktiver Linien
+* Kosten: 
+	* Klugheit (H 14 -> 15): 410 (Wichtig für 2 spontane Mods)
+	* SF Kraftlinien I (KL 15) 50 AP \*3/4 =38
+	* **Summe: 448**
+	* gute Karte Aventuriens 
 
-### Lebenswandel
-* Konsultation Borongeweihten wegen [Träumen](Notizen/Träume.md)
+### allgemeiner Lebenswandel
+* Konsultation Borongeweihten wegen [Träumen](Notizen/Träume.md), Schutz vor Träumen, Schutz vor Schaden durch Träume
 * Mehr Interesse an aktueller Politik/Entwicklung. Welche Talente?
 	* Staatskunst / Sagen und Legenden /Geschichtswissen /Heraldik
+* Kosten:
+	* Staatskunst 2->4: 14
+	* Etikette 6->7: 17
+	* Überzeugen: 1->3:10
+	* **Summe: 41**
+
 
 ### Besorgungen
 * Geld eintreiben
-* gute Karte Aventuriens
-* vllt Teleskop?
 * Lehrer Ignifaxius & Attributo
 
 
