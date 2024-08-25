@@ -1,9 +1,20 @@
-## Aktionen nach Unendliche Macht
+## Besondere Erfahrungen
+### Free:
++3 pAsp -> eingetragen
+### Spezielle Erfahrung:
+* Magiekunde (B-> A 12 -> 13): 17
+* Geografie (B -> A 11 -> 12):16
+* Malen/Zeichnen (B  4->5): 11 für Baukunst
+* Baukunst (B-> A Aktivierung Stufe 11) :14
+* Götter & Kulte (B-> A 9 -> 10):13 
+* **SUMME: 71**
 
-### Anti-Borbarad
+## Aktionen
+
+### Anti-Borbarad / Bücher und Schriften 
 Was tut der Kerl als nächstes, kenne deinen Feind
-* Studium/Forschung [Mysterium von Kha](lore#Mysterium%20von%20Kha)-> Spezialisierung Magiekunde Sphären 
-* Blick in die Sterne: versuche vorherzusehen, wann wieder etwas passiert, vergleich jetzt damals -> Steigern Sternkunde mit Hilfe Neobaras Sterndeutung
+* Studium/Forschung [Mysterium von Kha](lore#Mysterium%20von%20Kha)
+* Blick in die Sterne: versuche vorherzusehen, wann wieder etwas passiert, vergleich jetzt damals mit Hilfe Neobaras Sterndeutung
 * Kenne deinen Feind: Studium von Borbaradts Testament unter Aufsicht der Praioskirche (verbotene Schrift) und ggf sekundär Literatur. Begündung: Seltsame Magiewirker, Magieraltar, da war ein Dämon über Wochen im Praioskloster!!!
 	* Wie erkennt man einen Borbaradianer?
 	* Woher beziehen sie ihre Macht?

@@ -17,4 +17,3 @@ Meta Fragen:
 
 * Wieviel verbaue ich uns, wenn ich die nicht studiere?
 * Gibt es irgendeine Kompensation wenn wir die nicht verkaufen sondern in einen Tempel (PRA/HES) verwahren?
-	* Wie würfelt man auf schlechte Eigenschaften?
