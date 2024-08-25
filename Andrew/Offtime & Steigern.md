@@ -27,7 +27,7 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 	* Sternkunde: 3 -> 7: 62-12=50
 	* **Summe: 70**
 	* ggf. Teleskop/gutes Fernrohr kaufen
-### Forschungsarbeit zum Adeptus Major
+### Forschungsarbeit zum Magus
 Von dem Gewebe das die Welt durchzieht, von Andrew Treublatt [Kraftlinien](Notizen/Kraftlinien.md) 
 Schriftenforschung in Bibliothek, Forschungsreise entlang aktiver Linien
 * Kosten: 
@@ -46,7 +46,7 @@ Schriftenforschung in Bibliothek, Forschungsreise entlang aktiver Linien
 	* Überzeugen: 1->3:10
 	* **Summe: 41**
 ### Akademie I - Intensivkurs Dämonenkampf
-
+*"Ahh Adeptus Andrew, lang habe ich euch nicht gesehen. Mit einigem Umbehagen lass ich euren letzten Bericht. Rondra war mit euch auf eurer Schlacht. Ein Astralsturm in einem Praioskloster, und Dämonen unterhalb. Sehr beunruhigend. Überlegt mal ob ihr eure Studien zum Dämonenkampf nicht vertiefen möchtest. Ich habe da noch eine Thesis, die euch helfen wird."* -- Magister 
 * SF Merkmal Kraft als zweites Merkmal: 180 \*3/4: 135
 * Spezialisierung Guardianum: Dämonenschild: 80, falls Kraft: 60 \*3/4: 23
 * Aktivieren Zauberklinge: Stufe 12 ohne Merkmal Kraft -> 65, mit Merkmal Kraft 47
