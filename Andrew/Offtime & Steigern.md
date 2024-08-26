@@ -9,7 +9,8 @@
 * Götter & Kulte (B-> A 9 -> 10):13 
 * **SUMME: 71**
 
-## Aktionen
+## Aktionen 
+2 Jahre -> 16 Aktionen + 16 Gruppenaktionen?
 
 ### Anti-Borbarad / Bücher und Schriften 
 Was tut der Kerl als nächstes, kenne deinen Feind
@@ -27,8 +28,9 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 	* Sternkunde: 3 -> 7: 62-12=50
 	* **Summe: 70**
 	* ggf. Teleskop/gutes Fernrohr kaufen
+	* 1 Aktion + 1 Aktion falls Borbaradstestament + 1-2 Aktionen Reise zu Verkauf oder Einlagerung
 
-### allgemeiner Lebenswandel
+### Alltag I
 * Konsultation Borongeweihten wegen [Träumen](Notizen/Träume.md), Schutz vor Träumen, Schutz vor Schaden durch Träume
 * Mehr Interesse an aktueller Politik/Entwicklung. Welche Talente?
 	* Staatskunst / Sagen und Legenden /Geschichtswissen /Heraldik
@@ -37,6 +39,7 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 	* Etikette 6->7: 17
 	* Überzeugen: 1->3:10
 	* **Summe: 41**
+	* Aktion falls Reise zu Borontempel nötig
 ### Akademie I - Intensivkurs Dämonenkampf
 *"Ahh Adeptus Andrew, lang habe ich euch nicht gesehen. Mit einigem Umbehagen lass ich euren letzten Bericht. Rondra war mit euch auf eurer Schlacht. Ein Astralsturm in einem Praioskloster, und Dämonen unterhalb. Sehr beunruhigend. Überlegt mal ob ihr eure Studien zum Dämonenkampf nicht vertiefen möchtest. Ich habe da noch eine Thesis, die euch helfen wird."* 
 *"Magister, das klingt sehr interessant."*
@@ -63,9 +66,11 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 * Akademie IIIa:
 	* Attributo & Ignifaxius
 	* **Summe:28**
+	* 2 Aktionen
 * Akademie IIIb:
 	* Ignifaxius
 	* **Summe: 14**
+	* 1 Aktion
 ### Akademie IV - Forschungsarbeit zum Magus
 Von dem Gewebe das die Welt durchzieht, von Andrew Treublatt [Kraftlinien](Notizen/Kraftlinien.md) 
 Schriftenforschung in Bibliothek, Forschungsreise entlang aktiver Linien
@@ -74,9 +79,10 @@ Schriftenforschung in Bibliothek, Forschungsreise entlang aktiver Linien
 	* SF Kraftlinien I (KL 15) 50 AP \*3/4 =38
 	* **Summe: 448**
 	* gute Karte Aventuriens 
+	* 2-4 Aktionen
 
 ### Besorgungen
-* Geld eintreiben
+* Geld eintreiben -> 1 Aktion wenn keine verknüpfte Reise
 
 ## Was tun?
 ### Variante 1
