@@ -6,6 +6,6 @@ Abenteuer 1: Alle träumen, Träume haben hohe Realtitätsdichte und verursachen
 	* tödlicher Kampf gegen eine Art Spiegelbild
 	* 
 
-Abenteuer 2: 
+Abenteuer 2: Andrew hat wieder Alpträume (erzählt aber nix, und ich habs mir nicht aufgeschireben!!!)
 
 Abenteuer 3:  Traum von Macht, blutrünstig, auf Thron sitzend alle zerquetschend
