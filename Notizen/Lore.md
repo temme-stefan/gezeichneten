@@ -11,9 +11,14 @@ Für den Preis seiner Seele kann man mit Erzdämonen paktieren
 | ----------------------------------------- | -------- |
 | Widharcal, Schänder der Elemente, Agrimot | Ingerimm |
 | Thargunitoth                              | Boron    |
+## Von den Elementen
+Es gibt 6 Elemente: Wasser, Luft, Feuer, Erz, Humus, Eis.
+Es gibt Elementarfürsten (Auch Erzelementare genannt, was aber uneindeutig ist: Erzerzelementar).
 
 ## Mysterium von Kha
 steht Madas Frevel gegenüber ??? (vgl Szepter Aras de Mot, Hinterlassenschaften des Hüters)
 ## Madas Frevel
 Mada bringt der Welt die Magie und wird dafür an den Himmel gebannt (Mond = Madamal)
+
+
 
