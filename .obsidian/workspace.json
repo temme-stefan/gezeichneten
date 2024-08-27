@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notizen/2. Zeichen Das wandelndene Bild.md",
+                "file": "Notizen/Lore.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notizen/2. Zeichen Das wandelndene Bild.md",
+                "file": "Notizen/Lore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notizen/2. Zeichen Das wandelndene Bild.md",
+                "file": "Notizen/Lore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notizen/2. Zeichen Das wandelndene Bild.md"
+                "file": "Notizen/Lore.md"
               }
             }
           }
@@ -165,6 +165,7 @@
   },
   "active": "f90ae3f85df825a0",
   "lastOpenFiles": [
+    "Notizen/2. Zeichen Das wandelndene Bild.md",
     "Notizen/Kraftlinien.md",
     "Notizen/Lore.md",
     "Notizen/Träume.md",
@@ -191,7 +192,6 @@
     "Notizen/3. Zeichen ? Krötensinn ?.md",
     "Notizen/Klostertheorie.md",
     "Prophezeihung und Deutung.md",
-    "Notizen/2. Zeichen Das wandelndene Bild.md",
     "Notizen/1. Zeichen Das alamadine Auge.md",
     "Die Gezeichneten.md",
     "Externes",
