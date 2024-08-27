@@ -14,6 +14,6 @@ Abenteuer 3:  Traum von Macht, blutrünstig, auf Thron sitzend alle zerquetschen
 
 
 ## Allabendliche Liturgie
-Alveraner: Bishdariel, der Traumbote
 Edelstein: schwarzer Karneol
-Oh Boron, schenke mir einen ruhigen Schlaf. Oh Bishdariel, lasse meine Träume klar sein. Oh Golgari, 
+Symbol: Boronsrad
+Oh Boron, schenke mir einen ruhigen Schlaf, auf das ich auch morgen noch mein Schicksal erfüllen kann, bis ich dereinst gewogen werde. Oh Bishdariel, schenke mir eine traumlose Nacht. So du mich besuchen musst, lasse meine Träume nicht wirklich werden. Oh Golgari, wenn meine Zeit kommt werde ich mit dir fliegen, doch vergib mir die Hoffnung dich nicht zu bald zu sehen.
