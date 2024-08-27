@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notizen/offen Fäden.md",
+                "file": "Notizen/Träume.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notizen/offen Fäden.md",
+                "file": "Notizen/Träume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notizen/offen Fäden.md",
+                "file": "Notizen/Träume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notizen/offen Fäden.md"
+                "file": "Notizen/Träume.md"
               }
             }
           }
@@ -165,9 +165,9 @@
   },
   "active": "f90ae3f85df825a0",
   "lastOpenFiles": [
+    "Notizen/offen Fäden.md",
     "Notizen/Träume.md",
     "Notizen/Wilde Theorien.md",
-    "Notizen/offen Fäden.md",
     "Borbarad.md",
     "Geschichte.md",
     "Notizen/Lore.md",
