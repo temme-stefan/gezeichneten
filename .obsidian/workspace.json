@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notizen/Träume.md",
+                "file": "Notizen/Kraftlinien.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notizen/Träume.md",
+                "file": "Notizen/Kraftlinien.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notizen/Träume.md",
+                "file": "Notizen/Kraftlinien.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notizen/Träume.md"
+                "file": "Notizen/Kraftlinien.md"
               }
             }
           }
@@ -165,11 +165,12 @@
   },
   "active": "f90ae3f85df825a0",
   "lastOpenFiles": [
+    "Notizen/offen Fäden.md",
+    "Notizen/Träume.md",
     "Geschichte.md",
     "Borbarad.md",
     "Notizen/Borbaradianer.md",
     "Notizen/Kraftlinien.md",
-    "Notizen/offen Fäden.md",
     "Andrew/Steigern.md",
     "Andrew/Offtime & Steigern.md",
     "Frag den Meister/Über Bücher.md",
@@ -192,7 +193,6 @@
     "Notizen/2. Zeichen Das wandelndene Bild.md",
     "Notizen/1. Zeichen Das alamadine Auge.md",
     "Die Gezeichneten.md",
-    "Notizen/Träume.md",
     "Notizen/Money.md",
     "Externes",
     "Notizen",

@@ -15,5 +15,4 @@ Druiden sprechen von Lebensader Sumus?
 + Korrespondenz an die Akademien
 + eigene Forschungsreise, ggf. mit [Dschelef Ibn Jassfar](Personen#Dschelef%20Ibn%20Jassfar) 
 + Verlauf Kartogrphieren mittels Auge + Auris Nasus Occulus
-	+ Quelle der Braunwasser?
 + ggf weitere Phänomene dabei entdecken
