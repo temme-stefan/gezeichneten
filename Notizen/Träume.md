@@ -11,3 +11,8 @@ Abenteuer 2:
 * Spiegelbild im Teich, transformiert sich zu Schädel mit Rubinauge, transformiert sich wieder zu Gesicht. Hass, erkennnen, ohne Wissen um Identität
 
 Abenteuer 3:  Traum von Macht, blutrünstig, auf Thron sitzend alle zerquetschend
+
+
+## Allabendliche Liturgie
+Alveraner: Bishdariel, der Traumbote
+Edelstein: schwarzer Karneol
