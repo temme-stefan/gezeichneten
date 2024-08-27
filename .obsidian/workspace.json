@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andrew/Steigern.md",
+                "file": "Notizen/Träume.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andrew/Offtime & Steigern.md",
+                "file": "Notizen/Träume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Andrew/Offtime & Steigern.md",
+                "file": "Notizen/Träume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Andrew/Offtime & Steigern.md"
+                "file": "Notizen/Träume.md"
               }
             }
           }
@@ -163,22 +163,23 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "87526b28f7a4c4b1",
+  "active": "f90ae3f85df825a0",
   "lastOpenFiles": [
+    "Geschichte.md",
+    "Borbarad.md",
+    "Notizen/Borbaradianer.md",
+    "Notizen/Kraftlinien.md",
+    "Notizen/offen Fäden.md",
     "Andrew/Steigern.md",
     "Andrew/Offtime & Steigern.md",
-    "Notizen/Kraftlinien.md",
     "Frag den Meister/Über Bücher.md",
     "Frag den Meister/Über Proben.md",
     "Archiv/Fragen.md",
     "Personen.md",
-    "Notizen/offen Fäden.md",
     "Andrew/Magie.md",
     "Andrew/Background.md",
     "Archiv/Andrew wieder spielbar machen.md",
     "Archiv",
-    "Geschichte.md",
-    "Notizen/Borbaradianer.md",
     "Frag den Meister",
     "Notizen/Post Gier.md",
     "Notizen/Vampire.md",
@@ -188,7 +189,6 @@
     "Notizen/3. Zeichen ? Krötensinn ?.md",
     "Notizen/Klostertheorie.md",
     "Prophezeihung und Deutung.md",
-    "Borbarad.md",
     "Notizen/2. Zeichen Das wandelndene Bild.md",
     "Notizen/1. Zeichen Das alamadine Auge.md",
     "Die Gezeichneten.md",

@@ -26,6 +26,7 @@ Kaiser Hal ist verschwunden.
 Answin von Rabenmund erhebt Ansprüche auf Thron
 ### 18 Hal
 Orkensturm bis vor Gareth
+"Elemente in Aufruhr", andauernd (Druidenzirkel Runhag)
 ### 21 Hal
 Brin, Sohn des Hal wird Reichsbehüter
 Es gibt zwei Boten des Lichts (Gareth, Elenvina)
