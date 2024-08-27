@@ -16,3 +16,4 @@ Abenteuer 3:  Traum von Macht, blutrünstig, auf Thron sitzend alle zerquetschen
 ## Allabendliche Liturgie
 Alveraner: Bishdariel, der Traumbote
 Edelstein: schwarzer Karneol
+Oh Boron, schenke mir einen ruhigen Schlaf. Oh Bishdariel, lasse meine Träume klar sein. Oh Golgari, 
