@@ -53,11 +53,15 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 *"Ach ne... der Herr von und zu Treublatt. Ihr habt euch gehen lassen. Ihr solltet euch den Eleven im Hof anschließen. So wie ihr ausseht am besten nicht nur heute. Denkt daran: Schwert **und** Stab. Rondra mit euch."
  * Schwerter: (E 8-> 10): 55+65
 * Stäbe: (D 8 -> 10): 45+50
-* SF Ausweichen I
-* SF Finte
-* SF Meisterparade
-* ~~KK oder GE identisch, ohne Auswirkungen auf AT/PA: KK (H11->12): 320~~
+* SF Ausweichen I: 150
+* SF Finte (GE 12): 100
+* SF Meisterparade: 100
+* KK oder GE identisch, ohne Auswirkungen auf AT/PA: KK (H11->12): 320
 * LeP: (H 1->2): 35, (H 1->3): 95, (H 1->4): 180
+* Akademie IIa:
+	* Schwerter 10, Stäbe 10, Meisterparade, LeP 1->3 
+	* **Summe: 410**
+* Akademie II Follow up: GE + Finte : 420
 * 1 Aktion
 ### Akademie III - Selbststudium/Literaturarbeit
 * Attributo 10-> 11 für Modifikation Schnellsteigerung: 14 -> Lehrer?
@@ -71,9 +75,12 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 	* **Summe:28**
 	* 2 Aktionen
 * Akademie IIIb:
-	* Ignifaxius + Attributo + Dupllicatus + Apport
+	* Ignifaxius + Attributo + Duppicatus + Apport
 	* **Summe: 228**
 	* 2 Aktion (Lehrer)
+* Akademie IIIc:
+	* Ignifaxius + Attributo + Duppicatus
+	* **Summe: 53**
 ### Akademie IV - Forschungsarbeit zum Magus
 Von dem Gewebe das die Welt durchzieht, von Andrew Treublatt [Kraftlinien](Notizen/Kraftlinien.md) 
 Schriftenforschung in Bibliothek, Forschungsreise entlang aktiver Linien
@@ -110,8 +117,16 @@ Schriftenforschung in Bibliothek, Forschungsreise entlang aktiver Linien
 | Akademie IIIb         | -228    |
 | Alltag I              | -41     |
 | **Rest**              | **0**   |
-|                       |         |
-
+### Variante 3
+| Steigerung                  | AP      |
+| --------------------------- | ------- |
+| **Start**                   | **662** |
+| spezielle Erfahrungen       | -71     |
+| Anti Borbarad               | -70     |
+| Akademie IIa                | -410    |
+| Akademie IIIc               | -53     |
+| Alltag I + Staatskunst 4->5 | -52     |
+| **Rest**                    | **6**   |
  
 
 
