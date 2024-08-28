@@ -80,6 +80,8 @@ Schriftenforschung in Bibliothek, Forschungsreise entlang aktiver Linien
 	* **Summe: 448**
 	* gute Karte Aventuriens 
 	* 2-4 Aktionen
+### Akademie V - Innere Einkehr
+* Große Meditation (5+1 pAsP): 400 
 
 ### Besorgungen
 * Geld eintreiben -> 1 Aktion wenn keine verknüpfte Reise
