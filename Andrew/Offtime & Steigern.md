@@ -69,9 +69,9 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 	* **Summe:28**
 	* 2 Aktionen
 * Akademie IIIb:
-	* Ignifaxius
-	* **Summe: 14**
-	* 1 Aktion
+	* Ignifaxius + Attributo + Dupllicatus + Apport
+	* **Summe: 228**
+	* 2 Aktion (Lehrer)
 ### Akademie IV - Forschungsarbeit zum Magus
 Von dem Gewebe das die Welt durchzieht, von Andrew Treublatt [Kraftlinien](Notizen/Kraftlinien.md) 
 Schriftenforschung in Bibliothek, Forschungsreise entlang aktiver Linien
@@ -105,8 +105,7 @@ Schriftenforschung in Bibliothek, Forschungsreise entlang aktiver Linien
 | spezielle Erfahrungen | -71     |
 | Anti Borbarad         | -70     |
 | Akademie I            | -252    |
-| Akademie II (0 TP)    | -214    |
-| Akademie IIIb         | -14     |
+| Akademie IIIb         | -228    |
 | Alltag I              | -41     |
 | **Rest**              | **0**   |
 |                       |         |
