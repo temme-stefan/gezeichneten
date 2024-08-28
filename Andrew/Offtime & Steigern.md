@@ -63,6 +63,7 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 * Dupplicatus 6->7 für 2 Doppelgänger: 25
 * Stab finalisieren: Apport
 		* Object Ritual: Apport: 200\*3/4 = 175
+*  Große Meditation (5+1 pAsP): 400 
 * Akademie IIIa:
 	* Attributo & Ignifaxius
 	* **Summe:28**
@@ -80,8 +81,7 @@ Schriftenforschung in Bibliothek, Forschungsreise entlang aktiver Linien
 	* **Summe: 448**
 	* gute Karte Aventuriens 
 	* 2-4 Aktionen
-### Akademie V - Innere Einkehr
-* Große Meditation (5+1 pAsP): 400 
+
 
 ### Besorgungen
 * Geld eintreiben -> 1 Aktion wenn keine verknüpfte Reise
