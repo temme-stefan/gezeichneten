@@ -53,9 +53,11 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 *"Ach ne... der Herr von und zu Treublatt. Ihr habt euch gehen lassen. Ihr solltet euch den Eleven im Hof anschließen. So wie ihr ausseht am besten nicht nur heute. Denkt daran: Schwert **und** Stab. Rondra mit euch."
  * Schwerter: (E 8-> 10): 55+65
 * Stäbe: (D 8 -> 10): 45+50
+* SF Ausweichen I
+* SF Finte
+* SF Meisterparade
 * ~~KK oder GE identisch, ohne Auswirkungen auf AT/PA: KK (H11->12): 320~~
 * LeP: (H 1->2): 35, (H 1->3): 95, (H 1->4): 180
-* **Summe: 215+0|35|95|180 = 215|240|310|395**
 * 1 Aktion
 ### Akademie III - Selbststudium/Literaturarbeit
 * Attributo 10-> 11 für Modifikation Schnellsteigerung: 14 -> Lehrer?
