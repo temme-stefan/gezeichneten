@@ -18,6 +18,15 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20.4
+      - name: Setup SSH key
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.DEPLOYKEY }}
+          SSH_SERVER: ${{ secrets.SERVERNAME }}
+        run: |
+          mkdir -p ~/.ssh
+          echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_github
+          chmod 600 ~/.ssh/id_github
+          ssh-keyscan -H "$SSH_SERVER" >> ~/.ssh/known_hosts
       - name: link markdown
         run: ln -s "$GITHUB_WORKSPACE/markdown" "$GITHUB_WORKSPACE/bundler/markdownfiles/markdown"
       - name: Install Dependecies
