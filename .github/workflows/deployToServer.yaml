@@ -19,8 +19,7 @@ jobs:
         with:
           node-version: 20.4
       - name: link markdown
-
-        run: ls -la $GITHUB_WORKSPACE; ls -la "$GITHUB_WORKSPACE/markdown"; ln -s "$GITHUB_WORKSPACE/markdown" $GITHUB_WORKSPACE/bundle/markdownfiles/markdown
+        run: ln -s "$GITHUB_WORKSPACE/markdown" "$GITHUB_WORKSPACE/bundler/markdownfiles/markdown"
       - name: Install Dependecies
         run: npm install
         working-directory: $GITHUB_WORKSPACE/bundler
