@@ -21,11 +21,8 @@ jobs:
       - name: link markdown
         run: ln -s "$GITHUB_WORKSPACE/markdown" "$GITHUB_WORKSPACE/bundler/markdownfiles/markdown"
       - name: Install Dependecies
-        run: npm install
-        working-directory: "$GITHUB_WORKSPACE/bundler"
+        run: cd "$GITHUB_WORKSPACE/bundler"; npm install
       - name: Build
-        run: npm run build
-        working-directory: "$GITHUB_WORKSPACE/bundler"
+        run: cd "$GITHUB_WORKSPACE/bundler"; npm run build
       - name: deploy
-        run: npm run deploy
-        working-directory: "$GITHUB_WORKSPACE/bundler"
+        run: cd "$GITHUB_WORKSPACE/bundler"; npm run deploy
