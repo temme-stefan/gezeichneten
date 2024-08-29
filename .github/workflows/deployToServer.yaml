@@ -29,10 +29,8 @@ jobs:
           echo -e "Host *\n  IdentityFile ~/.ssh/id_github\n" > ~/.ssh/config
           chmod 600 ~/.ssh/config
           ssh-keyscan -H "$SSH_SERVER" >> ~/.ssh/known_hosts
-          
-          ls -la ~/.ssh
-      - name: link markdown
-        run: ln -s "$GITHUB_WORKSPACE/markdown" "$GITHUB_WORKSPACE/bundler/markdownfiles/markdown"
+      - name: Set Markdownfolder
+        run: echo "MD_BASEFOLDER=$(echo "$GITHUB_WORKSPACE/markdown" >> $GITHUB_ENV
       - name: Install Dependecies
         run: cd "$GITHUB_WORKSPACE/bundler"; npm install
       - name: Build
