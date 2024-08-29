@@ -31,8 +31,9 @@ jobs:
           ssh-keyscan -H "$SSH_SERVER" >> ~/.ssh/known_hosts
       - name: Set Environment
         run: |
-          echo "MD_BASEFOLDER=$(echo "$GITHUB_WORKSPACE/markdown")" >> $GITHUB_ENV
-          echo "MD_GLOB=**/*.md" >> $GITHUB_ENV
+          cd "$GITHUB_WORKSPACE/bundler"
+          echo "MD_BASEFOLDER=$(echo "$GITHUB_WORKSPACE/markdown")" >> .env
+          echo "MD_GLOB=**/*.md" >> .env
       - name: Install Dependecies
         run: cd "$GITHUB_WORKSPACE/bundler"; npm install
       - name: Build
