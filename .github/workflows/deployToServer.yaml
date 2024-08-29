@@ -23,7 +23,6 @@ jobs:
           SSH_PRIVATE_KEY: ${{ secrets.DEPLOYKEY }}
           SSH_SERVER: ${{ secrets.SERVERNAME }}
         run: |
-          echo "$SSH_PRIVATE_KEY"
           mkdir -p ~/.ssh
           echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_github
           chmod 600 ~/.ssh/id_github
