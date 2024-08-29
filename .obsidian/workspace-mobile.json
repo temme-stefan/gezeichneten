@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a2fbb582379a7bc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Andrew/Background.md",
+            "file": "Test.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Andrew/Background.md",
+            "file": "Test.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Andrew/Background.md"
+            "file": "Test.md"
           }
         }
       }
@@ -131,8 +144,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e834a67d5f76999",
+  "active": "a2fbb582379a7bc1",
   "lastOpenFiles": [
+    "Andrew/Background.md",
+    "Test.md",
     "Notizen/Wilde Theorien.md",
     "Andrew/Offtime & Steigern.md",
     "/Notizen/offen Fäden.md",
@@ -146,7 +161,6 @@
     "/Andrew/Steigern.md",
     "/Andrew/Offtime & Steigern.md",
     "Andrew/Offtime.md",
-    "Andrew/Background.md",
     "Andrew/Magie.md",
     "Andrew/Steigern.md",
     "Frag den Meister/Fragen.md",
@@ -162,7 +176,6 @@
     "/Andrew",
     "Notizen/Post Gier.md",
     "Offtime.md",
-    "Notizen/Über Proben.md",
     "/Notizen",
     "Notizen"
   ]
