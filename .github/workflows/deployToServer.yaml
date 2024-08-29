@@ -26,7 +26,11 @@ jobs:
           mkdir -p ~/.ssh
           echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_github
           chmod 600 ~/.ssh/id_github
+          echo -e "Host *\n  IdentityFile ~/.ssh/id_github\n" > ~/.ssh/config
+          chmod 600 ~/.ssh/config
           ssh-keyscan -H "$SSH_SERVER" >> ~/.ssh/known_hosts
+          
+          ls -la ~/.ssh
       - name: link markdown
         run: ln -s "$GITHUB_WORKSPACE/markdown" "$GITHUB_WORKSPACE/bundler/markdownfiles/markdown"
       - name: Install Dependecies
