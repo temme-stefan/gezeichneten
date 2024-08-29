@@ -1,5 +1,4 @@
-name: CI Workflow
-
+name: DeployToServer
 on:
   push:
     branches:
@@ -13,3 +12,5 @@ jobs:
         with:
           repository: 'temme-stefan/markdown-bundler'
           path: "bundler"
+      - name: listDirs
+        run: ls -la $GITHUB_WORKSPACE
