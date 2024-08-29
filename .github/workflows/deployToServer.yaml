@@ -30,7 +30,7 @@ jobs:
           chmod 600 ~/.ssh/config
           ssh-keyscan -H "$SSH_SERVER" >> ~/.ssh/known_hosts
       - name: Set Markdownfolder
-        run: echo "MD_BASEFOLDER=$(echo "$GITHUB_WORKSPACE/markdown" >> $GITHUB_ENV
+        run: echo "MD_BASEFOLDER=$(echo "$GITHUB_WORKSPACE/markdown") >> $GITHUB_ENV
       - name: Install Dependecies
         run: cd "$GITHUB_WORKSPACE/bundler"; npm install
       - name: Build
