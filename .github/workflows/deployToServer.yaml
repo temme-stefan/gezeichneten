@@ -10,7 +10,22 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
+          path: "markdown"
+      - uses: actions/checkout@v4
+        with:
           repository: 'temme-stefan/markdown-bundler'
           path: "bundler"
-      - name: listDirs
-        run: ls -la $GITHUB_WORKSPACE
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20.4
+      - name: link markdown
+        run: ln -s $GITHUB_WORKSPACE/markdown $GITHUB_WORKSPACE/bundle/markdownfiles/markdown
+      - name: Install Dependecies
+        run: npm install
+        working-directory: $GITHUB_WORKSPACE/bundler
+      - name: Build
+        run: npm run build
+        working-directory: $GITHUB_WORKSPACE/bundler
+      - name: deploy
+        run: npm run deploy
+        working-directory: $GITHUB_WORKSPACE/bundler
