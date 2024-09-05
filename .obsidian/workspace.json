@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andrew/Magie.md",
+                "file": "Frag den Meister/Über Bücher.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andrew/Magie.md",
+                "file": "Frag den Meister/Über Bücher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Andrew/Magie.md",
+                "file": "Frag den Meister/Über Bücher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Andrew/Magie.md"
+                "file": "Frag den Meister/Über Bücher.md"
               }
             }
           }
@@ -166,6 +166,7 @@
   },
   "active": "f90ae3f85df825a0",
   "lastOpenFiles": [
+    "Andrew/Magie.md",
     "Andrew/Steigern.md",
     "Frag den Meister/Fragen II.md",
     "Andrew/Offtime & Steigern.md",
@@ -182,7 +183,6 @@
     "Frag den Meister/Über Proben.md",
     "Archiv/Fragen.md",
     "Personen.md",
-    "Andrew/Magie.md",
     "Andrew/Background.md",
     "Archiv/Andrew wieder spielbar machen.md",
     "Archiv",
