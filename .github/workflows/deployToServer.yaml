@@ -36,6 +36,8 @@ jobs:
           echo "MD_GLOB=**/*.md" >> .env
       - name: Install Dependecies
         run: cd "$GITHUB_WORKSPACE/bundler"; npm install
+      - name: Install Dependecies Ap Calculator
+        run: cd "$GITHUB_WORKSPACE/bundler/APCalculator"; npm install
       - name: Build
         run: cd "$GITHUB_WORKSPACE/bundler"; npm run build
       - name: deploy
