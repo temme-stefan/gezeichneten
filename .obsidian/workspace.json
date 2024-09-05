@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andrew/Offtime & Steigern.md",
+                "file": "Andrew/Magie.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andrew/Offtime & Steigern.md",
+                "file": "Andrew/Magie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Andrew/Offtime & Steigern.md",
+                "file": "Andrew/Magie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Andrew/Offtime & Steigern.md"
+                "file": "Andrew/Magie.md"
               }
             }
           }
@@ -164,9 +164,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8240018f1075eeb9",
+  "active": "f90ae3f85df825a0",
   "lastOpenFiles": [
     "Andrew/Steigern.md",
+    "Frag den Meister/Fragen II.md",
     "Andrew/Offtime & Steigern.md",
     "Notizen/Träume.md",
     "Notizen/Lore.md",
@@ -194,7 +195,6 @@
     "Notizen/Klostertheorie.md",
     "Prophezeihung und Deutung.md",
     "Notizen/1. Zeichen Das alamadine Auge.md",
-    "Die Gezeichneten.md",
     "Externes",
     "Notizen",
     "Unbenannt.canvas"

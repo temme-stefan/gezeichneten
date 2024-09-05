@@ -12,7 +12,7 @@
 ## Aktionen 
 2 Jahre -> 16 Aktionen + 16 Gruppenaktionen?
 
-### Anti-Borbarad / Bücher und Schriften 
+## Anti-Borbarad / Bücher und Schriften 
 Was tut der Kerl als nächstes, kenne deinen Feind
 * Studium/Forschung [Mysterium von Kha](lore#Mysterium%20von%20Kha)
 * Blick in die Sterne: versuche vorherzusehen, wann wieder etwas passiert, vergleich jetzt damals mit Hilfe Neobaras Sterndeutung
@@ -30,7 +30,7 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 	* ggf. Teleskop/gutes Fernrohr kaufen
 	* 1 Aktion + 1 Aktion falls Borbaradstestament + 1-2 Aktionen Reise zu Verkauf oder Einlagerung
 
-### Alltag I
+## Alltag I
 * Konsultation Borongeweihten wegen [Träumen](Notizen/Träume.md), Schutz vor Träumen, Schutz vor Schaden durch Träume
 * Mehr Interesse an aktueller Politik/Entwicklung. Welche Talente?
 	* Staatskunst / Sagen und Legenden /Geschichtswissen /Heraldik
@@ -40,7 +40,7 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 	* Überzeugen: 1->3:10
 	* **Summe: 41**
 	* Aktion falls Reise zu Borontempel nötig
-### Akademie I - Intensivkurs Dämonenkampf
+## Akademie I - Intensivkurs Dämonenkampf
 *"Ahh Adeptus Andrew, lang habe ich euch nicht gesehen. Mit einigem Umbehagen lass ich euren letzten Bericht. Rondra war mit euch auf eurer Schlacht. Ein Astralsturm in einem Praioskloster, und Dämonen unterhalb. Sehr beunruhigend. Überlegt mal ob ihr eure Studien zum Dämonenkampf nicht vertiefen möchtest. Ich habe da noch eine Thesis, die euch helfen wird."* 
 *"Magister, das klingt sehr interessant."*
 * SF Merkmal Kraft als zweites Merkmal: 180 \*3/4: 135
@@ -49,7 +49,7 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 * Steigern Zauberklinge auf +5: ohne Kraft 61 mit Kraft: 47
 * **Summe: 252** 
 * 2 Aktionen
-### Akademie II - Auf die Beine du Schwächling
+## Akademie II - Auf die Beine du Schwächling
 *"Ach ne... der Herr von und zu Treublatt. Ihr habt euch gehen lassen. Ihr solltet euch den Eleven im Hof anschließen. So wie ihr ausseht am besten nicht nur heute. Denkt daran: Schwert **und** Stab. Rondra mit euch."
  * Schwerter: (E 8-> 10): 55+65
 * Stäbe: (D 8 -> 10): 45+50
@@ -63,7 +63,7 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 	* **Summe: 410**
 * Akademie II Follow up: GE + Finte : 420
 * 1 Aktion
-### Akademie III - Selbststudium/Literaturarbeit
+## Akademie III - Selbststudium/Literaturarbeit
 * Attributo 10-> 11 für Modifikation Schnellsteigerung: 14 -> Lehrer?
 * Ignifaxius 10 -> 11 für Varianten und Sicherheit: 14 -> Lehrer
 * Dupplicatus 6->7 für 2 Doppelgänger: 25
@@ -82,7 +82,7 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 	* Ignifaxius + Attributo + Duppicatus
 	* **Summe: 53**
 	* 2 Aktion 
-### Akademie IV - Forschungsarbeit zum Magus
+## Akademie IV - Forschungsarbeit zum Magus
 Von dem Gewebe das die Welt durchzieht, von Andrew Treublatt [Kraftlinien](Notizen/Kraftlinien.md) 
 Schriftenforschung in Bibliothek, Forschungsreise entlang aktiver Linien
 * Kosten: 
