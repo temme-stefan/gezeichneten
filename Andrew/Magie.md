@@ -9,7 +9,6 @@
 * ~~Axxeleratus: schon cool. Kann ich nicht, kann Findurian den?~~
 * Balsam: Heilung daher D und keine spontanen Modifikationen sonst mit Zauberdauer und Kosten sparen --> schlechte Entscheidung, Magier heilen besser als Elfen
 * Beherschung brechen. 40 Aktionen Antimagie
-* ~~Beschwörung vereiteln: Sogar relativ ok mit 15 Runden. Allerdings sind bei uns die Dämonenbeschwörer immer schon weg/tot. Für mich unnütz wegen zögerlicher Zauberer.~~
 * Blitz dich find: gekauft, nicht gegen Untote, Dämonen, Elementare, Spontan mehrere Personen: max MR + Anzahl Gegner
 * Corpofrigo: miese Attribute, gut gegen Humus,Feuer, Wasser ansonsten solide debuff + schaden
 * Cryptographo: Utility, nichts für mich
@@ -22,11 +21,9 @@
 * Fortifex: könnte mit ZFW 11 und Adrew goes Martial Interessant werden (Schimmernder Schild). Dann Kandidat für Stabzauber (Armatrutz, Stabzauber, Flammenschwert, Nahkampf)
 * Fulminictus: 2W6 + ZfP* Schaden, 1 Asp je Schaden, Modifikationen Murks, keine Kostenmodifikation möglich. Stabzauber?
 * Guardianum: gegen Magier sofort Zaubern, Dämonenschild!
-* ~~Gefäß der Jahre: Hier hätten wir noch eine Möglichkeit wie Andrew mit dem Altern umgehne könnte~~
 * Ignifaxius: Flammenlanze, Ansage: ZfP W6 Feuerschaden als TP, macht Rüstung ggf. kaputt (je 10 TP 1 RS) . Stabzauber?
 * Invercano: !!!F!!! Warten wir mal, wann mir der Guardianum nicht mehr reicht.
 * ~~Kulminato: Der könnte mal als Belohnung droppen, bzw ein geneigter Lehrmeister. Nichts was ich einfach so bekommen will ~~
-* ~~Last des Alters: Finger weg hier von. Der tötet meinen Helden~~
 * Oculus: Über Auge, auf jeden Fall weiter nutzen, zur Kraftlinien Forschung
 * Odem: Brauch ich den noch? Hohe Kenntniss hier erklärt aber guten Umgang mit dem Oculus
 * Paralysis: Hauptanwendung vermutlich Selbstrettung, Verzweifelt einzelnen aus dem Kampf nehmen
