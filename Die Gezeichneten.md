@@ -6,5 +6,5 @@
 
 ## Orbrandt
 [Orbrandt, auch Archon Megalon](Personen.md#Orbrandt,%20auch%20Archon%20Megalon) 
-[3. Zeichen ? Krötensinn ?](Notizen/3.%20Zeichen%20?%20Krötensinn%20?.md)
+[3. Zeichen Krötensinn](Notizen/3.%20Zeichen%20Krötensinn.md)
 

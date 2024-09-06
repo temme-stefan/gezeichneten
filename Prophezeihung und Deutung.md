@@ -30,15 +30,15 @@
 | Wenn die Bäume auf der See wurzeln, die Festungen über das land wandeln, und die Belagerungstürme über den Himmel ziehen. |                                                                                                                                                                                                                                         |
 
 ### 4. Spruch: Von den Sieben Gezeichneten 
-| Vers                                                                            | Deutung                                                                                                                   |
-| ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Vers                                                                            | Deutung                                                                                                                 |
+| ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | Wenn der allein Ahnende mit dem almadinen Auge angekommen.                      | [2. Rahja 22 Hal](Geschichte.md#2.%20Rahja%2022%20Hal) <br>[Andrew der Weiße](Die%20Gezeichneten.md#Andrew%20der%20Weiße) |
-| Wenn der Bote des wandelnden Bildes zum Bündnis bittet.                         | [Findurian](Die%20Gezeichneten.md#Findurian)                                                                              |
-| Wenn das kühne Tier mit dem Krötensinn seinen Kürschmeister gekürt.             | [Komischer Druide/Magier](Die%20Gezeichneten.md#Komischer%20Druide/Magier)                                                |
-| Wenn fünf firnglänzende finger den Fluch der Felder gefunden.                   |                                                                                                                           |
-| Wenn nur mehr die stählerne Stirn den schrecklichen Schatten standhält.         |                                                                                                                           |
-| Wenn das geflügelte Geschoss dem Grauen der Götter gilt.                        |                                                                                                                           |
-| Wenn aus sieben Schalen Schärfe schäumt, dagegen kein Schrecknis gewachsen ist. |                                                                                                                           |
+| Wenn der Bote des wandelnden Bildes zum Bündnis bittet.                         | [Findurian](Die%20Gezeichneten.md#Findurian)                                                                            |
+| Wenn das kühne Tier mit dem Krötensinn seinen Kürschmeister gekürt.             | [Komischer Druide/Magier](Die%20Gezeichneten.md#Orbrandt)                                                |
+| Wenn fünf firnglänzende finger den Fluch der Felder gefunden.                   |                                                                                                                         |
+| Wenn nur mehr die stählerne Stirn den schrecklichen Schatten standhält.         |                                                                                                                         |
+| Wenn das geflügelte Geschoss dem Grauen der Götter gilt.                        |                                                                                                                         |
+| Wenn aus sieben Schalen Schärfe schäumt, dagegen kein Schrecknis gewachsen ist. |                                                                                                                         |
 
 ### 5. Spruch: Vom Ende des Zeitalters 
 | Vers                                                                                             | Deutung |
