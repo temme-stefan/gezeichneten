@@ -18,3 +18,4 @@ Erzdamonischer Einfluss, Humus zu Erz
 Umwandlung von Elementen setzt Magie frei.
 
 Eschim von Quell, Geode, versteckt hier oben genanntes Artefakt.
+
