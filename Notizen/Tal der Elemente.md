@@ -16,3 +16,5 @@ Geschichte:
 [~517 BF - 617 BF](Geschichte#~517%20BF%20-%20617%20BF)
 Erzdamonischer Einfluss, Humus zu Erz
 Umwandlung von Elementen setzt Magie frei.
+
+Eschim von Quell, Geode, versteckt hier oben genanntes Artefakt.
