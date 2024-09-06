@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andrew/Background.md",
+                "file": "Personen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Andrew/Background.md",
+            "file": "Personen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Andrew/Background.md",
+            "file": "Personen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Andrew/Background.md"
+            "file": "Personen.md"
           }
         }
       }
@@ -133,12 +133,13 @@
   },
   "active": "6e834a67d5f76999",
   "lastOpenFiles": [
+    "Geschichte.md",
+    "Andrew/Background.md",
     "Frag den Meister/Fragen II.md",
     "/Frag den Meister/Fragen II.md",
     "/Andrew/Offtime & Steigern.md",
     "/Andrew/Magie.md",
     "Test.md",
-    "Andrew/Background.md",
     "Notizen/Wilde Theorien.md",
     "Andrew/Offtime & Steigern.md",
     "/Notizen/offen Fäden.md",
@@ -158,7 +159,6 @@
     "/Frag den Meister/Über Proben.md",
     "Notizen/Offtime.md",
     "/Frag den Meister/Fragen.md",
-    "/Andrew/Offtime.md",
     "Frag den Meister",
     "Andrew",
     "/Frag den Meister",

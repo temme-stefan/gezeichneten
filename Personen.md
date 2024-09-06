@@ -82,8 +82,8 @@ Gefangenener von [Orbrandt](#Orbrandt), durch uns befreit
 ### Ankoron von Katzenzorn
 Gefangenener von [Orbrandt](#Orbrandt), durch uns befreit
 
-### Orbrandt, auch Archon Megalon
-*Elementarist/Druide*, ehem. Hofmagier der Fürsten von Harvena, Träger des [3. Zeichen ? Krötensinn ?](Notizen/3.%20Zeichen%20?%20Krötensinn%20?.md), Seelentier Grauwolf?
+### Orbrandt von Harvena, auch Archon Megalon
+*Elementarist/Druide*, ehem. Hofmagier der Fürsten von Harvena, Träger des [3. Zeichen ? Krötensinn ?](Notizen/3.%20Zeichen%20?%20Krötensinn%20?.md), Seelentier Grauwolf?, graue Haare, Bart bis zur Brust, hager, hoch aufgeschlossen, sehr selbstbewusst mit viel Ausstrahlung 
 
 ## Antagonisten
 
