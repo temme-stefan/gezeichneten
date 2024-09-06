@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notizen/Tal der Elemente.md",
+                "file": "Die Gezeichneten.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notizen/Tal der Elemente.md",
+            "file": "Die Gezeichneten.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notizen/Tal der Elemente.md",
+            "file": "Die Gezeichneten.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notizen/Tal der Elemente.md"
+            "file": "Die Gezeichneten.md"
           }
         }
       }
@@ -133,8 +133,15 @@
   },
   "active": "6e834a67d5f76999",
   "lastOpenFiles": [
-    "Personen.md",
+    "Prophezeihung und Deutung.md",
     "Notizen/Tal der Elemente.md",
+    "Notizen/3. Zeichen Krötensinn.md",
+    "/Prophezeihung und Deutung.md",
+    "/Personen.md",
+    "/Notizen/Klostertheorie.md",
+    "/Notizen/3. Zeichen Krötensinn.md",
+    "/Die Gezeichneten.md",
+    "Personen.md",
     "Geschichte.md",
     "Notizen/Kraftlinien.md",
     "Andrew/Background.md",
@@ -152,13 +159,6 @@
     "/Notizen/Kraftlinien.md",
     "/Notizen/2. Zeichen Das wandelndene Bild.md",
     "/Geschichte.md",
-    "/Frag den Meister/Über Bücher.md",
-    "/Andrew/Steigern.md",
-    "Andrew/Offtime.md",
-    "Andrew/Magie.md",
-    "Andrew/Steigern.md",
-    "Frag den Meister/Fragen.md",
-    "Frag den Meister/Über Proben.md",
     "Frag den Meister",
     "Andrew",
     "/Frag den Meister",
