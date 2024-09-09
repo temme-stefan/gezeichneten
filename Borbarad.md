@@ -23,6 +23,7 @@ Meister außerhalb des Todes [4. Spruch Von den Sieben Gezeichneten](Prophezeihu
 * Bastard einer Hure
 * Bruder Rohals
 * Archon Megalon fühlt Veränderungen im Tal der Elemente die auf Einflüsse Widharcal hindeuten ([Von den Erzdämonen](Notizen/Lore.md#Von%20den%20Erzdämonen)). Wie bereits bei der Zerstörung des Humus in diesem Tal ([Tal der Elemente](Notizen/Tal%20der%20Elemente.md)). Kommt die Macht Borbarads von Widharcal?
+* Schlägt Bündnis mit Namenlosen aus. Wer ist mächtiger? Der Namenlose oder ein Erzdämon? Oder gar Borbarad selbst göttlich?
 
 ## Neuzeit
 * es tauchen [Borbaradianer](Notizen/Borbaradianer.md) auf

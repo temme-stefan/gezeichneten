@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Borbarad.md",
+                "file": "Notizen/Borbaradianer.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Borbarad.md",
+            "file": "Notizen/Borbaradianer.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Borbarad.md",
+            "file": "Notizen/Borbaradianer.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,12 +114,20 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Borbarad.md"
+            "file": "Notizen/Borbaradianer.md"
           }
+        }
+      },
+      {
+        "id": "b20133b0af44a183",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {}
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -134,8 +142,10 @@
   },
   "active": "6e834a67d5f76999",
   "lastOpenFiles": [
-    "Notizen/Tal der Elemente.md",
     "Borbarad.md",
+    "Notizen/Borbaradianer.md",
+    "Notizen/Lore.md",
+    "Notizen/Tal der Elemente.md",
     "Prophezeihung und Deutung.md",
     "Die Gezeichneten.md",
     "Notizen/3. Zeichen Krötensinn.md",
@@ -158,8 +168,6 @@
     "/Notizen/offen Fäden.md",
     "/Notizen/Wilde Theorien.md",
     "/Notizen/Träume.md",
-    "/Notizen/Lore.md",
-    "/Notizen/Kraftlinien.md",
     "Frag den Meister",
     "Andrew",
     "/Frag den Meister",
