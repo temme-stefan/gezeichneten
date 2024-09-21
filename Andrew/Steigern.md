@@ -17,17 +17,6 @@ Spezialisierungen je Zauber:
 * Erste ab ZfW 7, 20 * Aktiverungsfaktor
 * Zweite ab TaW 14,  doppelte Kosten
 
-## Nach Grenzenlose Macht
-### Free:
-+3 pAsp
-### Spezielle Erfahrung:
-* Magiekunde (B-> A 12 -> 13): 17
-* Geografie (B -> A 11 -> 12):16
-* Malen/Zeichnen (B  4->5): 11 für Baukunst
-* Baukunst (B-> A Aktivierung Stufe 11) :14
-* Götter & Kulte (B-> A 9 -> 10):13 
-* **SUMME**: 71
-
 
  
 

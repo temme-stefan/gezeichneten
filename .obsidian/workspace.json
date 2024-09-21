@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andrew/Steigern.md",
+                "file": "Andrew/Gedanken zu Steigern.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andrew/Steigern.md",
+                "file": "Andrew/Gedanken zu Steigern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Andrew/Steigern.md",
+                "file": "Andrew/Gedanken zu Steigern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Andrew/Steigern.md"
+                "file": "Andrew/Gedanken zu Steigern.md"
               }
             }
           }
@@ -166,8 +166,8 @@
   },
   "active": "f90ae3f85df825a0",
   "lastOpenFiles": [
-    "Andrew/Gedanken zu Steigern.md",
     "Andrew/Steigern.md",
+    "Andrew/Gedanken zu Steigern.md",
     "Frag den Meister/Über Bücher.md",
     "Andrew/Magie.md",
     "Frag den Meister/Fragen II.md",
