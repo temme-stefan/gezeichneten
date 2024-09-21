@@ -71,7 +71,7 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 *"Ahh Adeptus Andrew, lang habe ich euch nicht gesehen. Mit einigem Umbehagen lass ich euren letzten Bericht. Rondra war mit euch auf eurer Schlacht. Ein Astralsturm in einem Praioskloster, und Dämonen unterhalb. Sehr beunruhigend. Überlegt mal ob ihr eure Studien zum Dämonenkampf nicht vertiefen möchtet. Ich habe da ein altes Manuskript gefunden und benötigte einen Forschungsassistenten. Erst dachte ich es handele sich lediglich um eine alternative Herleitung des Adamantium, aber die Matrixmanipulation scheint grundverschieden zu sein."* 
 *"Magister, das klingt sehr interessant."*
 * SF Merkmal Kraft als zweites Merkmal: 180 \*3/4: 135
-* Spezialisierung Guardianum: Dämonenschild: 80, falls Kraft: 60 \*3/4: 23
+* Spezialisierung Guardianum: Dämonenschild: (80, falls Kraft: 60) \*3/4: 60, falls Kraft 45
 * Aktivieren Zauberklinge: Stufe 12 ohne Merkmal Kraft -> 65, mit Merkmal Kraft 47
 * Steigern Zauberklinge auf +5: ohne Kraft 61 mit Kraft: 47
 * **Summe: 252** 
