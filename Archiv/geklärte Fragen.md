@@ -5,3 +5,8 @@
 	* Braucht man nicht unbedingt, eigentlich besser ohne
 * Zauberklinge Geisterspeer aktivierbar?
     * Ja!
+* Durchführung große Mediation Kostenreduziert oder nur Kauf
+	* selbst interpretiert: durchführung nicht reduziert
+## Todos des Meisters
+* Aktionen festlegen
+     * 13 individuell + 13 Gruppenaktionspunkte
