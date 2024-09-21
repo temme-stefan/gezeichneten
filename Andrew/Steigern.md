@@ -8,6 +8,8 @@
 | [Alltag](Andrew/Steigern.md#Alltag)                                                             |     -41 |        0 |   5D |
 | [Kraftlinienforschung/Reisen](Andrew/Steigern.md#Kraftlinienforschung/Reisen)                   |         |        4 |    ? |
 | **Rest**                                                                                        |   **0** |          |      |
+
+Keine Zeichenforschung, keine Prophezeihungsforschung, sondern mit Antiborbarad der versuch direkter einzugreifen
 ## Spezielle Erfahrungen
 ### Free:
 +3 pAsp -> eingetragen
@@ -60,14 +62,13 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 * Fiebel für Pollux: Amboss aus Silber mit Rubinsplittern die ein Feuer darstellen -> 5D
 * Mehr Interesse an aktueller Politik/Entwicklung. Welche Talente?
 	* Staatskunst / Sagen und Legenden /Geschichtswissen /Heraldik
-* Alltag I:
-	* Staatskunst 2->4: 14
-	* Etikette 6->7: 17
-	* Überzeugen: 1->3:10
+		* Staatskunst 2->4: 14
+		* Etikette 6->7: 17
+		* Überzeugen: 1->3:10
 * **Summe: 41**
 * **Gold: 5D**
 ## Forschung & Training Dämonenkampf
-*"Ahh Adeptus Andrew, lang habe ich euch nicht gesehen. Mit einigem Umbehagen lass ich euren letzten Bericht. Rondra war mit euch auf eurer Schlacht. Ein Astralsturm in einem Praioskloster, und Dämonen unterhalb. Sehr beunruhigend. Überlegt mal ob ihr eure Studien zum Dämonenkampf nicht vertiefen möchtet. Ich habe da ein altes Manuskript gefunden und benötigte einen Forschungsassistenten. Erst dachte ich es handele sich lediglich um eine Alternative Herleitung des Adamantium, aber die Matrixmanipulation scheint grundverschieden zu sein."* 
+*"Ahh Adeptus Andrew, lang habe ich euch nicht gesehen. Mit einigem Umbehagen lass ich euren letzten Bericht. Rondra war mit euch auf eurer Schlacht. Ein Astralsturm in einem Praioskloster, und Dämonen unterhalb. Sehr beunruhigend. Überlegt mal ob ihr eure Studien zum Dämonenkampf nicht vertiefen möchtet. Ich habe da ein altes Manuskript gefunden und benötigte einen Forschungsassistenten. Erst dachte ich es handele sich lediglich um eine alternative Herleitung des Adamantium, aber die Matrixmanipulation scheint grundverschieden zu sein."* 
 *"Magister, das klingt sehr interessant."*
 * SF Merkmal Kraft als zweites Merkmal: 180 \*3/4: 135
 * Spezialisierung Guardianum: Dämonenschild: 80, falls Kraft: 60 \*3/4: 23
@@ -87,9 +88,6 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 * **Summe: 228**
 * 2x 11, 1 SF : 3 Aktionen (Bücherei als Lehrer)
 * **Aktionen: 3**
-
-
-### Besorgungen
 
 
 

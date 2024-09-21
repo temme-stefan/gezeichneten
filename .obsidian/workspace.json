@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notizen/Unbenannt.md",
+                "file": "Andrew/Steigern.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notizen/Unbenannt.md",
+                "file": "Andrew/Steigern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notizen/Unbenannt.md",
+                "file": "Andrew/Steigern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notizen/Unbenannt.md"
+                "file": "Andrew/Steigern.md"
               }
             }
           }
@@ -146,10 +146,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8240018f1075eeb9",
+  "active": "87526b28f7a4c4b1",
   "lastOpenFiles": [
+    "Notizen/Gruppenaktionen.md",
+    "Notizen/Tal der Elemente.md",
     "Andrew/Steigern.md",
-    "Notizen/Unbenannt.md",
     "Archiv/Fragen.md",
     "Frag den Meister/Fragen.md",
     "Die Gezeichneten.md",
@@ -177,7 +178,6 @@
     "Notizen/Vampire.md",
     "Andrew",
     "Notizen/Trivia.md",
-    "Notizen/3. Zeichen Krötensinn.md",
     "Externes",
     "Notizen",
     "Unbenannt.canvas"
