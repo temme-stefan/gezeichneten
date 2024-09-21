@@ -1,12 +1,13 @@
-| Steigerung                        |      AP | Aktionen |
-| --------------------------------- | ------: | -------: |
-| **Start**                         | **662** |       13 |
-| spezielle Erfahrungen             |     -71 |        0 |
-| Anti Borbarad                     |     -70 |          |
-| Forschung & Training Dämonenkampf |    -252 |        4 |
-| Selbststudium/Literaturarbeit     |    -228 |        3 |
-| Alltag I                          |     -41 |          |
-| **Rest**                          |   **0** |          |
+| Steigerung                                                                                      |      AP | Aktionen | Gold |
+| ----------------------------------------------------------------------------------------------- | ------: | -------: | ---: |
+| **Start**                                                                                       | **662** |       13 |      |
+| [Spezielle Erfahrungen](Andrew/Steigern.md#Spezielle%20Erfahrungen)                             |     -71 |        0 |    0 |
+| [Anti-Borbarad](Andrew/Steigern.md#Anti-Borbarad)                                               |     -70 |      2+? |    ? |
+| [Forschung & Training Dämonenkampf](Andrew/Steigern.md#Forschung%20&%20Training%20Dämonenkampf) |    -252 |        4 |    0 |
+| [Selbststudium/Literaturarbeit](Andrew/Steigern.md#Selbststudium/Literaturarbeit)               |    -228 |        3 |    0 |
+| [Alltag](Andrew/Steigern.md#Alltag)                                                             |     -41 |        0 |    0 |
+| [Kraftlinienforschung/Reisen](Andrew/Steigern.md#Kraftlinienforschung/Reisen)                   |         |        4 |    ? |
+| **Rest**                                                                                        |   **0** |          |      |
 ## Spezielle Erfahrungen
 ### Free:
 +3 pAsp -> eingetragen
@@ -18,33 +19,41 @@
 * Götter & Kulte (B-> A 9 -> 10):13 
 * **SUMME: 71**
 
-## Aktionen 
-2 Jahre -> 13 Aktionen + 13 Gruppenaktionen
 
-## Anti-Borbarad / Bücher und Schriften 
+## Anti-Borbarad 
 Was tut der Kerl als nächstes, kenne deinen Feind
 * Studium/Forschung [Mysterium von Kha](lore#Mysterium%20von%20Kha)
 	* Spezialisierung Magiekunde Sphären -> 20
 	* Lehrer: Bücherei 1 Aktion
 * Blick in die Sterne: versuche vorherzusehen, wann wieder etwas passiert, vergleich jetzt damals mit Hilfe Neobaras Sterndeutung
 	* Sternkunde 3->7 : 50 
-	* Mobiles Teleskop oder Fernrohr besorgen: 1 Aktion
-	* 
+	* Reiseteleskop oder Fernrohr besorgen: 1 Aktion
 * Kenne deinen Feind: Studium von Borbaradts Testament unter Aufsicht der Praioskirche (verbotene Schrift) und ggf sekundär Literatur. Begündung: Seltsame Magiewirker, Magieraltar, da war ein Dämon über Wochen im Praioskloster!!!
 	* Wie erkennt man einen Borbaradianer?
 	* Woher beziehen sie ihre Macht?
 	* Vorsichtsmaßnahmen: nur im Licht des Praios lesend, am liebsten mit Geweihten an meiner Seite der mein Seelenheil überwacht (Andrew hat davor einen enormen Respekt)
-* Bücher einordnen & verkaufen & verteilen 
-	* Tagebuch Laniara -> TSA tempel?
-	* die vermutlich 3 verbotenen Bücher -> PRA (Gareth) oder HES (Kuslik)
+	* vermutlich 1-2 Aktionen 
 * Kosten:
 	* Mysterium von Kha: Spezialisierung Magiekunde Sphären -> 20
 	* Sternkunde: 3 -> 7: 62-12=50
 	* **Summe: 70**
-	* ggf. Teleskop/gutes Fernrohr kaufen
-	* 1 Aktion + 1 Aktion falls Borbaradstestament + 1-2 Aktionen Reise zu Verkauf oder Einlagerung
+	* SF, Gegenstand kaufen: 2 Aktionen
+	* Borbarads Testament: ? Aktionen
+	* **Aktionen: 2 + ?**
+	* Fernrohr kaufen -> ? Gold
+	* **Gold: ?**
+	
 
-## Alltag I
+## Kraftlinienforschung/Reisen
+* Bereise Nordaventurien und kartograpfiere Kraftlinien -> große Reise (oder 3 kleine Reisen)
+* gute Karte Aventurien besorgen -> ? Gold
+* Bücher einordnen & verkaufen & verteilen 
+	* Tagebuch Laniara -> TSA tempel?
+	* die vermutlich 3 verbotenen Bücher -> PRA (Gareth) oder HES (Kuslik)
+* **Aktionen: 4**
+* **Gold**: ?
+
+## Alltag 
 * Konsultation Borongeweihten wegen [Träumen](Notizen/Träume.md), Schutz vor Träumen, Schutz vor Schaden durch Träume
 * Mehr Interesse an aktueller Politik/Entwicklung. Welche Talente?
 	* Staatskunst / Sagen und Legenden /Geschichtswissen /Heraldik
@@ -53,7 +62,6 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 	* Etikette 6->7: 17
 	* Überzeugen: 1->3:10
 	* **Summe: 41**
-	* Aktion falls Reise zu Borontempel nötig
 ## Forschung & Training Dämonenkampf
 *"Ahh Adeptus Andrew, lang habe ich euch nicht gesehen. Mit einigem Umbehagen lass ich euren letzten Bericht. Rondra war mit euch auf eurer Schlacht. Ein Astralsturm in einem Praioskloster, und Dämonen unterhalb. Sehr beunruhigend. Überlegt mal ob ihr eure Studien zum Dämonenkampf nicht vertiefen möchtet. Ich habe da ein altes Manuskript gefunden und benötigte einen Forschungsassistenten. Erst dachte ich es handele sich lediglich um eine Alternative Herleitung des Adamantium, aber die Matrixmanipulation scheint grundverschieden zu sein."* 
 *"Magister, das klingt sehr interessant."*

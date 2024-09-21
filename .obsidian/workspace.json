@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "5866aa4db80fce58",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f90ae3f85df825a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Andrew/Steigern.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "3306c311c49d46fb",
         "type": "tabs",
         "children": [
@@ -31,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andrew/Gedanken zu Steigern.md",
+                "file": "Andrew/Steigern.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,10 +146,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f90ae3f85df825a0",
+  "active": "87526b28f7a4c4b1",
   "lastOpenFiles": [
     "Andrew/Gedanken zu Steigern.md",
+    "Kraftlinien/Reisen.md",
     "Andrew/Steigern.md",
+    "Kraftlinien",
     "Andrew/Magie.md",
     "Frag den Meister/Über Bücher.md",
     "Frag den Meister/Fragen II.md",
@@ -194,7 +178,6 @@
     "Notizen/3. Zeichen Krötensinn.md",
     "Notizen/Klostertheorie.md",
     "Prophezeihung und Deutung.md",
-    "Notizen/1. Zeichen Das alamadine Auge.md",
     "Externes",
     "Notizen",
     "Unbenannt.canvas"
