@@ -1,3 +1,12 @@
+| Steigerung            | AP      | Aktionen |
+| --------------------- | ------- | -------- |
+| **Start**             | **662** | 13       |
+| spezielle Erfahrungen | -71     | 0        |
+| Anti Borbarad         | -70     |          |
+| Akademie I            | -252    |          |
+| Akademie IIIb         | -228    |          |
+| Alltag I              | -41     |          |
+| **Rest**              | **0**   |          |
 ## Spezielle Erfahrungen
 ### Free:
 +3 pAsp -> eingetragen
@@ -74,15 +83,8 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 
 ### Variante 2 Dämonentraining
 
-| Steigerung            | AP      |
-| --------------------- | ------- |
-| **Start**             | **662** |
-| spezielle Erfahrungen | -71     |
-| Anti Borbarad         | -70     |
-| Akademie I            | -252    |
-| Akademie IIIb         | -228    |
-| Alltag I              | -41     |
-| **Rest**              | **0**   |
+
+
 
 
 
