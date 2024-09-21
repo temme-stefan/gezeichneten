@@ -16,4 +16,4 @@ Mit Hilfe der drei Bücher und der Übersetzung hat ben Seyshaban Zeitformeln re
 Meta Fragen:
 
 * Wieviel verbaue ich uns, wenn ich die nicht studiere?
-* Gibt es irgendeine Kompensation wenn wir die nicht verkaufen sondern in einen Tempel (PRA/HES) verwahren?
+* Gibt es irgendeine Kompensation wenn wir die nicht verkaufen sondern in einen Tempel (PRA/HES) verwahren? 
