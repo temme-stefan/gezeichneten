@@ -50,7 +50,7 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 	* **Summe: 41**
 	* Aktion falls Reise zu Borontempel nötig
 ## Akademie I - Intensivkurs Dämonenkampf
-*"Ahh Adeptus Andrew, lang habe ich euch nicht gesehen. Mit einigem Umbehagen lass ich euren letzten Bericht. Rondra war mit euch auf eurer Schlacht. Ein Astralsturm in einem Praioskloster, und Dämonen unterhalb. Sehr beunruhigend. Überlegt mal ob ihr eure Studien zum Dämonenkampf nicht vertiefen möchtest. Ich habe da noch eine Thesis, die euch helfen wird."* 
+*"Ahh Adeptus Andrew, lang habe ich euch nicht gesehen. Mit einigem Umbehagen lass ich euren letzten Bericht. Rondra war mit euch auf eurer Schlacht. Ein Astralsturm in einem Praioskloster, und Dämonen unterhalb. Sehr beunruhigend. Überlegt mal ob ihr eure Studien zum Dämonenkampf nicht vertiefen möchtet. Ich habe da noch eine Thesis, die euch helfen wird."* 
 *"Magister, das klingt sehr interessant."*
 * SF Merkmal Kraft als zweites Merkmal: 180 \*3/4: 135
 * Spezialisierung Guardianum: Dämonenschild: 80, falls Kraft: 60 \*3/4: 23
