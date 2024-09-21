@@ -1,24 +1,89 @@
+## Spezielle Erfahrungen
+### Free:
++3 pAsp -> eingetragen
+### Spezielle Erfahrung:
+* Magiekunde (B-> A 12 -> 13): 17
+* Geografie (B -> A 11 -> 12):16
+* Malen/Zeichnen (B  4->5): 11 für Baukunst
+* Baukunst (B-> A Aktivierung Stufe 11) :14
+* Götter & Kulte (B-> A 9 -> 10):13 
+* **SUMME: 71**
 
-* Jetzt machen wir Aua:
-	* Aktivieren & Steigern Kulminatio
-	* Jetzt auf jeden Fall zu früh
-* Gedanken zu Merkmalen:
-	* Merkmal Eigenschaften: (180 oder 450) \*3/8 + 
-	* Merkmal Kraft: (180 oder 450) \*3/4
-	+ Besser Kraft zuerst: 135 Kraft. Eigenschaften: 169
+## Aktionen 
+2 Jahre -> 13 Aktionen + 13 Gruppenaktionen
 
-## Regeln 
+## Anti-Borbarad / Bücher und Schriften 
+Was tut der Kerl als nächstes, kenne deinen Feind
+* Studium/Forschung [Mysterium von Kha](lore#Mysterium%20von%20Kha)
+* Blick in die Sterne: versuche vorherzusehen, wann wieder etwas passiert, vergleich jetzt damals mit Hilfe Neobaras Sterndeutung
+* Kenne deinen Feind: Studium von Borbaradts Testament unter Aufsicht der Praioskirche (verbotene Schrift) und ggf sekundär Literatur. Begündung: Seltsame Magiewirker, Magieraltar, da war ein Dämon über Wochen im Praioskloster!!!
+	* Wie erkennt man einen Borbaradianer?
+	* Woher beziehen sie ihre Macht?
+	* Vorsichtsmaßnahmen: nur im Licht des Praios lesend, am liebsten mit Geweihten an meiner Seite der mein Seelenheil überwacht (Andrew hat davor einen enormen Respekt)
+* Bücher einordnen & verkaufen & verteilen 
+	* Tagebuch Laniara -> TSA tempel?
+	* die vermutlich 3 verbotenen Bücher -> PRA (Gareth) oder HES (Kuslik)
+* Kosten:
+	* Mysterium von Kha: Spezialisierung Magiekunde Sphären -> 20
+	* Sternkunde: 3 -> 7: 62-12=50
+	* **Summe: 70**
+	* ggf. Teleskop/gutes Fernrohr kaufen
+	* 1 Aktion + 1 Aktion falls Borbaradstestament + 1-2 Aktionen Reise zu Verkauf oder Einlagerung
 
-Spezialisierungen je Talent:
-* Erste ab TaW 7, A 20, B 25, C 35, D 50, E 70, F 100
-* Zweite ab TaW 15,  doppelte Kosten
+## Alltag I
+* Konsultation Borongeweihten wegen [Träumen](Notizen/Träume.md), Schutz vor Träumen, Schutz vor Schaden durch Träume
+* Mehr Interesse an aktueller Politik/Entwicklung. Welche Talente?
+	* Staatskunst / Sagen und Legenden /Geschichtswissen /Heraldik
+* Alltag I:
+	* Staatskunst 2->4: 14
+	* Etikette 6->7: 17
+	* Überzeugen: 1->3:10
+	* **Summe: 41**
+	* Aktion falls Reise zu Borontempel nötig
+## Akademie I - Intensivkurs Dämonenkampf
+*"Ahh Adeptus Andrew, lang habe ich euch nicht gesehen. Mit einigem Umbehagen lass ich euren letzten Bericht. Rondra war mit euch auf eurer Schlacht. Ein Astralsturm in einem Praioskloster, und Dämonen unterhalb. Sehr beunruhigend. Überlegt mal ob ihr eure Studien zum Dämonenkampf nicht vertiefen möchtest. Ich habe da noch eine Thesis, die euch helfen wird."* 
+*"Magister, das klingt sehr interessant."*
+* SF Merkmal Kraft als zweites Merkmal: 180 \*3/4: 135
+* Spezialisierung Guardianum: Dämonenschild: 80, falls Kraft: 60 \*3/4: 23
+* Aktivieren Zauberklinge: Stufe 12 ohne Merkmal Kraft -> 65, mit Merkmal Kraft 47
+* Steigern Zauberklinge auf +5: ohne Kraft 61 mit Kraft: 47
+* **Summe: 252** 
+* 2 Aktionen
 
-Spezialisierungen je Zauber:
-* Erste ab ZfW 7, 20 * Aktiverungsfaktor
-* Zweite ab TaW 14,  doppelte Kosten
+## Akademie III - Selbststudium/Literaturarbeit
+* Attributo 10-> 11 für Modifikation Schnellsteigerung: 14 -> Lehrer?
+* Ignifaxius 10 -> 11 für Varianten und Sicherheit: 14 -> Lehrer
+* Dupplicatus 6->7 für 2 Doppelgänger: 25
+* Stab finalisieren: Apport
+		* Object Ritual: Apport: 200\*3/4 = 175
+
+* Akademie IIIa:
+	* Attributo & Ignifaxius
+	* **Summe:28**
+	* 2 Aktionen
+* Akademie IIIb:
+	* Ignifaxius + Attributo + Duppicatus + Apport
+	* **Summe: 228**
+	* 2 Aktion 
 
 
- 
+### Besorgungen
+* Geld eintreiben -> 1 Aktion wenn keine verknüpfte Reise
+
+## Was tun?
+
+### Variante 2 Dämonentraining
+
+| Steigerung            | AP      |
+| --------------------- | ------- |
+| **Start**             | **662** |
+| spezielle Erfahrungen | -71     |
+| Anti Borbarad         | -70     |
+| Akademie I            | -252    |
+| Akademie IIIb         | -228    |
+| Alltag I              | -41     |
+| **Rest**              | **0**   |
+
 
 
 
