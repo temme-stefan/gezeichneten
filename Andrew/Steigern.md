@@ -29,7 +29,7 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 	* Lehrer: Bücherei 1 Aktion
 * Blick in die Sterne: versuche vorherzusehen, wann wieder etwas passiert, vergleich jetzt damals mit Hilfe Neobaras Sterndeutung
 	* Sternkunde 3->7 : 50 
-	* Reiseteleskop oder Fernrohr besorgen: 1 Aktion
+	* Reiseteleskop oder Fernrohr besorgen: 1 Aktion + ? Gold
 * Kenne deinen Feind: Studium von Borbaradts Testament unter Aufsicht der Praioskirche (verbotene Schrift) und ggf sekundär Literatur. Begündung: Seltsame Magiewirker, Magieraltar, da war ein Dämon über Wochen im Praioskloster!!!
 	* Wie erkennt man einen Borbaradianer?
 	* Woher beziehen sie ihre Macht?
@@ -42,7 +42,6 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 	* SF, Gegenstand kaufen: 2 Aktionen
 	* Borbarads Testament: ? Aktionen
 	* **Aktionen: 2 + ?**
-	* Fernrohr kaufen -> ? Gold
 	* **Gold: ?**
 	
 
