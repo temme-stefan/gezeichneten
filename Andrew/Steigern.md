@@ -4,10 +4,10 @@
 | [Spezielle Erfahrungen](Andrew/Steigern.md#Spezielle%20Erfahrungen)                             |     -71 |        0 |    0 |
 | [Anti-Borbarad](Andrew/Steigern.md#Anti-Borbarad)                                               |     -70 |      2+? |    ? |
 | [Forschung & Training Dämonenkampf](Andrew/Steigern.md#Forschung%20&%20Training%20Dämonenkampf) |    -274 |        4 |    0 |
-| [Selbststudium/Literaturarbeit](Andrew/Steigern.md#Selbststudium/Literaturarbeit)               |    -228 |        3 |    0 |
+| [Selbststudium/Literaturarbeit](Andrew/Steigern.md#Selbststudium/Literaturarbeit)               |    -203 |        3 |    0 |
 | [Alltag](Andrew/Steigern.md#Alltag)                                                             |     -41 |        0 |   5D |
 | [Kraftlinienforschung/Reisen](Andrew/Steigern.md#Kraftlinienforschung/Reisen)                   |         |        4 |    ? |
-| **Rest**                                                                                        |   **0** |          |      |
+| **Rest**                                                                                        |   **3** |          |      |
 
 Keine Zeichenforschung, keine Prophezeihungsforschung, sondern mit Antiborbarad der versuch direkter einzugreifen
 ## Spezielle Erfahrungen
@@ -82,10 +82,9 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 ## Selbststudium/Literaturarbeit
 * Attributo 10-> 11 für Modifikation Schnellsteigerung: 14
 * Ignifaxius 10 -> 11 für Varianten und Sicherheit: 14
-* Duplicatus 6->7 für 2 Doppelgänger: 25
 * Stab finalisieren: Apport
 		* Object Ritual: Apport: 200\*3/4 = 175
-* **Summe: 228**
+* **Summe: 203**
 * 2x 11, 1 SF : 3 Aktionen (Bücherei als Lehrer)
 * **Aktionen: 3**
 
