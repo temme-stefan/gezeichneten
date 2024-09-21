@@ -10,7 +10,7 @@
 * **SUMME: 71**
 
 ## Aktionen 
-2 Jahre -> 16 Aktionen + 16 Gruppenaktionen?
+2 Jahre -> 13 Aktionen + 13 Gruppenaktionen
 
 ## Anti-Borbarad / Bücher und Schriften 
 Was tut der Kerl als nächstes, kenne deinen Feind
