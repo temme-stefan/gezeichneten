@@ -3,7 +3,7 @@
 | **Start**                                                                                       | **662** |       13 |      |
 | [Spezielle Erfahrungen](Andrew/Steigern.md#Spezielle%20Erfahrungen)                             |     -71 |        0 |    0 |
 | [Anti-Borbarad](Andrew/Steigern.md#Anti-Borbarad)                                               |     -70 |      2+? |    ? |
-| [Forschung & Training Dämonenkampf](Andrew/Steigern.md#Forschung%20&%20Training%20Dämonenkampf) |    -252 |        4 |    0 |
+| [Forschung & Training Dämonenkampf](Andrew/Steigern.md#Forschung%20&%20Training%20Dämonenkampf) |    -274 |        4 |    0 |
 | [Selbststudium/Literaturarbeit](Andrew/Steigern.md#Selbststudium/Literaturarbeit)               |    -228 |        3 |    0 |
 | [Alltag](Andrew/Steigern.md#Alltag)                                                             |     -41 |        0 |   5D |
 | [Kraftlinienforschung/Reisen](Andrew/Steigern.md#Kraftlinienforschung/Reisen)                   |         |        4 |    ? |
@@ -74,7 +74,7 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 * Spezialisierung Guardianum: Dämonenschild: (80, falls Kraft: 60) \*3/4: 60, falls Kraft 45
 * Aktivieren Zauberklinge: Stufe 12 ohne Merkmal Kraft -> 65, mit Merkmal Kraft 47
 * Steigern Zauberklinge auf +5: ohne Kraft 61 mit Kraft: 47
-* **Summe: 252** 
+* **Summe: 274 
 * 2 SF, 1x aktivieren: 3 Aktionen (Buch + Magister als Lehrer)
 * Kontakt Pfeile des Lichts: 1 Aktion
 * **Aktionen: 4**
