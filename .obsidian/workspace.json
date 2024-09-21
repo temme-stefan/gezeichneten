@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andrew/Steigern.md",
+                "file": "Notizen/Unbenannt.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andrew/Steigern.md",
+                "file": "Notizen/Unbenannt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Andrew/Steigern.md",
+                "file": "Notizen/Unbenannt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Andrew/Steigern.md"
+                "file": "Notizen/Unbenannt.md"
               }
             }
           }
@@ -146,17 +146,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87526b28f7a4c4b1",
+  "active": "8240018f1075eeb9",
   "lastOpenFiles": [
-    "Die Gezeichneten.md",
     "Andrew/Steigern.md",
+    "Notizen/Unbenannt.md",
+    "Archiv/Fragen.md",
+    "Frag den Meister/Fragen.md",
+    "Die Gezeichneten.md",
     "Notizen/Träume.md",
     "Andrew/Gedanken zu Steigern.md",
     "Kraftlinien/Reisen.md",
     "Kraftlinien",
     "Andrew/Magie.md",
     "Frag den Meister/Über Bücher.md",
-    "Frag den Meister/Fragen II.md",
     "Notizen/Lore.md",
     "Notizen/2. Zeichen Das wandelndene Bild.md",
     "Notizen/Kraftlinien.md",
@@ -166,7 +168,6 @@
     "Geschichte.md",
     "Notizen/Borbaradianer.md",
     "Frag den Meister/Über Proben.md",
-    "Archiv/Fragen.md",
     "Personen.md",
     "Andrew/Background.md",
     "Archiv/Andrew wieder spielbar machen.md",
@@ -177,7 +178,6 @@
     "Andrew",
     "Notizen/Trivia.md",
     "Notizen/3. Zeichen Krötensinn.md",
-    "Notizen/Klostertheorie.md",
     "Externes",
     "Notizen",
     "Unbenannt.canvas"
