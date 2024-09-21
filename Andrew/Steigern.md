@@ -50,6 +50,7 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 * Bücher einordnen & verkaufen & verteilen 
 	* Tagebuch Laniara -> TSA tempel?
 	* die vermutlich 3 verbotenen Bücher -> PRA (Gareth) oder HES (Kuslik)
+		* *"Es ist meine tiefste Überzeugung, dass diese Bücher nicht in die falschen Hände geraten. Doch meine Gefährten wissen um den Wert dieser Bücher. Erkennt ihr mein Dilemma?"*
 * **Aktionen: 4**
 * **Gold**: ?
 
