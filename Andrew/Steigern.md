@@ -5,7 +5,7 @@
 | [Anti-Borbarad](Andrew/Steigern.md#Anti-Borbarad)                                               |     -70 |      2+? |    ? |
 | [Forschung & Training Dämonenkampf](Andrew/Steigern.md#Forschung%20&%20Training%20Dämonenkampf) |    -252 |        4 |    0 |
 | [Selbststudium/Literaturarbeit](Andrew/Steigern.md#Selbststudium/Literaturarbeit)               |    -228 |        3 |    0 |
-| [Alltag](Andrew/Steigern.md#Alltag)                                                             |     -41 |        0 |    0 |
+| [Alltag](Andrew/Steigern.md#Alltag)                                                             |     -41 |        0 |   5D |
 | [Kraftlinienforschung/Reisen](Andrew/Steigern.md#Kraftlinienforschung/Reisen)                   |         |        4 |    ? |
 | **Rest**                                                                                        |   **0** |          |      |
 ## Spezielle Erfahrungen
@@ -51,18 +51,21 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 	* Tagebuch Laniara -> TSA tempel?
 	* die vermutlich 3 verbotenen Bücher -> PRA (Gareth) oder HES (Kuslik)
 		* *"Es ist meine tiefste Überzeugung, dass diese Bücher nicht in die falschen Hände geraten. Doch meine Gefährten wissen um den Wert dieser Bücher. Erkennt ihr mein Dilemma?"*
+* dabei Geld eintreiben in Weiden
 * **Aktionen: 4**
 * **Gold**: ?
 
 ## Alltag 
 * Konsultation Borongeweihten wegen [Träumen](Notizen/Träume.md), Schutz vor Träumen, Schutz vor Schaden durch Träume
+* Fiebel für Pollux: Amboss aus Silber mit Rubinsplittern die ein Feuer darstellen -> 5D
 * Mehr Interesse an aktueller Politik/Entwicklung. Welche Talente?
 	* Staatskunst / Sagen und Legenden /Geschichtswissen /Heraldik
 * Alltag I:
 	* Staatskunst 2->4: 14
 	* Etikette 6->7: 17
 	* Überzeugen: 1->3:10
-	* **Summe: 41**
+* **Summe: 41**
+* **Gold: 5D**
 ## Forschung & Training Dämonenkampf
 *"Ahh Adeptus Andrew, lang habe ich euch nicht gesehen. Mit einigem Umbehagen lass ich euren letzten Bericht. Rondra war mit euch auf eurer Schlacht. Ein Astralsturm in einem Praioskloster, und Dämonen unterhalb. Sehr beunruhigend. Überlegt mal ob ihr eure Studien zum Dämonenkampf nicht vertiefen möchtet. Ich habe da ein altes Manuskript gefunden und benötigte einen Forschungsassistenten. Erst dachte ich es handele sich lediglich um eine Alternative Herleitung des Adamantium, aber die Matrixmanipulation scheint grundverschieden zu sein."* 
 *"Magister, das klingt sehr interessant."*
@@ -87,7 +90,7 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 
 
 ### Besorgungen
-* Geld eintreiben -> 1 Aktion wenn keine verknüpfte Reise
+
 
 
 
