@@ -67,7 +67,7 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 * **Summe: 41**
 * **Gold: 5D**
 ## Forschung & Training Dämonenkampf
-*"Ahh Adeptus Andrew, lang habe ich euch nicht gesehen. Mit einigem Umbehagen lass ich euren letzten Bericht. Rondra war mit euch auf eurer Schlacht. Ein Astralsturm in einem Praioskloster, und Dämonen unterhalb. Sehr beunruhigend. Überlegt mal ob ihr eure Studien zum Dämonenkampf nicht vertiefen möchtet. Ich habe da ein altes Manuskript gefunden und benötigte einen Forschungsassistenten. Erst dachte ich es handele sich lediglich um eine alternative Herleitung des Adamantium, aber die Matrixmanipulation scheint grundverschieden zu sein."* 
+*"Ahh Adeptus Andrew, lang habe ich euch nicht gesehen. Mit einigem Umbehagen lass ich euren letzten Bericht. Rondra war mit euch auf eurer Schlacht. Ein Astralsturm in einem Praioskloster, und Dämonen unterhalb. Sehr beunruhigend. Überlegt mal ob ihr eure Studien zum Dämonenkampf nicht vertiefen möchtet. Ich habe da einen alten Folianten gefunden. Die Abbildungen zeigen Magier im Kampf gegen Kreaturen des Chaos. Besonders auffallend sind die Zeichen die die Verteidiger auf ihren Waffen tragen. Erst dachte ich an einen Admantium aber die Beschreibungen passen nicht. Ich könnte ein zweites paar Augen vertragen. Oder sagen wir besser, eine zweite Meinung. Wollt ihr mir assistieren?"* 
 *"Magister, das klingt sehr interessant."*
 * SF Merkmal Kraft als zweites Merkmal: 180 \*3/4: 135
 * Spezialisierung Guardianum: Dämonenschild: (80, falls Kraft: 60) \*3/4: 60, falls Kraft 45
