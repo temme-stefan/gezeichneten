@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andrew/Steigern.md",
+                "file": "Frag den Meister/Fragen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andrew/Steigern.md",
+                "file": "Frag den Meister/Fragen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Andrew/Steigern.md",
+                "file": "Frag den Meister/Fragen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Andrew/Steigern.md"
+                "file": "Frag den Meister/Fragen.md"
               }
             }
           },
@@ -157,10 +157,11 @@
   },
   "active": "87526b28f7a4c4b1",
   "lastOpenFiles": [
+    "Geschichte.md",
+    "Andrew/Steigern.md",
     "Andrew/Gedanken zu Steigern.md",
     "Frag den Meister/Fragen.md",
     "Frag den Meister/Über Bücher.md",
-    "Andrew/Steigern.md",
     "Archiv/geklärte Fragen.md",
     "Notizen/Gruppenaktionen.md",
     "Notizen/Tal der Elemente.md",
@@ -175,7 +176,6 @@
     "Notizen/offen Fäden.md",
     "Notizen/Wilde Theorien.md",
     "Borbarad.md",
-    "Geschichte.md",
     "Notizen/Borbaradianer.md",
     "Frag den Meister/Über Proben.md",
     "Personen.md",
