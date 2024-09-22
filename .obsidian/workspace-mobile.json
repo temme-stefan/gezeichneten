@@ -11,12 +11,8 @@
             "id": "6e834a67d5f76999",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frag den Meister/Fragen II.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Frag den Meister/Fragen II.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Frag den Meister/Fragen II.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -142,6 +136,20 @@
   },
   "active": "b20133b0af44a183",
   "lastOpenFiles": [
+    "Notizen/Gruppenaktionen.md",
+    "Frag den Meister/Fragen.md",
+    "Archiv/geklärte Fragen.md",
+    "Andrew/Gedanken zu Steigern.md",
+    "/Notizen/Gruppenaktionen.md",
+    "Kraftlinien/Reisen.md",
+    "/Frag den Meister/Über Bücher.md",
+    "/Frag den Meister/Fragen.md",
+    "/Archiv/geklärte Fragen.md",
+    "/Andrew/Steigern.md",
+    "/Andrew/Gedanken zu Steigern.md",
+    "/Kraftlinien/Reisen.md",
+    "Kraftlinien",
+    "/Kraftlinien",
     "Notizen/Borbaradianer.md",
     "Borbarad.md",
     "Notizen/Lore.md",
@@ -156,18 +164,6 @@
     "/Die Gezeichneten.md",
     "Personen.md",
     "Geschichte.md",
-    "Notizen/Kraftlinien.md",
-    "Andrew/Background.md",
-    "Frag den Meister/Fragen II.md",
-    "/Frag den Meister/Fragen II.md",
-    "/Andrew/Offtime & Steigern.md",
-    "/Andrew/Magie.md",
-    "Test.md",
-    "Notizen/Wilde Theorien.md",
-    "Andrew/Offtime & Steigern.md",
-    "/Notizen/offen Fäden.md",
-    "/Notizen/Wilde Theorien.md",
-    "/Notizen/Träume.md",
     "Frag den Meister",
     "Andrew",
     "/Frag den Meister",
