@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frag den Meister/Fragen.md",
+                "file": "Andrew/Steigern.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Frag den Meister/Fragen.md",
+            "file": "Andrew/Steigern.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Frag den Meister/Fragen.md",
+            "file": "Andrew/Steigern.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Frag den Meister/Fragen.md"
+            "file": "Andrew/Steigern.md"
           }
         }
       },
@@ -142,9 +142,9 @@
   },
   "active": "6e834a67d5f76999",
   "lastOpenFiles": [
+    "Frag den Meister/Fragen.md",
     "Frag den Meister/Fragen II.md",
     "Notizen/Gruppenaktionen.md",
-    "Frag den Meister/Fragen.md",
     "Archiv/geklärte Fragen.md",
     "Andrew/Gedanken zu Steigern.md",
     "/Notizen/Gruppenaktionen.md",
