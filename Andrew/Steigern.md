@@ -73,7 +73,7 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 * Spezialisierung Guardianum: Dämonenschild: (80, falls Kraft: 60) \*3/4: 60, falls Kraft 45
 * Aktivieren Zauberklinge: Stufe 12 ohne Merkmal Kraft -> 65, mit Merkmal Kraft 47
 * Steigern Zauberklinge auf +5: ohne Kraft 61 mit Kraft: 47
-* **Summe: 274 
+* **Summe: 274**
 * 2 SF, 1x aktivieren: 3 Aktionen (Buch + Magister als Lehrer)
 * Kontakt Pfeile des Lichts: 1 Aktion
 * **Aktionen: 4**
