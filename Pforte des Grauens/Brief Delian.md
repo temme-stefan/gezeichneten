@@ -3,11 +3,10 @@ Transkript von chatgpt:
 > 
 > beinahe zwei Jahre sind vergangen, seit uns die Ereignisse im weidenschen Dragenfeld zusammenbrachen. Seitdem ist alles sehr [...].
 > [...] euren weiteren Weg, eure Quest und eure Berichte sehr genau verfolgt.
-> [...] Leider jedoch, dass einige Details meiner Forschungen hier auf Maraskan eventuell auch für eure Queste von großer Wichtigkeit sind.
+> [...] denke jedoch, dass einige Details meiner Forschungen hier auf Maraskan eventuell auch für eure Queste von großer Wichtigkeit sind.
 > 
-> Im Auftrag des Reiches wurde ich im Peron dieses Jahres in eine Sondermission inselweit nach Maraskan gesandt, um eine mögliche Verbindung zu den seltsamen, archaischen Wanderern, [...] Schmugglern und verderbten Schlangenmenschens aufzudecken, [...]
-> 
-> [...] durch Untersuchungen von archaischen Ruinen im Umbetjan am Ostrand des Andeyram-Massivs. In Begleitung des [...] Maraskan-Kundlers Borotin Almachios. Erst nach einiger Zeit Kontakt zu den einheimischen Rebellen und Widerständler, wie einige Personen, die mir im Zusammenhang mit den unrechtmäßigen Aktivitäten der Echse als verdächtig wenn nicht gar als unheimlich aufgefallen sind.
+> Im Auftrag des Reiches wurde ich im Boron dieses Jahres in eine Sondermission inoffiziell nach Maraskan gesandt, um eine mögliche Zusammenarbeit zwischen maraskanischen Wiederständlern, kunchomer Schmugglern und verderbten Schlangenmenschens aufzudecken.
+> [...] durch Untersuchungen von echsischen Ruinen im Vimotja am Ostrand des Andeyram-Massivs. In Begleitung des [...] Maraskan-Kundlers Borotin Almachios. Erst nach einiger Zeit Kontakt zu den einheimischen Rebellen und Widerständler, wie einige Personen, die mir im Zusammenhang mit den unrechtmäßigen Aktivitäten der Echse als verdächtig wenn nicht gar als unheimlich aufgefallen sind.
 > 
 > Zum einen fiel auch der Name von Stoerrebrandt Finanzier, ein gewisser Magister Hilbert von Puspereik auf. Der Ausgrabungen von archaischen Ruinen anführte, bei dem ich aber nicht einschätzen kann, zu welchem genauen Zweck und Ziel dies diente aber etwas vom Bestimmen Almachios berichtete mir einmal von einer schillernden Fundstätte und die geheimnisvolle Sendestadt. Zudem dem Wissen über den verloren gegangenen Tempel des Echsischen Wanderers [...]
 > 
