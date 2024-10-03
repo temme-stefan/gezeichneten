@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andrew/Steigern.md",
+                "file": "Notizen/Kraftlinien.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andrew/Steigern.md",
+                "file": "Notizen/Kraftlinien.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Andrew/Steigern.md",
+                "file": "Notizen/Kraftlinien.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Andrew/Steigern.md"
+                "file": "Notizen/Kraftlinien.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "87526b28f7a4c4b1",
   "lastOpenFiles": [
-    "Frag den Meister/Fragen.md",
+    "Kraftlinien/Reisen.md",
     "Andrew/Steigern.md",
+    "Frag den Meister/Fragen.md",
     "Frag den Meister/Über Bücher.md",
     "Notizen/Gruppenaktionen.md",
     "Geschichte.md",
@@ -167,7 +168,6 @@
     "Notizen/Tal der Elemente.md",
     "Die Gezeichneten.md",
     "Notizen/Träume.md",
-    "Kraftlinien/Reisen.md",
     "Kraftlinien",
     "Andrew/Magie.md",
     "Notizen/Lore.md",
