@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prophezeihung und Deutung.md",
+                "file": "Pforte des Grauens/Maraskan.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prophezeihung und Deutung.md",
+                "file": "Pforte des Grauens/Maraskan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prophezeihung und Deutung.md",
+                "file": "Pforte des Grauens/Maraskan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prophezeihung und Deutung.md"
+                "file": "Pforte des Grauens/Maraskan.md"
               }
             }
           },
@@ -157,6 +157,11 @@
   },
   "active": "87526b28f7a4c4b1",
   "lastOpenFiles": [
+    "Pforte des Grauens/Gerüchte.md",
+    "Pforte des Grauens/Maraskan.md",
+    "Borbarad.md",
+    "Geschichte.md",
+    "Prophezeihung und Deutung.md",
     "Notizen/Kraftlinien.md",
     "Notizen/Klostertheorie.md",
     "Notizen/Borbaradianer.md",
@@ -172,7 +177,6 @@
     "Kraftlinien/Reisen.md",
     "Andrew/Steigern.md",
     "Notizen/Gruppenaktionen.md",
-    "Geschichte.md",
     "Andrew/Gedanken zu Steigern.md",
     "Die Gezeichneten.md",
     "Kraftlinien",
@@ -180,13 +184,9 @@
     "Notizen/Lore.md",
     "Notizen/2. Zeichen Das wandelndene Bild.md",
     "Notizen/offen Fäden.md",
-    "Borbarad.md",
     "Personen.md",
-    "Andrew/Background.md",
-    "Archiv/Andrew wieder spielbar machen.md",
     "Archiv",
     "Frag den Meister",
-    "Notizen/Post Gier.md",
     "Andrew",
     "Externes",
     "Notizen",
