@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pforte des Grauens/Maraskan.md",
+                "file": "Pforte des Grauens/Gerüchte und Nachrichten.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pforte des Grauens/Maraskan.md",
+                "file": "Pforte des Grauens/Gerüchte und Nachrichten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pforte des Grauens/Maraskan.md",
+                "file": "Pforte des Grauens/Gerüchte und Nachrichten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pforte des Grauens/Maraskan.md"
+                "file": "Pforte des Grauens/Gerüchte und Nachrichten.md"
               }
             }
           },
@@ -157,11 +157,11 @@
   },
   "active": "87526b28f7a4c4b1",
   "lastOpenFiles": [
-    "Pforte des Grauens/Gerüchte.md",
+    "Prophezeihung und Deutung.md",
+    "Pforte des Grauens/Gerüchte und Nachrichten.md",
     "Pforte des Grauens/Maraskan.md",
     "Borbarad.md",
     "Geschichte.md",
-    "Prophezeihung und Deutung.md",
     "Notizen/Kraftlinien.md",
     "Notizen/Klostertheorie.md",
     "Notizen/Borbaradianer.md",

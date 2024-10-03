@@ -17,7 +17,7 @@
 | Wenn sich Drachenblut mit Menschenblut auf einem Berg von Gold verbindet.                                                           | Tochter der Horas des lieblichen Feldes heiratet Drachen                                                                                  |
 | Wenn sich wegen des Schicksals der Zwillingkaiser nicht erfüllen kann das Schicksal der Kaiserzwillinge.                            |                                                                                                                                           |
 | Wenn der alte Elfenkönig und der neue Elfenkönig mit Schiff und Ross heimgekehrt und bewiesen, dass der Elfenkönig nimmermehr wahr. |                                                                                                                                           |
-| Wenn der alte Kaiser dem neuen Kaiser nachfolgt.                                                                                    | Königin des liebichen Feld hat sich als Horas (Kaiser) ausrufen lassen                                                                    |
+| Wenn der alte Kaiser dem neuen Kaiser nachfolgt.                                                                                    | Königin des liebichen Feld hat sich als Horas (Kaiser) ausrufen lassen<br>altes Reich: Horasreich<br>neues Reich: Mittelreich             |
 | Wenn in der Neunflüssigen ein Alter Drach bar eines Karfunkels und ein Alter Karfunkel bar eines Drachen weilen.                    | Verweiß auf eine Wanderung des almadinen Auges?<br>Karfunkel: Herz eines Drachen<br>Neunflüssige: Kunchom<br>Dracheneiakademie in Kunchom |
 
 ### 3. Spruch: Von den Handlangern des Unterganges 
