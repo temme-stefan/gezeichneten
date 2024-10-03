@@ -9,12 +9,12 @@
 | Zweimal, nicht einmal werden die tumben Söhne Ogerons dem Kreuz des Nordens folgen.                                                                  | [10/11 Hal](Geschichte.md#10/11%20Hal) Ogerzug?                                                              |
 | Zweimal, nicht einmal werden die Botschafter von Ordnung und Einheit zweiteilen Ordnung und Einheit.                                                 | 1. [~417 BF](Geschichte.md#~417%20BF) erstes Schisma<br>2. aktuelles Schisma der Praioskirche                |
 | Zweimal, nicht einmal werden die Legionen des Roten Mondes vor das Haus der Gelben Sonne treten.                                                     | 1. [~600 BF](Geschichte.md#~600%20BF) erster Orkensturm<br>2.[Orkenstrum auf Gareth](Geschichte.md#18%20Hal) |
-| Zweimal, nicht einmal wird der Rabe nach dem Thron des Herren über Zwölf greifen.                                                                    | Rabe = Borbarad?<br>2. Jetzt will Borbarad Praios stürzen? ambitioniert der Kerl                             |
+| Zweimal, nicht einmal wird der Rabe nach dem Thron des Herren über Zwölf greifen.                                                                    | Rabe = Borbarad?<br>2. Jetzt will Borbarad Praios stürzen? ambitioniert der Kerl<br><br>Answin               |
 
 ### 2. Spruch: Von Drachen und Kaisern 
 | Vers                                                                                                                                | Deutung                                                                                                   |
 | ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| Wenn sich Drachenblut mit Menschenblut auf einem Berg von Gold verbindet.                                                           |                                                                                                           |
+| Wenn sich Drachenblut mit Menschenblut auf einem Berg von Gold verbindet.                                                           | Tochter der Horas des lieblichen Feldes heiratet Drachen                                                  |
 | Wenn sich wegen des Schicksals der Zwillingkaiser nicht erfüllen kann das Schicksal der Kaiserzwillinge.                            |                                                                                                           |
 | Wenn der alte Elfenkönig und der neue Elfenkönig mit Schiff und Ross heimgekehrt und bewiesen, dass der Elfenkönig nimmermehr wahr. |                                                                                                           |
 | Wenn der alte Kaiser dem neuen Kaiser nachfolgt.                                                                                    | Königin des liebichen Feld hat sich als Horas (Kaiser) ausrufen lassen                                    |
@@ -41,15 +41,15 @@
 | Wenn aus sieben Schalen Schärfe schäumt, dagegen kein Schrecknis gewachsen ist. |                                                                                                                         |
 
 ### 5. Spruch: Vom Ende des Zeitalters 
-| Vers                                                                                             | Deutung                                                    |
-| ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
-| Dann wird in den Kerker der feurige Blick des Weltenschöpfers fallen.                            |                                                            |
-| Dann wird die rote Saat der Gor aufgehen.                                                        | Gorische Wüste, Seuche im letzten Liebchen Feld: roter Tot |
-| Dann wird die Letzte Kreatur geboren und gebären.                                                |                                                            |
-| Dann werden Löwin und Einhorn zu Zweien ins Tal der Finsternis gehen.                            | Löwin: Rondra, Einhorn: Nandus (Halbgott)                  |
-| Dann werden die Wasser blutig und die Brunnen sauer, der regen brennend und das Land schimmelig. |                                                            |
-| Dann wird die Brut den Boden verschlingen.                                                       |                                                            |
-| Dann wird der Rausch der Ewigkeit über die Schöpfung wehen.                                      |                                                            |
+| Vers                                                                                             | Deutung                                                       |
+| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------- |
+| Dann wird in den Kerker der feurige Blick des Weltenschöpfers fallen.                            |                                                               |
+| Dann wird die rote Saat der Gor aufgehen.                                                        | Gorische Wüste,<br>Seuche im letzten Liebchen Feld: roter Tot |
+| Dann wird die Letzte Kreatur geboren und gebären.                                                |                                                               |
+| Dann werden Löwin und Einhorn zu Zweien ins Tal der Finsternis gehen.                            | Löwin: Rondra, Einhorn: Nandus (Halbgott)                     |
+| Dann werden die Wasser blutig und die Brunnen sauer, der regen brennend und das Land schimmelig. |                                                               |
+| Dann wird die Brut den Boden verschlingen.                                                       |                                                               |
+| Dann wird der Rausch der Ewigkeit über die Schöpfung wehen.                                      |                                                               |
 
 ## Orakelsprüche von Fasar
 ### 1. Spruch
