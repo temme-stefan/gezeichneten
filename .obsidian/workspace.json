@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notizen/Kraftlinien.md",
+                "file": "Frag den Meister/Fragen.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300.5
   },
   "right": {
     "id": "178affb6969187dd",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notizen/Kraftlinien.md",
+                "file": "Frag den Meister/Fragen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notizen/Kraftlinien.md",
+                "file": "Frag den Meister/Fragen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notizen/Kraftlinien.md"
+                "file": "Frag den Meister/Fragen.md"
               }
             }
           },
@@ -157,6 +157,8 @@
   },
   "active": "87526b28f7a4c4b1",
   "lastOpenFiles": [
+    "Notizen/Träume.md",
+    "Notizen/Kraftlinien.md",
     "Kraftlinien/Reisen.md",
     "Andrew/Steigern.md",
     "Frag den Meister/Fragen.md",
@@ -167,12 +169,10 @@
     "Archiv/geklärte Fragen.md",
     "Notizen/Tal der Elemente.md",
     "Die Gezeichneten.md",
-    "Notizen/Träume.md",
     "Kraftlinien",
     "Andrew/Magie.md",
     "Notizen/Lore.md",
     "Notizen/2. Zeichen Das wandelndene Bild.md",
-    "Notizen/Kraftlinien.md",
     "Notizen/offen Fäden.md",
     "Notizen/Wilde Theorien.md",
     "Borbarad.md",
