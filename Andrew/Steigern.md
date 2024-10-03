@@ -26,16 +26,16 @@ Keine Zeichenforschung, keine Prophezeihungsforschung, sondern mit Antiborbarad 
 Was tut der Kerl als nächstes, kenne deinen Feind
 * Studium/Forschung [Mysterium von Kha](lore#Mysterium%20von%20Kha)
 	* Spezialisierung Magiekunde Sphären -> 20
-	* Lehrer: Bücherei 1 Aktion
+	* Lehrer: Bücherei 1 Aktion, 5 Gold
 * Blick in die Sterne: versuche vorherzusehen, wann wieder etwas passiert, vergleich jetzt damals mit Hilfe Neobaras Sterndeutung
 	* Sternkunde 3->7 : 50 
 	* Fernrohr + Astrolabium besorgen: 1 Aktion + 95 Gold
-* ~Kenne deinen Feind: Studium von Borbaradts Testament unter Aufsicht der Praioskirche (verbotene Schrift) und ggf sekundär Literatur. Begündung: Seltsame Magiewirker, Magieraltar, da war ein Dämon über Wochen im Praioskloster!!!
+* ~Kenne deinen Feind: Studium von Borbaradts Testament unter Aufsicht der Praioskirche (verbotene Schrift) und ggf sekundär Literatur. Begündung: Seltsame Magiewirker, Magieraltar, da war ein Dämon über Wochen im Praioskloster!!!~
 	* Wie erkennt man einen Borbaradianer?
-	* Woher beziehen sie ihre Macht?
+	* Woher beziehen sie ihre Macht?~
 	* Vorsichtsmaßnahmen: nur im Licht des Praios lesend, am liebsten mit Geweihten an meiner Seite der mein Seelenheil überwacht (Andrew hat davor einen enormen Respekt)
-	* vermutlich 1-2 Aktionen ~
-	* Antrag gestellt 
+	* vermutlich 1-2 Aktionen 
+* Antrag gestellt 
 * Kosten:
 	* Mysterium von Kha: Spezialisierung Magiekunde Sphären -> 20
 	* Sternkunde: 3 -> 7: 62-12=50
@@ -43,7 +43,7 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 	* SF, Gegenstand kaufen: 2 Aktionen
 	* Borbarads Testament: 0 Aktionen
 	* **Aktionen: 2**
-	* **Gold: 95**
+	* **Gold: 100**
 	
 
 ## Kraftlinienforschung/Reisen
