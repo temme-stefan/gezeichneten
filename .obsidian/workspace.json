@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pforte des Grauens/Maraskan.md",
+                "file": "Pforte des Grauens/Brief Delian.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pforte des Grauens/Maraskan.md",
+                "file": "Pforte des Grauens/Brief Delian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pforte des Grauens/Maraskan.md",
+                "file": "Pforte des Grauens/Brief Delian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pforte des Grauens/Maraskan.md"
+                "file": "Pforte des Grauens/Brief Delian.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "87526b28f7a4c4b1",
   "lastOpenFiles": [
-    "Pforte des Grauens/Gerüchte und Nachrichten.md",
     "Pforte des Grauens/Maraskan.md",
+    "Pforte des Grauens/Brief Delian.md",
+    "Pforte des Grauens/Gerüchte und Nachrichten.md",
     "Personen.md",
     "Andrew/Steigern.md",
     "Archiv/Gruppenaktionen.md",
@@ -184,7 +185,6 @@
     "Andrew/Magie.md",
     "Notizen/Lore.md",
     "Notizen/2. Zeichen Das wandelndene Bild.md",
-    "Notizen/offen Fäden.md",
     "Archiv",
     "Frag den Meister",
     "Andrew",
