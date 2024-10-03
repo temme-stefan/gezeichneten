@@ -2,11 +2,11 @@
 | ----------------------------------------------------------------------------------------------- | ------: | -------: | ---: |
 | **Start**                                                                                       | **662** |       13 |      |
 | [Spezielle Erfahrungen](Andrew/Steigern.md#Spezielle%20Erfahrungen)                             |     -71 |        0 |    0 |
-| [Anti-Borbarad](Andrew/Steigern.md#Anti-Borbarad)                                               |     -70 |      2+? |    ? |
+| [Anti-Borbarad](Andrew/Steigern.md#Anti-Borbarad)                                               |     -70 |        2 |   95 |
 | [Forschung & Training Dämonenkampf](Andrew/Steigern.md#Forschung%20&%20Training%20Dämonenkampf) |    -274 |        4 |    0 |
 | [Selbststudium/Literaturarbeit](Andrew/Steigern.md#Selbststudium/Literaturarbeit)               |    -203 |        3 |    0 |
 | [Alltag](Andrew/Steigern.md#Alltag)                                                             |     -41 |        0 |   5D |
-| [Kraftlinienforschung/Reisen](Andrew/Steigern.md#Kraftlinienforschung/Reisen)                   |         |        4 |    ? |
+| [Kraftlinienforschung/Reisen](Andrew/Steigern.md#Kraftlinienforschung/Reisen)                   |         |        4 | 140D |
 | **Rest**                                                                                        |   **3** |          |      |
 
 Keine Zeichenforschung, keine Prophezeihungsforschung, sondern mit Antiborbarad der versuch direkter einzugreifen
@@ -29,7 +29,7 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 	* Lehrer: Bücherei 1 Aktion
 * Blick in die Sterne: versuche vorherzusehen, wann wieder etwas passiert, vergleich jetzt damals mit Hilfe Neobaras Sterndeutung
 	* Sternkunde 3->7 : 50 
-	* Fernrohr + Astrolabium besorgen: 1 Aktion + ? Gold
+	* Fernrohr + Astrolabium besorgen: 1 Aktion + 95 Gold
 * ~Kenne deinen Feind: Studium von Borbaradts Testament unter Aufsicht der Praioskirche (verbotene Schrift) und ggf sekundär Literatur. Begündung: Seltsame Magiewirker, Magieraltar, da war ein Dämon über Wochen im Praioskloster!!!
 	* Wie erkennt man einen Borbaradianer?
 	* Woher beziehen sie ihre Macht?
@@ -43,7 +43,7 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 	* SF, Gegenstand kaufen: 2 Aktionen
 	* Borbarads Testament: 0 Aktionen
 	* **Aktionen: 2**
-	* **Gold: ?**
+	* **Gold: 95**
 	
 
 ## Kraftlinienforschung/Reisen
@@ -53,9 +53,11 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 	* Tagebuch Laniara -> TSA tempel?
 	* die vermutlich 3 verbotenen Bücher -> PRA (Gareth) oder HES (Kuslik)
 		* *"Es ist meine tiefste Überzeugung, dass diese Bücher nicht in die falschen Hände geraten. Doch meine Gefährten wissen um den Wert dieser Bücher. Erkennt ihr mein Dilemma?"*
-* dabei Geld eintreiben in Weiden
+		* Wert vierstellig codex, dreistellig die anderen beiden
+		* Goldgier gewürfelt und gierig
+* dabei Geld eintreiben in Weiden -180
 * **Aktionen: 4**
-* **Gold**: ?
+* **Gold**: -140 
 
 ## Alltag 
 * Konsultation Borongeweihten wegen [Träumen](Notizen/Träume.md), Schutz vor Träumen, Schutz vor Schaden durch Träume
