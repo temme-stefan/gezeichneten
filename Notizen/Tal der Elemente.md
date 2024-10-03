@@ -22,3 +22,4 @@ Eschim von Quell, Geode, versteckt hier oben genanntes Artefakt.
 Borbarad bekommt hier seinen Zauberstab aus einer versteinerten Blutulme.
 
 Welches Element wurde den diesmal von Borbarad in Wasser umgewandelt/pervertiert um die Magie zu erzeugen?
+Archon sagte: Eis zu Wasser.
