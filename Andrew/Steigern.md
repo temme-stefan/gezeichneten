@@ -40,8 +40,8 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 	* Sternkunde: 3 -> 7: 62-12=50
 	* **Summe: 70**
 	* SF, Gegenstand kaufen: 2 Aktionen
-	* Borbarads Testament: ? Aktionen
-	* **Aktionen: 2 + ?**
+	* Borbarads Testament: 0 Aktionen
+	* **Aktionen: 2 **
 	* **Gold: ?**
 	
 
