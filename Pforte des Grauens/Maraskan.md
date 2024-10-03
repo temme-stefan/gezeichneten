@@ -1,5 +1,7 @@
 Herrscher: Fürst Herdin
 
-Gerücht: Auf der vom Mittelreich besetzten Insel Maraskan verschlimmert sich die Lage - die Rebellen werden immer dreister und sollen mit Dämonen und Echsengetier im Verbund stehen
+## Aktuelles
 
-Zeitungsmeldung: 2000 Maraskaner fliehen nach Zorgan und dürfen, vermutlich gegen Bestechung bleiben. Zogen dann Richtung Baburin und verschwanden.
+[Gerücht](Pforte%20des%20Grauens/Gerüchte%20und%20Nachrichten.md#rumor_maraskan)
+
+[Presse](Pforte%20des%20Grauens/Gerüchte%20und%20Nachrichten.md#news_maraskan)
