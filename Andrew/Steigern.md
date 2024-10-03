@@ -1,13 +1,14 @@
+
 | Steigerung                                                                                      |      AP | Aktionen | Gold |
 | ----------------------------------------------------------------------------------------------- | ------: | -------: | ---: |
 | **Start**                                                                                       | **662** |       13 |      |
 | [Spezielle Erfahrungen](Andrew/Steigern.md#Spezielle%20Erfahrungen)                             |     -71 |        0 |    0 |
-| [Anti-Borbarad](Andrew/Steigern.md#Anti-Borbarad)                                               |     -70 |        2 |   95 |
-| [Forschung & Training Dämonenkampf](Andrew/Steigern.md#Forschung%20&%20Training%20Dämonenkampf) |    -274 |        4 |    0 |
-| [Selbststudium/Literaturarbeit](Andrew/Steigern.md#Selbststudium/Literaturarbeit)               |    -203 |        3 |    0 |
-| [Alltag](Andrew/Steigern.md#Alltag)                                                             |     -41 |        0 |   5D |
-| [Kraftlinienforschung/Reisen](Andrew/Steigern.md#Kraftlinienforschung/Reisen)                   |         |        4 | 140D |
-| **Rest**                                                                                        |   **3** |          |      |
+| [Anti-Borbarad](Andrew/Steigern.md#Anti-Borbarad)                                               |     -70 |        2 | 100D |
+| [Forschung & Training Dämonenkampf](Andrew/Steigern.md#Forschung%20&%20Training%20Dämonenkampf) |    -274 |        4 |  15D |
+| [Selbststudium/Literaturarbeit](Andrew/Steigern.md#Selbststudium/Literaturarbeit)               |    -203 |        3 |  15D |
+| [Alltag](Andrew/Steigern.md#Alltag)                                                             |     -41 |        0 |  20D |
+| [Kraftlinienforschung/Reisen](Andrew/Steigern.md#Kraftlinienforschung/Reisen)                   |         |        4 |  40D |
+| **Rest**                                                                                        |   **3** |       13 | 190D |
 
 Keine Zeichenforschung, keine Prophezeihungsforschung, sondern mit Antiborbarad der versuch direkter einzugreifen
 ## Spezielle Erfahrungen
@@ -50,17 +51,17 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 * Bereise Nordaventurien und kartograpfiere Kraftlinien -> große Reise (oder 3 kleine Reisen)
 * gute Karte Aventurien besorgen -> 40 Gold
 * Bücher einordnen & verkaufen & verteilen 
-	* Tagebuch Laniara -> TSA tempel?
+	* Tagebuch Laniara -> TSA Tempel Punin
 	* die vermutlich 3 verbotenen Bücher -> PRA (Gareth) oder HES (Kuslik)
 		* *"Es ist meine tiefste Überzeugung, dass diese Bücher nicht in die falschen Hände geraten. Doch meine Gefährten wissen um den Wert dieser Bücher. Erkennt ihr mein Dilemma?"*
 		* Wert vierstellig codex, dreistellig die anderen beiden
 		* Goldgier gewürfelt und gierig
-* dabei Geld eintreiben in Weiden -180
+* dabei Geld eintreiben in Weiden, Gold sepeart
 * **Aktionen: 4**
-* **Gold**: -140 
+* **Gold: 40** 
 
 ## Alltag 
-* Konsultation Borongeweihten wegen [Träumen](Notizen/Träume.md), Schutz vor Träumen, Schutz vor Schaden durch Träume
+* Konsultation Borongeweihten wegen [Träumen](Notizen/Träume.md), Schutz vor Träumen, Schutz vor Schaden durch Träume -> 15D
 * Fiebel für Pollux: Amboss aus Silber mit Rubinsplittern die ein Feuer darstellen -> 5D
 * Mehr Interesse an aktueller Politik/Entwicklung. Welche Talente?
 	* Staatskunst / Sagen und Legenden /Geschichtswissen /Heraldik
@@ -68,7 +69,7 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 		* Etikette 6->7: 17
 		* Überzeugen: 1->3:10
 * **Summe: 41**
-* **Gold: 5D**
+* **Gold: 20D**
 ## Forschung & Training Dämonenkampf
 *"Ahh Adeptus Andrew, lang habe ich euch nicht gesehen. Mit einigem Umbehagen lass ich euren letzten Bericht. Rondra war mit euch auf eurer Schlacht. Ein Astralsturm in einem Praioskloster, und Dämonen unterhalb. Sehr beunruhigend. Überlegt mal ob ihr eure Studien zum Dämonenkampf nicht vertiefen möchtet. Ich habe da einen alten Folianten gefunden. Die Abbildungen zeigen Magier im Kampf gegen Kreaturen des Chaos. Besonders auffallend sind die Zeichen die die Verteidiger auf ihren Waffen tragen. Erst dachte ich an einen Admantium aber die Beschreibungen passen nicht. Ich könnte ein zweites paar Augen vertragen. Oder sagen wir besser, eine zweite Meinung. Wollt ihr mir assistieren?"* 
 *"Magister, das klingt sehr interessant."*
@@ -77,9 +78,10 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 * Aktivieren Zauberklinge: Stufe 12 ohne Merkmal Kraft -> 65, mit Merkmal Kraft 47
 * Steigern Zauberklinge auf +5: ohne Kraft 61 mit Kraft: 47
 * **Summe: 274**
-* 2 SF, 1x aktivieren: 3 Aktionen (Buch + Magister als Lehrer)
+* 2 SF, 1x aktivieren: 3 Aktionen (Buch + Magister als Lehrer) + 15 Gold
 * Kontakt Pfeile des Lichts: 1 Aktion
 * **Aktionen: 4**
+* **Gold: 15**
 
 ## Selbststudium/Literaturarbeit
 * Attributo 10-> 11 für Modifikation Schnellsteigerung: 14
@@ -87,8 +89,9 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 * Stab finalisieren: Apport
 		* Object Ritual: Apport: 200\*3/4 = 175
 * **Summe: 203**
-* 2x 11, 1 SF : 3 Aktionen (Bücherei als Lehrer)
+* 2x 11, 1 SF : 3 Aktionen (Bücherei als Lehrer) + 15 D
 * **Aktionen: 3**
+* **Gold: 15**
 
 
 
