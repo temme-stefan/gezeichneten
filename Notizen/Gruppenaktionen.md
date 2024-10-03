@@ -10,5 +10,5 @@
 	* Heiltränke
 	* Verbandszeug
 	* Pfeile
-	* 
+	* Brandpfeife 
 * 
