@@ -1,6 +1,7 @@
 Transkript von chatgpt, bearbeitet von Andrew
 
 > **Werte Gezeichnete,**
+> 
 > beinahe zwei Jahre sind vergangen, seit uns die Ereignisse im weidenschen Dragenfeld zusammenbrachen. Seitdem ist alles sehr [...].
 > [...] euren weiteren Weg, eure Quest und eure Berichte sehr genau verfolgt.
 > [...] denke jedoch, dass einige Details meiner Forschungen hier auf Maraskan eventuell auch für eure Queste von großer Wichtigkeit sind.
