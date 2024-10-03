@@ -48,7 +48,7 @@ Was tut der Kerl als nächstes, kenne deinen Feind
 
 ## Kraftlinienforschung/Reisen
 * Bereise Nordaventurien und kartograpfiere Kraftlinien -> große Reise (oder 3 kleine Reisen)
-* gute Karte Aventurien besorgen -> ? Gold
+* gute Karte Aventurien besorgen -> 40 Gold
 * Bücher einordnen & verkaufen & verteilen 
 	* Tagebuch Laniara -> TSA tempel?
 	* die vermutlich 3 verbotenen Bücher -> PRA (Gareth) oder HES (Kuslik)
