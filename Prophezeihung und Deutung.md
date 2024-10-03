@@ -41,15 +41,15 @@
 | Wenn aus sieben Schalen Schärfe schäumt, dagegen kein Schrecknis gewachsen ist. |                                                                                                                         |
 
 ### 5. Spruch: Vom Ende des Zeitalters 
-| Vers                                                                                             | Deutung |
-| ------------------------------------------------------------------------------------------------ | ------- |
-| Dann wird in den Kerker der feurige Blick des Weltenschöpfers fallen.                            |         |
-| Dann wird die rote Saat der Gor aufgehen.                                                        |         |
-| Dann wird die Letzte Kreatur geboren und gebären.                                                |         |
-| Dann werden Löwin und Einhorn zu Zweien ins Tal der Finsternis gehen.                            |         |
-| Dann werden die Wasser blutig und die Brunnen sauer, der regen brennend und das Land schimmelig. |         |
-| Dann wird die Brut den Boden verschlingen.                                                       |         |
-| Dann wird der Rausch der Ewigkeit über die Schöpfung wehen.                                      |         |
+| Vers                                                                                             | Deutung                                                    |
+| ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+| Dann wird in den Kerker der feurige Blick des Weltenschöpfers fallen.                            |                                                            |
+| Dann wird die rote Saat der Gor aufgehen.                                                        | Gorische Wüste, Seuche im letzten Liebchen Feld: roter Tot |
+| Dann wird die Letzte Kreatur geboren und gebären.                                                |                                                            |
+| Dann werden Löwin und Einhorn zu Zweien ins Tal der Finsternis gehen.                            | Löwin: Rondra, Einhorn: Nandus (Halbgott)                  |
+| Dann werden die Wasser blutig und die Brunnen sauer, der regen brennend und das Land schimmelig. |                                                            |
+| Dann wird die Brut den Boden verschlingen.                                                       |                                                            |
+| Dann wird der Rausch der Ewigkeit über die Schöpfung wehen.                                      |                                                            |
 
 ## Orakelsprüche von Fasar
 ### 1. Spruch
