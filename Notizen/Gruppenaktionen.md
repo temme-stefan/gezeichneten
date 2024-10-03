@@ -1,10 +1,12 @@
 | Aktion    | Punkte |
 | --------- | -----: |
 | **Start** | **13** |
-| **Rest**  | **13** |
+| Alchimst  |      3 |
+| **Rest**  | **10** |
 ## Ideen
-* Reise ins Tal der Elemente: Welches Element wurde diesmal umgewandelt?
-	* stillt im wesentlichen Andrews Neugier ([Tal der Elemente](Notizen/Tal%20der%20Elemente.md))
+* Informationen über gotische Wüste vor ein paar Jahren (Delian von Wiedbruuck)
+* Kontakt Archon mEgalon
+* 
 * Einkaufen bei unserem Lieblingsalchimisten
 	* Waffenbalsam
 	* Heiltränke

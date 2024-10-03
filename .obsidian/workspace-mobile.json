@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andrew/Steigern.md",
+                "file": "Prophezeihung und Deutung.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Andrew/Steigern.md",
+            "file": "Prophezeihung und Deutung.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Andrew/Steigern.md",
+            "file": "Prophezeihung und Deutung.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Andrew/Steigern.md"
+            "file": "Prophezeihung und Deutung.md"
           }
         }
       },
@@ -140,12 +140,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b20133b0af44a183",
+  "active": "6e834a67d5f76999",
   "lastOpenFiles": [
-    "/Notizen/Kraftlinien.md",
-    "/Kraftlinien/Reisen.md",
     "Notizen/Gruppenaktionen.md",
     "Andrew/Steigern.md",
+    "/Notizen/Kraftlinien.md",
+    "/Kraftlinien/Reisen.md",
     "/Frag den Meister/Fragen.md",
     "/Andrew/Steigern.md",
     "Frag den Meister/Fragen.md",
