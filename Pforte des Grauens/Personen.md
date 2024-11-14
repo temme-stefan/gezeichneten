@@ -4,6 +4,6 @@
 * Magister Hilbert von Pusperiken
 * Rayo Brabaker, der Auserwählte, kahlköpfiger Novadi und Anführer der [unbekannte Partei](Pforte%20des%20Grauens/Maraskan.md#unbekannte%20Partei)
 * Praiotin von Rollerau, KGIA
-* Gernot von Mersingen, Ritter des Orden des Heiligen Golgari
+* Gernot von Mersingen, Ritter des Orden des Heiligen Golgari (Punin)
 * Commandanta Katalinya Adranez, Ritterin im Orden des schwarzen Raben (Al'Anfa)
-* de
+* Der Rabe von Punin, Oberhaupt der Boronkirche (Punin)
