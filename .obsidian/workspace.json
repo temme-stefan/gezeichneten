@@ -4,7 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "3306c311c49d46fb",
+        "id": "79ad05b3bf5a2f70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1c83fcaf8339dd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pforte des Grauens/Brief Delian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4aaed996fdc70933",
         "type": "tabs",
         "children": [
           {
@@ -13,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pforte des Grauens/Gerüchte und Nachrichten.md",
+                "file": "Pforte des Grauens/Maraskan.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pforte des Grauens/Gerüchte und Nachrichten.md",
+                "file": "Pforte des Grauens/Maraskan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pforte des Grauens/Gerüchte und Nachrichten.md",
+                "file": "Pforte des Grauens/Maraskan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pforte des Grauens/Gerüchte und Nachrichten.md"
+                "file": "Pforte des Grauens/Maraskan.md"
               }
             }
           },
@@ -157,11 +175,12 @@
   },
   "active": "87526b28f7a4c4b1",
   "lastOpenFiles": [
+    "Pforte des Grauens/Brief Delian.md",
     "Pforte des Grauens/Maraskan.md",
+    "Pforte des Grauens/Personen.md",
+    "Personen.md",
     "Pforte des Grauens/Gerüchte und Nachrichten.md",
     "Frag den Meister/Fragen.md",
-    "Pforte des Grauens/Brief Delian.md",
-    "Personen.md",
     "Andrew/Steigern.md",
     "Archiv/Gruppenaktionen.md",
     "Notizen/Klostertheorie.md",
@@ -184,7 +203,6 @@
     "Kraftlinien",
     "Andrew/Magie.md",
     "Notizen/Lore.md",
-    "Notizen/2. Zeichen Das wandelndene Bild.md",
     "Archiv",
     "Frag den Meister",
     "Andrew",

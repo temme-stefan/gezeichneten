@@ -1,6 +1,6 @@
 > **Werte Gezeichnete,**
 > 
-> beinahe zwei Jahre sind vergangen, seit uns die Ereignisse im weidenschen Dragenfeld zusammenbrachen. Seitdem ist alles sehr [...].
+> beinahe zwei Jahre sind vergangen, seit uns die Ereignisse im weidenschen Dragenfeld zusammenbrachten. Seitdem ist alles sehr [...].
 > [...] euren weiteren Weg, eure Quest und eure Berichte sehr genau verfolgt.
 > [...] denke jedoch, dass einige Details meiner Forschungen hier auf Maraskan eventuell auch für eure Queste von großer Wichtigkeit sind.
 > 
@@ -15,6 +15,6 @@
 > In Tuzak werde ich Fürst Herdin mehr von der aktuten Gefahr, die von den unbeobachteten subversiven Elementen im Dschungel ausgeht berichten. Sollte euch eure Queste eines Tages nach Tuzak verschlagen, so zögert nicht euch bei mir zu melden. Es ist viel geschehen in zwei Jahren und ich glaube inzwischen, dass wir einiges zu besprechen haben. Eventuell benötige ich sogar eure Hilfe bei dieser Sache.
 > Solltet ihr mich in Tuzak nicht antreffen, wendet euch an KGIA [...] Praiotin von Rollerau, er kann jederzeit Kontakt zu mir herstellen und euch zu mir führen.
 >  
-> Delian von Wiedbruch  
+> Delian von Wiedbrück  
 > Mitte des Phexmondes 1017  
 > auf der Ostseite des maraskanischen Eilandes 
