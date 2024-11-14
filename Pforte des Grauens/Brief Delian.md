@@ -18,3 +18,6 @@
 > Delian von Wiedbrück  
 > Mitte des Phexmondes 1017  
 > auf der Ostseite des maraskanischen Eilandes 
+
+
+Delian verwendet BF Zeitrechnung in der Unterschrift. Im Konflikt der Boronritter wird Hal und BF verwendet

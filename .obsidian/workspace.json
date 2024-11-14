@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "79ad05b3bf5a2f70",
-        "type": "tabs",
+        "id": "fe16a804fb345dd8",
+        "type": "split",
         "children": [
           {
-            "id": "e1c83fcaf8339dd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pforte des Grauens/Brief Delian.md",
-                "mode": "source",
-                "source": false
+            "id": "79ad05b3bf5a2f70",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e1c83fcaf8339dd2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Pforte des Grauens/Brief Delian.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "f0d001a4efc9bd80",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e1a8a00795b24f2b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Pforte des Grauens/Geschichte.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       },
       {
         "id": "21ce0f737524c4db",
@@ -53,7 +78,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Pforte des Grauens/Brief Delian.md",
+                    "file": "Geschichte.md",
                     "mode": "source",
                     "source": false
                   }
@@ -128,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pforte des Grauens/Brief Delian.md",
+                "file": "Pforte des Grauens/Geschichte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pforte des Grauens/Brief Delian.md",
+                "file": "Pforte des Grauens/Geschichte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pforte des Grauens/Brief Delian.md"
+                "file": "Pforte des Grauens/Geschichte.md"
               }
             }
           },
@@ -198,12 +223,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd8c4d827461f7ac",
+  "active": "e1a8a00795b24f2b",
   "lastOpenFiles": [
+    "Notizen/Trivia.md",
     "Pforte des Grauens/Geschichte.md",
+    "Pforte des Grauens/Brief Delian.md",
+    "Geschichte.md",
     "Pforte des Grauens/Personen.md",
     "Pforte des Grauens/Maraskan.md",
-    "Pforte des Grauens/Brief Delian.md",
     "Personen.md",
     "Pforte des Grauens/Gerüchte und Nachrichten.md",
     "Frag den Meister/Fragen.md",
@@ -212,7 +239,6 @@
     "Notizen/Klostertheorie.md",
     "Prophezeihung und Deutung.md",
     "Borbarad.md",
-    "Geschichte.md",
     "Notizen/Kraftlinien.md",
     "Notizen/Borbaradianer.md",
     "Frag den Meister/Über Proben.md",
@@ -227,7 +253,6 @@
     "Andrew/Gedanken zu Steigern.md",
     "Die Gezeichneten.md",
     "Kraftlinien",
-    "Andrew/Magie.md",
     "Archiv",
     "Frag den Meister",
     "Andrew",
