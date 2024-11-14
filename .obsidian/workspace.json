@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pforte des Grauens/Personen.md",
+                "file": "Pforte des Grauens/Maraskan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pforte des Grauens/Personen.md",
+                "file": "Pforte des Grauens/Maraskan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pforte des Grauens/Personen.md"
+                "file": "Pforte des Grauens/Maraskan.md"
               }
             }
           },
@@ -198,10 +198,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd8c4d827461f7ac",
+  "active": "87526b28f7a4c4b1",
   "lastOpenFiles": [
-    "Pforte des Grauens/Maraskan.md",
     "Pforte des Grauens/Personen.md",
+    "Pforte des Grauens/Maraskan.md",
     "Pforte des Grauens/Brief Delian.md",
     "Personen.md",
     "Pforte des Grauens/Gerüchte und Nachrichten.md",

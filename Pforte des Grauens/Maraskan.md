@@ -1,4 +1,5 @@
 Die ganze Insel, eine tödliche Falle.
+Quelle des Endurium
 
 Herrscher: Fürst Herdin
 Sicherheitsberater: [Delian von Wiedbrück](Personen.md#Delian%20von%20Wiedbrück)
