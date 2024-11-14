@@ -11,4 +11,8 @@ Sicherheitsberater: [Delian von Wiedbrück](Personen.md#Delian%20von%20Wiedbrüc
 
 ## maraskanischen Wiederständler
 ## kunchomer Schmuggler
-## verderbten Schlangenmenschen
+## Echsenwesen
+* Magister Hilbert von Pusperiken tätigt Ausgrabungen von Stoerrebrandt finanziert
+* Verlorene Stadt Akrabaal
+* 
+
