@@ -6,9 +6,9 @@ Sicherheitsberater: [Delian von Wiedbrück](Personen.md#Delian%20von%20Wiedbrüc
 
 ## Aktuelles
 
-[Gerücht](Pforte%20des%20Grauens/Gerüchte%20und%20Nachrichten.md#rumor_maraskan)
+[Gerücht](Pforte%20des%20Grauens/Gerüchte%20und%20Nachrichten.md#rumormaraskan)
 
-[Presse](Pforte%20des%20Grauens/Gerüchte%20und%20Nachrichten.md#news_maraskan)
+[Presse](Pforte%20des%20Grauens/Gerüchte%20und%20Nachrichten.md#newsmaraskan)
 
 ## Gruppierungen
 

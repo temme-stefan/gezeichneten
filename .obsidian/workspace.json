@@ -60,7 +60,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Pforte des Grauens/Maraskan.md",
+                    "file": "Pforte des Grauens/Gerüchte und Nachrichten.md",
                     "mode": "source",
                     "source": false
                   }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pforte des Grauens/Geschichte.md",
+                "file": "Pforte des Grauens/Gerüchte und Nachrichten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pforte des Grauens/Geschichte.md",
+                "file": "Pforte des Grauens/Gerüchte und Nachrichten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pforte des Grauens/Geschichte.md"
+                "file": "Pforte des Grauens/Gerüchte und Nachrichten.md"
               }
             }
           },
@@ -223,14 +223,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1a8a00795b24f2b",
+  "active": "87526b28f7a4c4b1",
   "lastOpenFiles": [
-    "Notizen/Trivia.md",
+    "Pforte des Grauens/Maraskan.md",
     "Pforte des Grauens/Geschichte.md",
+    "Notizen/Trivia.md",
     "Pforte des Grauens/Brief Delian.md",
     "Geschichte.md",
     "Pforte des Grauens/Personen.md",
-    "Pforte des Grauens/Maraskan.md",
     "Personen.md",
     "Pforte des Grauens/Gerüchte und Nachrichten.md",
     "Frag den Meister/Fragen.md",
