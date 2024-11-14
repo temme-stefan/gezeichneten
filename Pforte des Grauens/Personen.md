@@ -5,4 +5,5 @@
 * Rayo Brabaker, der Auserwählte, kahlköpfiger Novadi und Anführer der [unbekannte Partei](Pforte%20des%20Grauens/Maraskan.md#unbekannte%20Partei)
 * Praiotin von Rollerau, KGIA
 * Gernot von Mersingen, Ritter des Orden des Heiligen Golgari
-* 
+* Commandanta Katalinya Adranez, Ritterin im Orden des schwarzen Raben (Al'Anfa)
+* de
