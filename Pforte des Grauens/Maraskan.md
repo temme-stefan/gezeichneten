@@ -23,6 +23,7 @@ Anführer Rayo Brabaker, beim Friedhof der Seeschlangen
 ## Orte
 * Tuzak, Hauptstadt
 * Boran
+* Mine Endurium
 * 
 * Friedhof der Seeschlangen, [unbekannte Partei](Pforte%20des%20Grauens/Maraskan.md#unbekannte%20Partei), [Echsenwesen](Pforte%20des%20Grauens/Maraskan.md#Echsenwesen)
 
