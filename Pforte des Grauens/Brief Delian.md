@@ -13,7 +13,7 @@
 > Inzwischen befinde ich mich mit meinem Begleiter auf dem allmählichen Weg zurück nach Tuzak. Diesen Brief gebe ich an einem Fort an der Straße nach Boran auf. Die letzten Wochen haben mich sehr gefordert - die ganze Insel scheint mir eine einzige tödliche Falle. Selbst Borotin ist mehr seit einigen Tagen unheimlich - ich merke immer wieder, dass ich ihn unterschätze. Ich hoffe nur, dass er sich ihnen nicht angeschlossen hat oder zu ihnen gehört. Aber dann wäre ich vermutlich schon längst tot.
 > 
 > In Tuzak werde ich Fürst Herdin mehr von der aktuten Gefahr, die von den unbeobachteten subversiven Elementen im Dschungel ausgeht berichten. Sollte euch eure Queste eines Tages nach Tuzak verschlagen, so zögert nicht euch bei mir zu melden. Es ist viel geschehen in zwei Jahren und ich glaube inzwischen, dass wir einiges zu besprechen haben. Eventuell benötige ich sogar eure Hilfe bei dieser Sache.
-> Solltet ihr mich in Tuzak nicht antreffen, wendet euch an KGIA [...] Praiotin von Rollerau, er kann jederzeit Kontakt zu mir herstellen und euch zu mir führen.
+> Solltet ihr mich in Tuzak nicht antreffen, wendet euch an KGIA [...] Praiotin von Rallerau, er kann jederzeit Kontakt zu mir herstellen und euch zu mir führen.
 >  
 > Delian von Wiedbrück  
 > Mitte des Phexmondes 1017  
