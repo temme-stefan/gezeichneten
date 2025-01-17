@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pforte des Grauens/Geschichte.md",
+                "file": "Pforte des Grauens/Notizen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise für Geschichte"
+              "title": "Rückverweise für Notizen"
             }
           },
           {
@@ -201,12 +201,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pforte des Grauens/Geschichte.md",
+                "file": "Pforte des Grauens/Notizen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von Geschichte öffnen"
+              "title": "Ausgehende Links von Notizen öffnen"
             }
           },
           {
@@ -228,10 +228,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pforte des Grauens/Geschichte.md"
+                "file": "Pforte des Grauens/Notizen.md"
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Geschichte"
+              "title": "Gliederung von Notizen"
             }
           },
           {
@@ -262,10 +262,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1a8a00795b24f2b",
+  "active": "0ee423352124fdc2",
   "lastOpenFiles": [
-    "Pforte des Grauens/Notizen.md",
     "Pforte des Grauens/Geschichte.md",
+    "Pforte des Grauens/Notizen.md",
     "Pforte des Grauens/Gerüchte und Nachrichten.md",
     "Pforte des Grauens/Maraskan.md",
     "Notizen/Trivia.md",
