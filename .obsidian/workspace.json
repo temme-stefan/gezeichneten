@@ -4,51 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "fe16a804fb345dd8",
-        "type": "split",
+        "id": "f0d001a4efc9bd80",
+        "type": "tabs",
         "children": [
           {
-            "id": "79ad05b3bf5a2f70",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e1c83fcaf8339dd2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Pforte des Grauens/Brief Delian.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Brief Delian"
-                }
-              }
-            ]
-          },
-          {
-            "id": "f0d001a4efc9bd80",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e1a8a00795b24f2b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Pforte des Grauens/Geschichte.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Geschichte"
-                }
-              }
-            ]
+            "id": "e1a8a00795b24f2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pforte des Grauens/Gerüchte und Nachrichten.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gerüchte und Nachrichten"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       },
       {
         "id": "21ce0f737524c4db",
@@ -182,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pforte des Grauens/Personen.md",
+                "file": "Pforte des Grauens/Gerüchte und Nachrichten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +165,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise für Personen"
+              "title": "Rückverweise für Gerüchte und Nachrichten"
             }
           },
           {
@@ -201,12 +174,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pforte des Grauens/Personen.md",
+                "file": "Pforte des Grauens/Gerüchte und Nachrichten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von Personen öffnen"
+              "title": "Ausgehende Links von Gerüchte und Nachrichten öffnen"
             }
           },
           {
@@ -228,10 +201,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pforte des Grauens/Personen.md"
+                "file": "Pforte des Grauens/Gerüchte und Nachrichten.md"
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Personen"
+              "title": "Gliederung von Gerüchte und Nachrichten"
             }
           },
           {
@@ -262,13 +235,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dbb36fc57dcd382d",
+  "active": "e1a8a00795b24f2b",
   "lastOpenFiles": [
+    "Pforte des Grauens/Geschichte.md",
+    "Pforte des Grauens/Personen.md",
     "Andrew/Magie.md",
     "Andrew/Steigern.md",
     "Pforte des Grauens/Notizen.md",
-    "Pforte des Grauens/Personen.md",
-    "Pforte des Grauens/Geschichte.md",
     "Notizen/Trivia.md",
     "Pforte des Grauens/Gerüchte und Nachrichten.md",
     "Pforte des Grauens/Maraskan.md",

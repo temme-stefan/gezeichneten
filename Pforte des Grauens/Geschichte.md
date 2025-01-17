@@ -18,4 +18,4 @@ maraskanische Rebellen erbeuten die Lieferung Endurium
 	* entkommen der Greif (Schiff des Mittelreich) durch göttliche Intervention
 	* Tropensturm
 	* Schiffsbruch
-* 
+* __6. Praios__ - Bestandsaufnahme
