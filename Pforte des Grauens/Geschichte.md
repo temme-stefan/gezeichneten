@@ -13,4 +13,7 @@ maraskanische Rebellen erbeuten die Lieferung Endurium
 * __1.-5. Namenloser__ - Samora
 ## 1019 BF / 26 Hal / 335 nach Golgaris Erscheinen
 * __1.Praios - 4.Praios__ - Reise von Samorra nach Kunchom
-* 
+* __5. Praios__ - Mittag Abreise an Bord der Perlbeißer
+	* entkommen der Greif (Schiff des Mittelreich) durch göttliche Intervention
+	* Tropensturm
+	* 
