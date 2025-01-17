@@ -10,10 +10,10 @@ maraskanische Rebellen erbeuten die Lieferung Endurium
 * __22. Ingerimm__ - Sternenkonstelation: Sphärennähe und Erschütterung der Spähren
 * __9. Rahja__ - Alanfaner Kult bemerkt dass ihre Agenten tot sind. Gleiches gilt für KGIA
 * __17. Rahja__ - Treffen mit dem Rabe von Punin und Auftrag (inkl. Segnung durch den Raben)
-* __18. Rahja - 30. Rahja__ - Reise von Punin nach Samorra
-* __1.-5. Namenloser__ - Samora
+* __18. Rahja - 30. Rahja__ - Reise von Punin nach Samra
+* __1.-5. Namenloser__ - Samra
 ## 1019 BF / 26 Hal / 335 nach Golgaris Erscheinen
-* __1.Praios - 4.Praios__ - Reise von Samorra nach Kunchom
+* __1.Praios - 4.Praios__ - Reise von Samra nach Kunchom
 * __5. Praios__ - Mittag Abreise an Bord der Perlbeißer
 	* entkommen der Greif (Schiff des Mittelreich) durch göttliche Intervention
 	* Tropensturm
