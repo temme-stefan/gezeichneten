@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prophezeihung und Deutung.md",
+                "file": "Pforte des Grauens/Geschichte.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Geschichte"
             }
           }
         ]
@@ -35,7 +37,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
         }
       },
       {
@@ -50,7 +54,9 @@
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "Search"
         }
       },
       {
@@ -61,7 +67,9 @@
           "state": {
             "sortOrder": "frequency",
             "useHierarchy": true
-          }
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
         }
       },
       {
@@ -69,7 +77,9 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {}
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
         }
       }
     ],
@@ -85,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Prophezeihung und Deutung.md",
+            "file": "Pforte des Grauens/Geschichte.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -93,7 +103,9 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
         }
       },
       {
@@ -102,10 +114,12 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Prophezeihung und Deutung.md",
+            "file": "Pforte des Grauens/Geschichte.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
         }
       },
       {
@@ -114,8 +128,10 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Prophezeihung und Deutung.md"
-          }
+            "file": "Pforte des Grauens/Geschichte.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
         }
       },
       {
@@ -123,7 +139,9 @@
         "type": "leaf",
         "state": {
           "type": "git-view",
-          "state": {}
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
         }
       }
     ],
@@ -142,34 +160,36 @@
   },
   "active": "6e834a67d5f76999",
   "lastOpenFiles": [
+    "Pforte des Grauens/Maraskan.md",
+    "Pforte des Grauens/Brief Delian.md",
+    "Pforte des Grauens/Personen.md",
+    "Pforte des Grauens/Geschichte.md",
+    "Notizen/Trivia.md",
+    "Prophezeihung und Deutung.md",
+    "/Pforte des Grauens/Personen.md",
+    "/Pforte des Grauens/Maraskan.md",
+    "/Pforte des Grauens/Geschichte.md",
+    "/Pforte des Grauens/Gerüchte und Nachrichten.md",
+    "/Pforte des Grauens/Brief Delian.md",
+    "Archiv/Money.md",
+    "/Archiv/Money.md",
+    "Pforte des Grauens/Gerüchte und Nachrichten.md",
+    "Notizen/Über Bücher.md",
+    "Archiv/Gruppenaktionen.md",
+    "/Prophezeihung und Deutung.md",
+    "/Notizen/Über Bücher.md",
+    "/Notizen/Tal der Elemente.md",
+    "/Frag den Meister/Fragen.md",
+    "/Archiv/geklärte Fragen.md",
+    "/Archiv/Gruppenaktionen.md",
+    "Pforte des Grauens",
+    "/Pforte des Grauens",
     "Geschichte.md",
     "Personen.md",
-    "Prophezeihung und Deutung.md",
     "Notizen/Gruppenaktionen.md",
     "Andrew/Steigern.md",
-    "/Notizen/Kraftlinien.md",
-    "/Kraftlinien/Reisen.md",
-    "/Frag den Meister/Fragen.md",
-    "/Andrew/Steigern.md",
-    "Frag den Meister/Fragen.md",
-    "Frag den Meister/Fragen II.md",
-    "Archiv/geklärte Fragen.md",
-    "Andrew/Gedanken zu Steigern.md",
-    "/Notizen/Gruppenaktionen.md",
-    "Kraftlinien/Reisen.md",
-    "/Frag den Meister/Über Bücher.md",
-    "/Archiv/geklärte Fragen.md",
-    "/Andrew/Gedanken zu Steigern.md",
     "Kraftlinien",
     "/Kraftlinien",
-    "Notizen/Borbaradianer.md",
-    "Borbarad.md",
-    "Notizen/Lore.md",
-    "Notizen/Tal der Elemente.md",
-    "Die Gezeichneten.md",
-    "Notizen/3. Zeichen Krötensinn.md",
-    "/Prophezeihung und Deutung.md",
-    "/Personen.md",
     "Frag den Meister",
     "Andrew",
     "/Frag den Meister",

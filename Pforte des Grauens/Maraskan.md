@@ -4,6 +4,8 @@ Quelle des Endurium
 Herrscher: Fürst Herdin
 Sicherheitsberater: [Delian von Wiedbrück](Personen.md#Delian%20von%20Wiedbrück)
 
+Karawane von Banner Drachengarde/Adlergarde bewacht 
+
 ## Aktuelles
 
 [Gerücht](Pforte%20des%20Grauens/Gerüchte%20und%20Nachrichten.md#rumormaraskan)
@@ -23,6 +25,7 @@ Anführer Rayo Brabaker, beim Friedhof der Seeschlangen
 ## Orte
 * Tuzak, Hauptstadt
 * Boran
+* Mine Endurium
 * 
-* Friedhof der Seeschlangen ,[unbekannte Partei](Pforte%20des%20Grauens/Maraskan.md#unbekannte%20Partei), [Echsenwesen](Pforte%20des%20Grauens/Maraskan.md#Echsenwesen)
+* Friedhof der Seeschlangen, [unbekannte Partei](Pforte%20des%20Grauens/Maraskan.md#unbekannte%20Partei), [Echsenwesen](Pforte%20des%20Grauens/Maraskan.md#Echsenwesen)
 
