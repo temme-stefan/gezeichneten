@@ -71,21 +71,8 @@
                   "icon": "lucide-file",
                   "title": "Trivia"
                 }
-              },
-              {
-                "id": "001fe620966f92a4",
-                "type": "leaf",
-                "state": {
-                  "type": "release-notes",
-                  "state": {
-                    "currentVersion": "1.7.6"
-                  },
-                  "icon": "lucide-file",
-                  "title": "Release Notes 1.7.6"
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "ed2162488cf82775",
@@ -256,7 +243,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "001fe620966f92a4",
+  "active": "32c3c635b4185f86",
   "lastOpenFiles": [
     "Pforte des Grauens/Gerüchte und Nachrichten.md",
     "Pforte des Grauens/Maraskan.md",
