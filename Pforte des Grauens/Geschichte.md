@@ -8,4 +8,7 @@ maraskanische Rebellen erbeuten die Lieferung Endurium
 * Ende Peraine - Mitte Ingerimm: diesjährige Karawane mit Endurium, nicht angekommen
 * __15. Ingerimm__ - Der Brief erreicht Zeth
 * __9. Rahja__ - Alanfaner Kult bemerkt dass ihre Agenten tot sind. Gleiches gilt für KGIA
-* __17. Rahja__ - Treffen mit dem Rabe von Punin und Auftrag
+* __17. Rahja__ - Treffen mit dem Rabe von Punin und Auftrag (inkl. Segnung durch den Raben)
+* __18. Rahja - 30. Rahja__ - Reise von Punin nach Samorra
+* __1.-5. Namenloser__ - Samora
+* 
