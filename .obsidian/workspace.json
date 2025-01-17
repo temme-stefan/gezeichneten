@@ -20,7 +20,9 @@
                     "file": "Pforte des Grauens/Brief Delian.md",
                     "mode": "source",
                     "source": false
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Brief Delian"
                 }
               }
             ]
@@ -38,7 +40,9 @@
                     "file": "Pforte des Grauens/Geschichte.md",
                     "mode": "source",
                     "source": false
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Geschichte"
                 }
               }
             ]
@@ -60,13 +64,28 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Pforte des Grauens/Gerüchte und Nachrichten.md",
+                    "file": "Notizen/Trivia.md",
                     "mode": "source",
                     "source": false
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Trivia"
+                }
+              },
+              {
+                "id": "001fe620966f92a4",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.7.6"
+                  },
+                  "icon": "lucide-file",
+                  "title": "Release Notes 1.7.6"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "ed2162488cf82775",
@@ -81,7 +100,9 @@
                     "file": "Geschichte.md",
                     "mode": "source",
                     "source": false
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Geschichte"
                 }
               }
             ]
@@ -107,7 +128,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
             }
           },
           {
@@ -122,7 +145,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
             }
           },
           {
@@ -130,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Lesezeichen"
             }
           }
         ]
@@ -153,7 +180,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pforte des Grauens/Gerüchte und Nachrichten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +187,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweis"
             }
           },
           {
@@ -170,10 +198,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pforte des Grauens/Gerüchte und Nachrichten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links"
             }
           },
           {
@@ -184,7 +213,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -192,9 +223,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Pforte des Grauens/Gerüchte und Nachrichten.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Gliederung"
             }
           },
           {
@@ -202,7 +233,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -223,8 +256,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87526b28f7a4c4b1",
+  "active": "001fe620966f92a4",
   "lastOpenFiles": [
+    "Pforte des Grauens/Gerüchte und Nachrichten.md",
     "Pforte des Grauens/Maraskan.md",
     "Pforte des Grauens/Geschichte.md",
     "Notizen/Trivia.md",
@@ -232,7 +266,6 @@
     "Geschichte.md",
     "Pforte des Grauens/Personen.md",
     "Personen.md",
-    "Pforte des Grauens/Gerüchte und Nachrichten.md",
     "Frag den Meister/Fragen.md",
     "Andrew/Steigern.md",
     "Archiv/Gruppenaktionen.md",
