@@ -7,6 +7,7 @@ maraskanische Rebellen erbeuten die Lieferung Endurium
 ## 1018 BF / 25 Hal / 334 nach Golgaris Erscheinen
 * Ende Peraine - Mitte Ingerimm: diesjährige Karawane mit Endurium, nicht angekommen
 * __15. Ingerimm__ - Der Brief erreicht Zeth
+* __22. Ingerimm__ - Sternenkonstelation: Sphärennähe und Erschütterung der Spähren
 * __9. Rahja__ - Alanfaner Kult bemerkt dass ihre Agenten tot sind. Gleiches gilt für KGIA
 * __17. Rahja__ - Treffen mit dem Rabe von Punin und Auftrag (inkl. Segnung durch den Raben)
 * __18. Rahja - 30. Rahja__ - Reise von Punin nach Samorra
@@ -16,4 +17,5 @@ maraskanische Rebellen erbeuten die Lieferung Endurium
 * __5. Praios__ - Mittag Abreise an Bord der Perlbeißer
 	* entkommen der Greif (Schiff des Mittelreich) durch göttliche Intervention
 	* Tropensturm
-	* 
+	* Schiffsbruch
+* 

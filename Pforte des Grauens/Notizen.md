@@ -9,3 +9,8 @@
 * Politik verschärft sich seit 1018 (Delian?)
 * relgiöse Repression
 * Seeblokade
+
+## Unser Status
+* 24/28 Matrosen überlebt
+* 4 Verletzte
+* Position: nördlich von Tuzak
