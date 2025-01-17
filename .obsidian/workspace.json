@@ -99,12 +99,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Andrew/Magie.md",
+                    "file": "Pforte des Grauens/Personen.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Magie"
+                  "title": "Personen"
                 }
               }
             ]
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andrew/Magie.md",
+                "file": "Pforte des Grauens/Personen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise für Magie"
+              "title": "Rückverweise für Personen"
             }
           },
           {
@@ -201,12 +201,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Andrew/Magie.md",
+                "file": "Pforte des Grauens/Personen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von Magie öffnen"
+              "title": "Ausgehende Links von Personen öffnen"
             }
           },
           {
@@ -228,10 +228,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Andrew/Magie.md"
+                "file": "Pforte des Grauens/Personen.md"
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Magie"
+              "title": "Gliederung von Personen"
             }
           },
           {
@@ -264,9 +264,11 @@
   },
   "active": "dbb36fc57dcd382d",
   "lastOpenFiles": [
+    "Andrew/Magie.md",
+    "Andrew/Steigern.md",
+    "Pforte des Grauens/Notizen.md",
     "Pforte des Grauens/Personen.md",
     "Pforte des Grauens/Geschichte.md",
-    "Pforte des Grauens/Notizen.md",
     "Notizen/Trivia.md",
     "Pforte des Grauens/Gerüchte und Nachrichten.md",
     "Pforte des Grauens/Maraskan.md",
@@ -274,7 +276,6 @@
     "Geschichte.md",
     "Personen.md",
     "Frag den Meister/Fragen.md",
-    "Andrew/Steigern.md",
     "Archiv/Gruppenaktionen.md",
     "Notizen/Klostertheorie.md",
     "Prophezeihung und Deutung.md",
@@ -290,7 +291,6 @@
     "Archiv/Money.md",
     "Notizen/Träume.md",
     "Kraftlinien/Reisen.md",
-    "Andrew/Gedanken zu Steigern.md",
     "Kraftlinien",
     "Archiv",
     "Frag den Meister",
