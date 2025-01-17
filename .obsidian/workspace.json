@@ -99,12 +99,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Pforte des Grauens/Personen.md",
+                    "file": "Andrew/Magie.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Personen"
+                  "title": "Magie"
                 }
               }
             ]
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pforte des Grauens/Geschichte.md",
+                "file": "Andrew/Magie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise für Geschichte"
+              "title": "Rückverweise für Magie"
             }
           },
           {
@@ -201,12 +201,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pforte des Grauens/Geschichte.md",
+                "file": "Andrew/Magie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von Geschichte öffnen"
+              "title": "Ausgehende Links von Magie öffnen"
             }
           },
           {
@@ -228,10 +228,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pforte des Grauens/Geschichte.md"
+                "file": "Andrew/Magie.md"
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Geschichte"
+              "title": "Gliederung von Magie"
             }
           },
           {
@@ -262,12 +262,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1a8a00795b24f2b",
+  "active": "dbb36fc57dcd382d",
   "lastOpenFiles": [
+    "Pforte des Grauens/Personen.md",
+    "Pforte des Grauens/Geschichte.md",
     "Pforte des Grauens/Notizen.md",
     "Notizen/Trivia.md",
-    "Pforte des Grauens/Geschichte.md",
-    "Pforte des Grauens/Personen.md",
     "Pforte des Grauens/Gerüchte und Nachrichten.md",
     "Pforte des Grauens/Maraskan.md",
     "Pforte des Grauens/Brief Delian.md",
