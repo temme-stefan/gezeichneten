@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pforte des Grauens/Personen.md",
+                "file": "Pforte des Grauens/Geschichte.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Personen"
+              "title": "Geschichte"
             }
           }
         ]
@@ -160,6 +160,8 @@
   },
   "active": "6e834a67d5f76999",
   "lastOpenFiles": [
+    "Notizen/Kraftlinien.md",
+    "Pforte des Grauens/Personen.md",
     "Pforte des Grauens/Gerüchte und Nachrichten.md",
     "Pforte des Grauens/Notizen.md",
     "/Pforte des Grauens/Personen.md",
@@ -169,7 +171,6 @@
     "Pforte des Grauens/Maraskan.md",
     "Pforte des Grauens/Geschichte.md",
     "Pforte des Grauens/Brief Delian.md",
-    "Pforte des Grauens/Personen.md",
     "Notizen/Trivia.md",
     "Prophezeihung und Deutung.md",
     "/Pforte des Grauens/Maraskan.md",
@@ -187,7 +188,6 @@
     "Pforte des Grauens",
     "/Pforte des Grauens",
     "Geschichte.md",
-    "Personen.md",
     "Kraftlinien",
     "/Kraftlinien",
     "Frag den Meister",

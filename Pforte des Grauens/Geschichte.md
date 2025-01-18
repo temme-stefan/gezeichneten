@@ -15,7 +15,5 @@ maraskanische Rebellen erbeuten die Lieferung Endurium
 ## 1019 BF / 26 Hal / 335 nach Golgaris Erscheinen
 * __1.Praios - 4.Praios__ - Reise von Samra nach Kunchom
 * __5. Praios__ - Mittag Abreise an Bord der Perlbeißer
-	* entkommen der Greif (Schiff des Mittelreich) durch göttliche Intervention
-	* Tropensturm
-	* Schiffsbruch
-* __6. Praios__ - Bestandsaufnahme
+* __6. Praios__ - entkommen der Greif (Schiff des Mittelreich) durch göttliche Intervention, Tropensturm, Schiffsbruch
+* __7. Praios__ - Bestandsaufnahme

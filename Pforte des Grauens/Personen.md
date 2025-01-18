@@ -9,4 +9,4 @@
 * Der Rabe von Punin, Oberhaupt der Boronkirche (Punin)
 * Andrea Daratora, Agentin des Al'Anfaner Kult in Kunchom
 * Spectabilität Khadil Okharim Dracheneiakademie Kunchom
-* Kapitän Haima
+* Kapitän Haimamut Ibn'Mokkadin
