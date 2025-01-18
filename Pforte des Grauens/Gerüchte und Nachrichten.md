@@ -11,7 +11,7 @@
 - Die Spannungen zwischen Mittelreich und lieblichem Feld nehmen weiter zu
 - Der allaventurische Konvert der Magiergilden ist geplant für den 11. Rondra bis zum 1. Travia 1019 BF in Bethana
 	* Ist danach auf unbestimmte Zeit verschoben
-
+* Ruinen nördlich von Samra aus der alten Zeit sind gefährlich
 ## Presse
 
 * Pfeile des Lichts stellen Magier der sich mit dämonischer Thesis aufgestellt von Borbarad beschäftigte und einsetze in Uhdenberg
