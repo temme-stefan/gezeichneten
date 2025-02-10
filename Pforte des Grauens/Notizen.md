@@ -13,9 +13,16 @@
 * tödliche Flora und Fauna
 * Vorräte verderben schnell
 * Wir werden steckbrieflich gesucht
+
+### Rur & Gor
+Religion auf Maraskan. Rur der Anfang Gor das Ende. Dere ein Diskus der zwischen Ihnen fliegt. Viel auf Dualität gemünzt. Ying und Yang?
 ### Fort Retoglück
 Kompanie Soldaten des Mittelreichs unter Drastan von Ehrenholm
 Alle ein wenig wahnsinnig / durchgeknallt.
 Brauen Fusel
+Steckbrief
+
+### Wipfeltiger
+
 
 

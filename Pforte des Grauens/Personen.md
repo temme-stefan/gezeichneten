@@ -10,4 +10,5 @@
 * Andrea Daratora, Agentin des Al'Anfaner Kult in Kunchom
 * Spectabilität Khadil Okharim Dracheneiakademie Kunchom
 * Kapitän Haimamut Ibn'Mokkadin
-* Drastan von Ehrenholm
+* Drastan von Ehrenholm, Kommandant [Fort Retoglück](Pforte%20des%20Grauens/Notizen.md#Fort%20Retoglück)
+* 

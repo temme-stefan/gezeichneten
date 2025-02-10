@@ -20,3 +20,4 @@ maraskanische Rebellen erbeuten die Lieferung Endurium
 * __8. Praios__ - Flugaufklärung/Wasserversorgung
 * __9. Praios - 10. Praios__ - durch die Wildniss gen Osten
 * __11. Praios__ - Fort Retoglück
+* __12. Praios__ - Überfall der Wipfeltiger
