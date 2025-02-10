@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Geschichte"
             }
+          },
+          {
+            "id": "49840c2051b31773",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "21ce0f737524c4db",
@@ -235,7 +248,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1a8a00795b24f2b",
+  "active": "49840c2051b31773",
   "lastOpenFiles": [
     "Pforte des Grauens/Gerüchte und Nachrichten.md",
     "Pforte des Grauens/Geschichte.md",
