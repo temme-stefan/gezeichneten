@@ -9,8 +9,13 @@
 * Politik verschärft sich seit 1018 (Delian?)
 * relgiöse Repression
 * Seeblokade
+* Dinosaurier (-spuren)
+* tödliche Flora und Fauna
+* Vorräte verderben schnell
+* Wir werden steckbrieflich gesucht
+### Fort Retoglück
+Kompanie Soldaten des Mittelreichs unter Drastan von Ehrenholm
+Alle ein wenig wahnsinnig / durchgeknallt.
+Brauen Fusel
 
-## Unser Status
-* 24/28 Matrosen überlebt
-* 4 Verletzte
-* Position: nördlich von Tuzak
+

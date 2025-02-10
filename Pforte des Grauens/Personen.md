@@ -10,3 +10,4 @@
 * Andrea Daratora, Agentin des Al'Anfaner Kult in Kunchom
 * Spectabilität Khadil Okharim Dracheneiakademie Kunchom
 * Kapitän Haimamut Ibn'Mokkadin
+* Drastan von Ehrenholm
