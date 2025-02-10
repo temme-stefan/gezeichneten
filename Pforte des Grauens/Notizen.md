@@ -12,7 +12,12 @@
 * Dinosaurier (-spuren)
 * tödliche Flora und Fauna
 * Vorräte verderben schnell
-* Wir werden steckbrieflich gesucht
+* Wir werden steckbrieflich gesucht, von Fürst Herdin
+
+## Status
+"Gefangene" der Wipfelläufer
+Plan: Die Hochgeschwister von Alrurdan befragen nach Überresten der Haranydad, um darüber zu der Mine zu kommen und dem neuen Verlust nach zu spüren.
+Tuzak und Mittelreicher erstmal meiden, wegen Steckbrief (wtf)
 
 ### Rur & Gor
 Religion auf Maraskan. Rur der Anfang Gor das Ende. Dere ein Diskus der zwischen Ihnen fliegt. Viel auf Dualität gemünzt. Reinkarnation. Ying und Yang?
