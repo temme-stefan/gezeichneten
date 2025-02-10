@@ -23,6 +23,8 @@ Brauen Fusel
 Steckbrief
 
 ### Wipfeltiger
-
+Rebellengruppe
+_Hauptmann Colonel Orsih vom Hira_
+_Enjisab_
 
 
