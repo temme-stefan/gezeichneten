@@ -21,10 +21,16 @@ Kompanie Soldaten des Mittelreichs unter Drastan von Ehrenholm
 Alle ein wenig wahnsinnig / durchgeknallt.
 Brauen Fusel
 Steckbrief
-
 ### Wipfeltiger
 Rebellengruppe
 _Hauptmann Colonel Orsih vom Hira_
 _Enjisab_
+Leben auf Bäumen im Dschungel, ganz wehrhafter Trupp
+
+### Haranydad
+Rebellengruppe
+verantwortlich für ersten Diebstahl des Enduriums, war ein Überfall auf die Mine (Standortkenntniss)
+starke Verluste, ggf aufgerieben
+
 
 
