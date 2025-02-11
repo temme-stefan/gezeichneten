@@ -49,6 +49,7 @@ Anführer Rayo Brabaker, beim Friedhof der Seeschlangen
 * Boran
 * Mine Endurium
 * [Fort Retoglück](Pforte%20des%20Grauens/Maraskan.md#Fort%20Retoglück)
+* Alrurdan, Ort im Westen Maraskan mit Rur&Gor Tempel
 * 
 * Friedhof der Seeschlangen, [unbekannte Partei](Pforte%20des%20Grauens/Maraskan.md#unbekannte%20Partei), [Echsenwesen](Pforte%20des%20Grauens/Maraskan.md#Echsenwesen)
 
