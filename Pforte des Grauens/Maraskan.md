@@ -19,7 +19,7 @@ Religion auf Maraskan. Rur der Anfang Gor das Ende. Dere ein Diskus der zwischen
 ### Mittelreich
 Besetzungsmacht
 #### KGIA
-[Delian von Wiedbrück](Personen.md#Delian%20von%20Wiedbrück)
+[Delian von Wiedbrück](Personen.md#Delian%20von%20Wiedbrück), Praiotin von Rallerau (Stellvertreter Delians)
 #### Fort Retoglück
 Kompanie Soldaten des Mittelreichs unter Drastan von Ehrenholm
 Alle ein wenig wahnsinnig / durchgeknallt.
