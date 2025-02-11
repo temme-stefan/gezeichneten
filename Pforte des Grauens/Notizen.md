@@ -7,7 +7,7 @@
 ## Maraskan
 * Delian jetzt Berater
 * Politik verschärft sich seit 1018 (Delian?)
-* relgiöse Repression
+* religiöse Repression
 * Seeblokade
 * Dinosaurier (-spuren)
 * tödliche Flora und Fauna
