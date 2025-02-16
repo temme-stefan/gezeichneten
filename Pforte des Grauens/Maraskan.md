@@ -14,8 +14,8 @@ Karawane von Banner Drachengarde/Adlergarde bewacht
 
 ## Fraktionen
 
-### Rur & Gor Kirche
-Religion auf Maraskan. Rur der Anfang Gor das Ende. Dere ein Diskus der zwischen Ihnen fliegt. Viel auf Dualität gemünzt. Reinkarnation. Ying und Yang?
+### Rur & Gror Kirche
+Religion auf Maraskan. Rur der Anfang Gror das Ende. Dere ein Diskus der zwischen Ihnen fliegt. Viel auf Dualität gemünzt. Reinkarnation. Ying und Yang?
 ### Mittelreich
 Besetzungsmacht
 #### KGIA
