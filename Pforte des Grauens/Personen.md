@@ -13,4 +13,4 @@
 * Drastan von Ehrenholm, Kommandant [Fort Retoglück](Pforte%20des%20Grauens/Notizen.md#Fort%20Retoglück)
 * Hauptmann Colonel Orsih vom Hira, vermutlich auch Orsino von Ragat
 * Enjisab, zweite der Wipfeltiger
-* Hochgeschwister von Alrurdan: Galideran & Daruziber
+* Hochgeschwister von Alrurdan: Galideran & Daruziber, Wissen viel, Reden im Duett

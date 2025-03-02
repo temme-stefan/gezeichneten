@@ -1,3 +1,8 @@
+## 1014 BF / 21 Hal
+(geheim) Entdeckung der Urschrift des Rur & Gror Glaubens
+* Rückkehr Borbarad wird angekündigt und vor Gefahren wird gewarnt
+* führt zu einem Aufruhr in der Priesterschaft
+
 ## 1015 BF / 22 Hal
 maraskanische Rebellen erbeuten die Lieferung Endurium
 ## 1017 BF / 24 Hal
@@ -22,3 +27,4 @@ maraskanische Rebellen erbeuten die Lieferung Endurium
 * __11. Praios__ - Fort Retoglück
 * __12. Praios__ - Überfall der Wipfeltiger
 * __13. Praios - 14. Praios__  - Reise mit Enjisab nach Alrurdan
+* __15. Praios__ - Audienz bei Galideran und Daruziber
