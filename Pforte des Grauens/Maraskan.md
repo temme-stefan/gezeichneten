@@ -12,6 +12,13 @@ Karawane von Banner Drachengarde/Adlergarde bewacht
 
 [Presse](Pforte%20des%20Grauens/Gerüchte%20und%20Nachrichten.md#newsmaraskan)
 
+## Kultur
+Die Rur und Gror Kirche dominiert den Alltag in vielen Belangen. 
+* Bauform der Häuser: rund
+* traditionelles Mahl: 2 Maraskanfladen (rund), einer bleibt unbelegt
+* berauschender Tee (vorsichtig damit)
+
+
 ## Fraktionen
 
 ### Rur & Gror Kirche
@@ -50,6 +57,9 @@ Anführer Rayo Brabaker, beim Friedhof der Seeschlangen
 * Mine Endurium
 * [Fort Retoglück](Pforte%20des%20Grauens/Maraskan.md#Fort%20Retoglück)
 * Alrurdan, Ort im Westen Maraskan mit Rur&Gor Tempel
-* 
+	* ca 1000 Einwohner
+	* Mittelreicher Fort außerhalb der Stadt
+	* Tempel: Rund-Stufen-Pyramide gekrönz von Diskuss
+	* an der Nord
 * Friedhof der Seeschlangen, [unbekannte Partei](Pforte%20des%20Grauens/Maraskan.md#unbekannte%20Partei), [Echsenwesen](Pforte%20des%20Grauens/Maraskan.md#Echsenwesen)
 
