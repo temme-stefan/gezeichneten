@@ -17,6 +17,7 @@ Die Rur und Gror Kirche dominiert den Alltag in vielen Belangen.
 * Bauform der Häuser: rund
 * traditionelles Mahl: 2 Maraskanfladen (rund), einer bleibt unbelegt
 * berauschender Tee (vorsichtig damit)
+Kampfdiskus als spezielle Waffe
 
 
 ## Fraktionen
@@ -60,6 +61,8 @@ Anführer Rayo Brabaker, beim Friedhof der Seeschlangen
 	* ca 1000 Einwohner
 	* Mittelreicher Fort außerhalb der Stadt
 	* Tempel: Rund-Stufen-Pyramide gekrönz von Diskuss
-	* an der Nord
+	* an der Nord-Süd (Jargan-Tuzak)-Straße
+	* leichte Kraftlinie oberirdisch durch Tempel
+* zentrales Gebirge: 
 * Friedhof der Seeschlangen, [unbekannte Partei](Pforte%20des%20Grauens/Maraskan.md#unbekannte%20Partei), [Echsenwesen](Pforte%20des%20Grauens/Maraskan.md#Echsenwesen)
 

@@ -21,4 +21,4 @@ maraskanische Rebellen erbeuten die Lieferung Endurium
 * __9. Praios - 10. Praios__ - durch die Wildniss gen Osten
 * __11. Praios__ - Fort Retoglück
 * __12. Praios__ - Überfall der Wipfeltiger
-* __13. Praios__ - 
+* __13. Praios - 14. Praios__  - Reise mit Enjisab nach Alrurdan
