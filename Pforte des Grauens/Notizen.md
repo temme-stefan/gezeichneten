@@ -15,9 +15,7 @@
 * Wir werden steckbrieflich gesucht, von Fürst Herdin
 
 ## Status
-"Gefangene" der Wipfelläufer
-Plan: Die Hochgeschwister von Alrurdan befragen nach Überresten der Haranydad, um darüber zu der Mine zu kommen und dem neuen Verlust nach zu spüren.
-Tuzak und Mittelreicher erstmal meiden, wegen Steckbrief (wtf)
+mit unserem Führer Marech sind wir im Dschungel auf der Suche nach den Überlebenden der Haranydad. Dschungelpfad gefunden, einige maraskansiche Krieger besiegt, und einen Maraskaner befreit.
 
 
 
