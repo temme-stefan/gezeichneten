@@ -28,4 +28,6 @@ maraskanische Rebellen erbeuten die Lieferung Endurium
 * __12. Praios__ - Überfall der Wipfeltiger
 * __13. Praios - 14. Praios__  - Reise mit Enjisab nach Alrurdan
 * __15. Praios__ - Audienz bei Galideran und Daruziber
-* __15.Praios - 
+* __15. Praios - 19. Praios__ - Reise zu den Haranydad unter der Führung Marech's und seines Diskussritual
+* __16. Praios__ - zwei aufgepflockte Soldaten zur Ruhe gebettet, vermutlich Muakiji Marasna
+* __19. Praios__ - Kampf mit den Kämpfern des Diskus von Boran, Befreiung eines Haranydad?

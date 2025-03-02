@@ -46,9 +46,10 @@ Leben auf Bäumen im Dschungel, ganz wehrhafter Trupp
 Rebellengruppe
 verantwortlich für ersten Diebstahl des Enduriums, war ein Überfall auf die Mine (Standortkenntniss)
 starke Verluste, ggf aufgerieben
-
 #### Diskus von Boran
-Rebellengruppe, xenophil, potenziell ein paar Jäger weniger
+Rebellengruppe, xenophil, potenziell ein paar 5 Krieger weniger
+#### Muakiji Marasna
+Rebellengruppe, südlich von Alrurdan, aufpflockte Soldaten
 ### kunchomer Schmuggler
  * Kapitän Haimamut Ibn'Mokkadin
 ### Echsenwesen
