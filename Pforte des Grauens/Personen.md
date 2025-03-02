@@ -14,3 +14,4 @@
 * Hauptmann Colonel Orsih vom Hira, vermutlich auch Orsino von Ragat
 * Enjisab, zweite der Wipfeltiger
 * Hochgeschwister von Alrurdan: Galideran & Daruziber, Wissen viel, Reden im Duett
+* Marech, Wanderpriester der uns führen soll

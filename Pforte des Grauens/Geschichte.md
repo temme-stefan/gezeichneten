@@ -18,7 +18,7 @@ maraskanische Rebellen erbeuten die Lieferung Endurium
 * __18. Rahja - 30. Rahja__ - Reise von Punin nach Samra
 * __1.-5. Namenloser__ - Samra
 ## 1019 BF / 26 Hal / 335 nach Golgaris Erscheinen
-* __1.Praios - 4.Praios__ - Reise von Samra nach Kunchom
+* __1.Praios - 4.Praios__ - Reise von Samra nach Kunchom, zu gleicher Zeit ungefähr: erste Steckbriefe von uns erscheinen auf Maraskan
 * __5. Praios__ - Mittag Abreise an Bord der Perlbeißer
 * __6. Praios__ - entkommen der Greif (Schiff des Mittelreich) durch göttliche Intervention, Tropensturm, Schiffsbruch
 * __7. Praios__ - Bestandsaufnahme
@@ -28,3 +28,4 @@ maraskanische Rebellen erbeuten die Lieferung Endurium
 * __12. Praios__ - Überfall der Wipfeltiger
 * __13. Praios - 14. Praios__  - Reise mit Enjisab nach Alrurdan
 * __15. Praios__ - Audienz bei Galideran und Daruziber
+* __15.Praios - 

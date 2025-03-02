@@ -46,6 +46,9 @@ Leben auf Bäumen im Dschungel, ganz wehrhafter Trupp
 Rebellengruppe
 verantwortlich für ersten Diebstahl des Enduriums, war ein Überfall auf die Mine (Standortkenntniss)
 starke Verluste, ggf aufgerieben
+
+#### Diskus von Boran
+Rebellengruppe, xenophil, potenziell ein paar Jäger weniger
 ### kunchomer Schmuggler
  * Kapitän Haimamut Ibn'Mokkadin
 ### Echsenwesen
@@ -56,6 +59,7 @@ Anführer Rayo Brabaker, beim Friedhof der Seeschlangen
 
 ## Orte
 * Tuzak, Hauptstadt
+	* Es existiert ein Boron Tempel außerhalb der Stadt
 * Boran
 * Mine Endurium
 * [Fort Retoglück](Pforte%20des%20Grauens/Maraskan.md#Fort%20Retoglück)
