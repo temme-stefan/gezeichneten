@@ -36,3 +36,4 @@ maraskanische Rebellen erbeuten die Lieferung Endurium
 * **20. Praios** - Eidjan führt uns zu den Haranydad, Audienz mit Haran
 * **21. Praios** - Kampf gegen Riesenspinne (Vertraute?), Aufbruch Richtung Mine mit Alwijda und Eidjan
 * **22. Praios** - Treffen mit Magister Pusperiken
+* **23. Praios** - Treffen mit Gesandten Akrabals (3 Echsenwesen). 

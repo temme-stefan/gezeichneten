@@ -83,7 +83,8 @@ Anführer Rayo Brabaker, beim Friedhof der Seeschlangen
 * zentrales Gebirge: Amdeggyn-Massiv
 * Friedhof der Seeschlangen, [unbekannte Partei](Pforte%20des%20Grauens/Maraskan.md#unbekannte%20Partei), [Echsenwesen](Pforte%20des%20Grauens/Maraskan.md#Echsenwesen)
 * Akrabal
-	* 2-1 Siegel
+	* 2-1(?) Siegel schützen die Stadt 
 	* Szel al Tach -> Siegel von Akkrabal
 	* N'quis Leviathach verletzter Wächter eines Siegels (Sith von Szel al Tach)
+	* Zufluchtsort für Echsenwesen bei Flucht vor Magier Bastrabun  
 
