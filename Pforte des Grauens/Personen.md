@@ -19,3 +19,4 @@
 * Haran, Anführer der [Haranydad](Pforte%20des%20Grauens/Maraskan.md#Haranydad)
 * Alwijda, zweite des  [Haranydad](Pforte%20des%20Grauens/Maraskan.md#Haranydad)
 * Layana Schwarzklinge, Hexe, Rächerinnen Lycocas
+* 

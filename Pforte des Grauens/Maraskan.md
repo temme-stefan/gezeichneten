@@ -64,6 +64,7 @@ Rebellengruppe, südlich von Alrurdan, aufpflockte Soldaten
 ### Echsenwesen
 * Magister Hilbert von Pusperiken tätigt Ausgrabungen von Stoerrebrandt finanziert
 * Verlorene Stadt Akrabaal
+* Priester der nachtblau Geschuppten
 ### unbekannte Partei
 Anführer Rayo Brabaker, beim Friedhof der Seeschlangen
 
@@ -82,5 +83,7 @@ Anführer Rayo Brabaker, beim Friedhof der Seeschlangen
 * zentrales Gebirge: Amdeggyn-Massiv
 * Friedhof der Seeschlangen, [unbekannte Partei](Pforte%20des%20Grauens/Maraskan.md#unbekannte%20Partei), [Echsenwesen](Pforte%20des%20Grauens/Maraskan.md#Echsenwesen)
 * Akrabal
+	* 2-1 Siegel
 	* Szel al Tach -> Siegel von Akkrabal
+	* N'quis Leviathach verletzter Wächter eines Siegels (Sith von Szel al Tach)
 
