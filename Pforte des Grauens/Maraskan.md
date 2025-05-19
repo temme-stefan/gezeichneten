@@ -17,6 +17,7 @@ Die Rur und Gror Kirche dominiert den Alltag in vielen Belangen.
 * Bauform der Häuser: rund
 * traditionelles Mahl: 2 Maraskanfladen (rund), einer bleibt unbelegt
 * berauschender Tee (vorsichtig damit)
+Beerdigung: 16 Wünsche und 16 Forderungen werden bei der Totenwache geschrien.
 
 Kampfdiskus als spezielle Waffe
 
@@ -45,7 +46,12 @@ Leben auf Bäumen im Dschungel, ganz wehrhafter Trupp
 #### Haranydad
 Rebellengruppe
 verantwortlich für ersten Diebstahl des Enduriums, war ein Überfall auf die Mine (Standortkenntniss)
+Leben in einem Höhlensystem, 
+*Haran*
+*Alwijda*
+*Eidjan*
 starke Verluste, ggf aufgerieben
+
 #### Diskus von Boran
 Rebellengruppe, xenophil, potenziell ein paar 5 Krieger weniger
 #### Muakiji Marasna

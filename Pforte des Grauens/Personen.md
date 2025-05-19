@@ -15,3 +15,7 @@
 * Enjisab, zweite der Wipfeltiger
 * Hochgeschwister von Alrurdan: Galideran & Daruziber, Wissen viel, Reden im Duett
 * Marech, Wanderpriester der uns führen soll
+* Eidjan, [Haranydad](Pforte%20des%20Grauens/Maraskan.md#Haranydad) den wir gerettet haben
+* Haran, Anführer der [Haranydad](Pforte%20des%20Grauens/Maraskan.md#Haranydad)
+* Alwijda, zweite des  [Haranydad](Pforte%20des%20Grauens/Maraskan.md#Haranydad)
+* Layana Schwarzklinge, Hexe, Rächerinnen Lycocas

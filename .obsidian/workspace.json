@@ -44,33 +44,8 @@
                   "icon": "lucide-file",
                   "title": "Geschichte"
                 }
-              },
-              {
-                "id": "efc67f84a08166ef",
-                "type": "leaf",
-                "state": {
-                  "type": "release-notes",
-                  "state": {
-                    "currentVersion": "1.8.7"
-                  },
-                  "icon": "lucide-book-up",
-                  "title": "Release Notes 1.8.7"
-                }
-              },
-              {
-                "id": "cbb86b95b51571e9",
-                "type": "leaf",
-                "state": {
-                  "type": "release-notes",
-                  "state": {
-                    "currentVersion": "1.8.9"
-                  },
-                  "icon": "lucide-book-up",
-                  "title": "Release Notes 1.8.9"
-                }
               }
-            ],
-            "currentTab": 2
+            ]
           },
           {
             "id": "ed2162488cf82775",
@@ -246,11 +221,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cbb86b95b51571e9",
+  "active": "dbb36fc57dcd382d",
   "lastOpenFiles": [
-    "Pforte des Grauens/Notizen.md",
-    "Pforte des Grauens/Geschichte.md",
     "Pforte des Grauens/Maraskan.md",
+    "Pforte des Grauens/Geschichte.md",
+    "Pforte des Grauens/Notizen.md",
     "Pforte des Grauens/Personen.md",
     "Notizen/Trivia.md",
     "Pforte des Grauens/Gerüchte und Nachrichten.md",

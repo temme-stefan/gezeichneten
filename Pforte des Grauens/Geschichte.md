@@ -10,6 +10,7 @@ maraskanische Rebellen erbeuten die Lieferung Endurium
 * Mitte Phex: [Brief Delian](Pforte%20des%20Grauens/Brief%20Delian.md)
 
 ## 1018 BF / 25 Hal / 334 nach Golgaris Erscheinen
+* Laranya Schwarzklinge erhebt Anspruch aufs Gelände des [Haranydad](Pforte%20des%20Grauens/Maraskan.md#Haranydad)
 * Ende Peraine - Mitte Ingerimm: diesjährige Karawane mit Endurium, nicht angekommen
 * __15. Ingerimm__ - Der Brief erreicht Zeth
 * __22. Ingerimm__ - Sternenkonstelation: Sphärennähe und Erschütterung der Spähren
@@ -30,4 +31,7 @@ maraskanische Rebellen erbeuten die Lieferung Endurium
 * __15. Praios__ - Audienz bei Galideran und Daruziber
 * __15. Praios - 19. Praios__ - Reise zu den Haranydad unter der Führung Marech's und seines Diskussritual
 * __16. Praios__ - zwei aufgepflockte Soldaten zur Ruhe gebettet, vermutlich Muakiji Marasna
-* __19. Praios__ - Kampf mit den Kämpfern des Diskus von Boran, Befreiung eines Haranydad?
+* __19. Praios__ - Kampf mit den Kämpfern des Diskus von Boran, Befreiung eines Haranydad (Eidjan)
+* **20. Praios** - Eidjan führt uns zu den Haranydad, Audienz mit Haran
+* **21. Praios** - Kampf gegen Riesenspinne, Aufbruch Richtung Mine mit Alwijda und Eidjan
+* 
