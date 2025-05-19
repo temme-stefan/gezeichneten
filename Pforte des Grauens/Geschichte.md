@@ -11,7 +11,7 @@ maraskanische Rebellen erbeuten die Lieferung Endurium
 
 ## 1018 BF / 25 Hal / 334 nach Golgaris Erscheinen
 * Laranya Schwarzklinge erhebt Anspruch aufs Gelände des [Haranydad](Pforte%20des%20Grauens/Maraskan.md#Haranydad)
-* Firun oder Tsa: Drachengardisten unter Praiotin von Rallerau übernehmen 
+* Firun oder Tsa: Drachengardisten unter Praiotin von Rallerau übernehmen die Ausgrabungsstelle von Magister Pusperiken.
 * Ende Peraine - Mitte Ingerimm: diesjährige Karawane mit Endurium, nicht angekommen
 * __15. Ingerimm__ - Der Brief erreicht Zeth
 * __22. Ingerimm__ - Sternenkonstelation: Sphärennähe und Erschütterung der Spähren
