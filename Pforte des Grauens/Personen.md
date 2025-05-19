@@ -1,7 +1,7 @@
 * [Delian von Wiedbrück](Personen.md#Delian%20von%20Wiedbrück) KGIA, Sicherheitsberater
 * Fürst Herdin
 * Borotin Almachios: Abenteuerer aus Brabak mit sehr guten Maraskan Kenntnissen
-* Magister Hilbert von Pusperiken, Halle des Quecksilbers zu Festum (graue Gilde), Forscher nach Echsenzivilisation 
+* Magister Hilbert von Pusperiken, Halle des Quecksilbers zu Festum (graue Gilde), Forscher nach Echsenzivilisation, aktuell zwischen Haranydad und Uljakin bei Ausgrbungen
 * Rayo Brabaker, der Auserwählte, kahlköpfiger Novadi und Anführer der [unbekannte Partei](Pforte%20des%20Grauens/Maraskan.md#unbekannte%20Partei)
 * Praiotin von Rallerau, KGIA
 * Gernot von Mersingen, Ritter des Orden des Heiligen Golgari (Punin)
