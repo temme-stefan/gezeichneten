@@ -51,6 +51,9 @@ Leben in einem Höhlensystem,
 *Alwijda*
 *Eidjan*
 starke Verluste, ggf aufgerieben
+#### Uljakin
+Nordöstlich des Haranydad, Todfeinde
+
 
 #### Diskus von Boran
 Rebellengruppe, xenophil, potenziell ein paar 5 Krieger weniger
