@@ -13,9 +13,12 @@
 * tödliche Flora und Fauna
 * Vorräte verderben schnell
 * Wir werden steckbrieflich gesucht, von Fürst Herdin
+* Soldaten und Praiotin von Rallerau erbeuteten Schlüssel nach Akrabaal
+* Quest: Rückgabe des Szepters (Varska zerstört Topf wenn wir das Szepter haben)
+
 
 ## Status
-mit unserem Führer Marech sind wir im Dschungel auf der Suche nach den Überlebenden der Haranydad. Dschungelpfad gefunden, einige maraskansiche Krieger besiegt, und einen Maraskaner befreit.
+an der Mine, erste Erkundungen
 
 
 

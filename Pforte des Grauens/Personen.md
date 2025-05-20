@@ -19,4 +19,6 @@
 * Haran, Anführer der [Haranydad](Pforte%20des%20Grauens/Maraskan.md#Haranydad)
 * Alwijda, zweite des  [Haranydad](Pforte%20des%20Grauens/Maraskan.md#Haranydad)
 * Layana Schwarzklinge, Hexe, Rächerinnen Lycocas
-* 
+* Helzis, Quikim, Magisch'r, 3 Achaz , Gesandte Akrabals
+* Irasiath, die vom dunklen Tod
+* Dajin Mangal

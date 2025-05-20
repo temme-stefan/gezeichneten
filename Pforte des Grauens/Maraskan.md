@@ -52,8 +52,13 @@ Leben in einem Höhlensystem,
 *Eidjan*
 starke Verluste, ggf aufgerieben
 #### Uljakin
-Nordöstlich des Haranydad, Todfeinde
-
+Nordöstlich des Haranydad, Todfeinde mit selbigen
+nur noch wenige übrig, wollten Mine überfallen
+Irasiath, jetzt Anführerin
+"Eine Maraske sticht immer"
+Zeichen: Diskuss mit 4 Pfeilen
+ehem. Anführer. Dajin Mangal
+hatte Kontakte in den Fürstenpalast. Verschwunden mit seinen Kriegern, Basislager zerstört.
 
 #### Diskus von Boran
 Rebellengruppe, xenophil, potenziell ein paar 5 Krieger weniger
@@ -63,16 +68,23 @@ Rebellengruppe, südlich von Alrurdan, aufpflockte Soldaten
  * Kapitän Haimamut Ibn'Mokkadin
 ### Echsenwesen
 * Magister Hilbert von Pusperiken tätigt Ausgrabungen von Stoerrebrandt finanziert
-* Verlorene Stadt Akrabaal
-* Priester der nachtblau Geschuppten
+* Verlorene Stadt Akrabaal (siehe Orte)
+* Priester der nachtblau Geschuppten, ~> Gegner
 ### unbekannte Partei
 Anführer Rayo Brabaker, beim Friedhof der Seeschlangen
+
+### Gegner
+* Priester der nachtblau Geschuppten, Achaz
+* Layana Schwarzklinge, Hexe, Rächerinnen Lycocas
+
+
 
 ## Orte
 * Tuzak, Hauptstadt
 	* Es existiert ein Boron Tempel außerhalb der Stadt
 * Boran
 * Mine Endurium
+	* wirkt verlassen.
 * [Fort Retoglück](Pforte%20des%20Grauens/Maraskan.md#Fort%20Retoglück)
 * Alrurdan, Ort im Westen Maraskan mit Rur&Gor Tempel
 	* ca 1000 Einwohner
@@ -86,5 +98,7 @@ Anführer Rayo Brabaker, beim Friedhof der Seeschlangen
 	* 2-1(?) Siegel schützen die Stadt 
 	* Szel al Tach -> Siegel von Akkrabal
 	* N'quis Leviathach verletzter Wächter eines Siegels (Sith von Szel al Tach)
+	* "Fluch der Schlange darf Akrabal nicht erreichen"
+	* 
 	* Zufluchtsort für Echsenwesen bei Flucht vor Magier Bastrabun  
 

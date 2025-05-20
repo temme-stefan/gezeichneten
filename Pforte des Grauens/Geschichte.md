@@ -36,4 +36,8 @@ maraskanische Rebellen erbeuten die Lieferung Endurium
 * **20. Praios** - Eidjan führt uns zu den Haranydad, Audienz mit Haran
 * **21. Praios** - Kampf gegen Riesenspinne (Vertraute?), Aufbruch Richtung Mine mit Alwijda und Eidjan
 * **22. Praios** - Treffen mit Magister Pusperiken
-* **23. Praios** - Treffen mit Gesandten Akrabals (3 Echsenwesen). 
+* **23. Praios** - Treffen mit Gesandten Akrabals (3 Echsenwesen). Quest: Wiedererlangen des Szepters
+* **24. Praios** - Treffen mit den Uljakin-Resten
+* **25. Praios** - Abschied von Alwijda und Eidjan, weiter mit Irasiath zu Basislager und Mine. Ankunft Mine.
+
+* **Mitte Rondra** Erneut Sternenkonstellation
