@@ -99,6 +99,9 @@ Anführer Rayo Brabaker, beim Friedhof der Seeschlangen
 	* leichte Kraftlinie oberirdisch durch Tempel
 * zentrales Gebirge: Amdeggyn-Massiv
 * Friedhof der Seeschlangen, [unbekannte Partei](Pforte%20des%20Grauens/Maraskan.md#unbekannte%20Partei), [Echsenwesen](Pforte%20des%20Grauens/Maraskan.md#Echsenwesen)
+	* Mangrovensumpf mit Knochen riesiger Seeschlangen
+	* Landzunge mit Tempelruine ~> Vermutlich ehem. Ausgrabungsort
+	* Viermaster mit schwarzen Segeln und schwarzem rauch (alchimistisches Labor)
 * Akrabal
 	* 2-1(?) Siegel schützen die Stadt 
 	* Szel al Tach -> Siegel von Akkrabal

@@ -22,6 +22,7 @@ maraskanische Rebellen erbeuten die Lieferung Endurium
 * **27. Peraine** - umgeleitete Karawane passiert Bergfestung. Letzter Eintrag.
 * Ende Peraine - Mitte Ingerimm: diesjährige Karawane mit Endurium, nicht angekommen
 * __15. Ingerimm__ - Der Brief erreicht Zeth
+* vermutlich 3. oder 4. Ingerimm: Rallerau erreicht Friedhof der Seeschlangen
 * __22. Ingerimm__ - Sternenkonstelation: Sphärennähe und Erschütterung der Spähren
 * __9. Rahja__ - Alanfaner Kult bemerkt dass ihre Agenten tot sind. Gleiches gilt für KGIA
 * __17. Rahja__ - Treffen mit dem Rabe von Punin und Auftrag (inkl. Segnung durch den Raben)

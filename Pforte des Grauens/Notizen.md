@@ -18,7 +18,7 @@
 
 
 ## Status
-an der Mine, erste Erkundungen
+an der Landzunge, Begenung mit Brabaker +1 ?
 
 
 
