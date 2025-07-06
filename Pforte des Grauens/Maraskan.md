@@ -86,10 +86,10 @@ Anführer Rayo Brabaker, beim Friedhof der Seeschlangen
 * Tuzak, Hauptstadt
 	* Es existiert ein Boron Tempel außerhalb der Stadt
 * Boran
-* Mine Endurium
+* Von-Sturmfels-Mine Endurium
 	* verlassen.
 	* Grab des 3. Drachenbanners und zweier Paktierer
-	* Nihct in die Mine eingedrungen, Bannkreis gegen 
+	* Nicht in die Mine eingedrungen, Bannkreis gegen gehörnten Dämon Agrimots
 * [Fort Retoglück](Pforte%20des%20Grauens/Maraskan.md#Fort%20Retoglück)
 * Alrurdan, Ort im Westen Maraskan mit Rur&Gor Tempel
 	* ca 1000 Einwohner
