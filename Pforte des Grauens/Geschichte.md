@@ -33,7 +33,7 @@ maraskanische Rebellen erbeuten die Lieferung Endurium
 * __5. Praios__ - Mittag Abreise an Bord der Perlbeißer
 * __6. Praios__ - entkommen der Greif (Schiff des Mittelreich) durch göttliche Intervention, Tropensturm, Schiffsbruch
 * __7. Praios__ - Bestandsaufnahme
-* __8. Praios__ - Flugaufklärung/Wasserversorgung
+* __8. Praios__ - Flugaufklärung/ Wasserversorgung
 * __9. Praios - 10. Praios__ - durch die Wildniss gen Osten
 * __11. Praios__ - Fort Retoglück
 * __12. Praios__ - Überfall der Wipfeltiger
@@ -54,5 +54,4 @@ maraskanische Rebellen erbeuten die Lieferung Endurium
 * **29. Praios** - Überreste des vergifteten 4. Banners, flache Gräber
 * **30. Praios - 4. Rondra** - Folgen Spuren Richtung Küste
 * **4. Rondra** - Ankunft Friedhof der Seeschlangen
-
-* **Mitte Rondra** Erneut Sternenkonstellation
+* **Mitte Rondra** - Erneut Sternenkonstellation

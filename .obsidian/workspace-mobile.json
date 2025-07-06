@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pforte des Grauens/Brief Delian.md",
+                "file": "Pforte des Grauens/Geschichte.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Brief Delian"
+              "title": "Geschichte"
             }
           }
         ]
@@ -161,19 +161,22 @@
   },
   "active": "6e834a67d5f76999",
   "lastOpenFiles": [
-    "Pforte des Grauens/Maraskan.md",
+    "Pforte des Grauens/Brief Delian.md",
     "/Pforte des Grauens/Personen.md",
     "/Pforte des Grauens/Notizen.md",
     "/Pforte des Grauens/Maraskan.md",
     "/Pforte des Grauens/Geschichte.md",
     "/Pforte des Grauens",
+    "/Notizen/offen Fäden.md",
+    "/Notizen/Trivia.md",
+    "/Notizen",
+    "Pforte des Grauens/Maraskan.md",
     "Pforte des Grauens/Geschichte.md",
     "Notizen/Kraftlinien.md",
     "Pforte des Grauens/Personen.md",
     "Pforte des Grauens/Gerüchte und Nachrichten.md",
     "Pforte des Grauens/Notizen.md",
     "/Pforte des Grauens/Gerüchte und Nachrichten.md",
-    "Pforte des Grauens/Brief Delian.md",
     "Notizen/Trivia.md",
     "Prophezeihung und Deutung.md",
     "/Pforte des Grauens/Brief Delian.md",
@@ -185,8 +188,6 @@
     "/Notizen/Über Bücher.md",
     "/Notizen/Tal der Elemente.md",
     "/Frag den Meister/Fragen.md",
-    "/Archiv/geklärte Fragen.md",
-    "/Archiv/Gruppenaktionen.md",
     "Pforte des Grauens",
     "Kraftlinien",
     "/Kraftlinien",
@@ -194,7 +195,6 @@
     "Andrew",
     "/Frag den Meister",
     "/Andrew",
-    "/Notizen",
     "Notizen"
   ]
 }
