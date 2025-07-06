@@ -42,6 +42,8 @@ maraskanische Rebellen erbeuten die Lieferung Endurium
 * **26. Praios** - Feuerbestattungder Toten, folgen den Spuren des 4. Banners 
 * **27. Praios** - Abends Passfestung die wir umgehen
 * **28. Praios** - Spuren verlassen Straße
-* **29. Praios** - Überreste des vergifteten 4. Banners
+* **29. Praios** - Überreste des vergifteten 4. Banners, flache Gräber
+* **30. Praios - 4. Rondra** - Folgen Spuren Richtung Küste
+* **4. Rondra** - Ankunft Friedhof der Seeschlangen
 
 * **Mitte Rondra** Erneut Sternenkonstellation
