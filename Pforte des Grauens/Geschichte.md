@@ -16,7 +16,8 @@ maraskanische Rebellen erbeuten die Lieferung Endurium
 * **1. Efferd** - Offene Rebellion bricht auf
 * **4. Efferd** - Seeblockade verschärft
 * Firun oder Tsa: Drachengardisten unter Praiotin von Rallerau übernehmen die Ausgrabungsstelle von Magister Pusperiken. Verletzten und besiegen Wächter des Heiligtumns (N'quis Leviathach) und stehlen ein Szepter (ein Schlüssel für Akrabal, einer von 2-1? (echsich Nummerierung). Hatten Hilfe von Priester der nachtblau Geschuppten
-* **20. Phex**
+* **20. Phex** - Praiotin von Rallerau übernimmt 4. Banner. 3. Banner soll nicht abgelöst werden
+* **5. Peraine** - 4. Banner verstärkt durch 20 KGIA Agenten (hierunter die Paktierer) bricht zur Mine auf
 * Ende Peraine - Mitte Ingerimm: diesjährige Karawane mit Endurium, nicht angekommen
 * __15. Ingerimm__ - Der Brief erreicht Zeth
 * __22. Ingerimm__ - Sternenkonstelation: Sphärennähe und Erschütterung der Spähren
