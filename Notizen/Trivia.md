@@ -18,6 +18,7 @@
 | Namenlose Tage |           |                         |
 
 ## Mondphasen
- Neumond \22. Boron 23 Hal
+Sind nicht konsistent....
+ Neumond 22. Boron 23 Hal
  Vollmond 19. Rondra 24 Hal
  

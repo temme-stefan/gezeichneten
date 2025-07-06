@@ -37,6 +37,8 @@ Alle ein wenig wahnsinnig / durchgeknallt.
 Brauen Fusel
 Steckbrief
 
+
+
 ### maraskanischen Wiederständler
 #### Wipfeltiger
 Rebellengruppe
@@ -80,11 +82,14 @@ Anführer Rayo Brabaker, beim Friedhof der Seeschlangen
 
 
 ## Orte
+* Jergan, Stadt im Norden der Inse. Hier aren wenigsten das dritte und vierte Banner der Drachengarde stationiert
 * Tuzak, Hauptstadt
 	* Es existiert ein Boron Tempel außerhalb der Stadt
 * Boran
 * Mine Endurium
-	* wirkt verlassen.
+	* verlassen.
+	* Grab des 3. Drachenbanners und zweier Paktierer
+	* Nihct in die Mine eingedrungen, Bannkreis gegen 
 * [Fort Retoglück](Pforte%20des%20Grauens/Maraskan.md#Fort%20Retoglück)
 * Alrurdan, Ort im Westen Maraskan mit Rur&Gor Tempel
 	* ca 1000 Einwohner

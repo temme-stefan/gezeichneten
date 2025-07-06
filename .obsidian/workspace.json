@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notizen/Trivia.md",
+                "file": "Notizen/Lore.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trivia"
+              "title": "Lore"
             }
           }
         ]
@@ -196,13 +196,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8aae254f1d545b4b",
+  "active": "dcbe6bbd2268c9e4",
   "lastOpenFiles": [
+    "Notizen/offen Fäden.md",
+    "Notizen/Post Gier.md",
+    "Notizen/Tal der Elemente.md",
+    "Notizen/Träume.md",
     "Notizen/Trivia.md",
+    "Notizen/Über Bücher.md",
+    "Notizen/Vampire.md",
+    "Notizen/Wilde Theorien.md",
+    "Pforte des Grauens/Maraskan.md",
     "Pforte des Grauens/Geschichte.md",
     "Pforte des Grauens/Personen.md",
     "Pforte des Grauens/Notizen.md",
-    "Pforte des Grauens/Maraskan.md",
     "Pforte des Grauens/Gerüchte und Nachrichten.md",
     "Geschichte.md",
     "Andrew/Magie.md",
@@ -217,14 +224,7 @@
     "Notizen/Kraftlinien.md",
     "Notizen/Borbaradianer.md",
     "Frag den Meister/Über Proben.md",
-    "Notizen/Über Bücher.md",
     "Pforte des Grauens",
-    "Archiv/geklärte Fragen.md",
-    "Notizen/Tal der Elemente.md",
-    "Notizen/Wilde Theorien.md",
-    "Archiv/Money.md",
-    "Notizen/Träume.md",
-    "Kraftlinien/Reisen.md",
     "Kraftlinien",
     "Archiv",
     "Frag den Meister",
