@@ -1,12 +1,16 @@
 * [Delian von Wiedbrück](Personen.md#Delian%20von%20Wiedbrück) KGIA, Sicherheitsberater
+	* ersetzt durch Dämon?
 * Fürst Herdin
 * Borotin Almachios: Abenteuerer aus Brabak mit sehr guten Maraskan Kenntnissen
-* Magister Hilbert von Pusperiken, Halle des Quecksilbers zu Festum (graue Gilde), Forscher nach Echsenzivilisation, aktuell zwischen Haranydad und Uljakin bei Ausgrbungen
+	* Borbardianer oder Borbarad selbst?
+* Magister Hilbert von Pusperiken, Halle des Quecksilbers zu Festum (graue Gilde), Forscher nach Echsenzivilisation, aktuell zwischen Haranydad und Uljakin bei Ausgrabungen
 * Rayo Brabaker, der Auserwählte, kahlköpfiger Novadi und Anführer der [unbekannte Partei](Pforte%20des%20Grauens/Maraskan.md#unbekannte%20Partei)
 * Praiotin von Rallerau, KGIA
 	* scheint ausführende Hand Delians zu sein.
 	* stiehlt Szepter vom Leviathan
-	* 
+	* Bringt Endurium zu  [unbekannte Partei](Pforte%20des%20Grauens/Maraskan.md#unbekannte%20Partei)
+	* Geht über Leichen. Viele Leichen
+	* Mit Paktierern im Bunde
 * Gernot von Mersingen, Ritter des Orden des Heiligen Golgari (Punin)
 * Commandanta Katalinya Adranez, Ritterin im Orden des schwarzen Raben (Al'Anfa)
 * Der Rabe von Punin, Oberhaupt der Boronkirche (Punin)
