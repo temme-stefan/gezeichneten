@@ -38,6 +38,10 @@ maraskanische Rebellen erbeuten die Lieferung Endurium
 * **22. Praios** - Treffen mit Magister Pusperiken
 * **23. Praios** - Treffen mit Gesandten Akrabals (3 Echsenwesen). Quest: Wiedererlangen des Szepters
 * **24. Praios** - Treffen mit den Uljakin-Resten
-* **25. Praios** - Abschied von Alwijda und Eidjan, weiter mit Irasiath zu Basislager und Mine. Ankunft Mine.
+* **25. Praios** - Abschied von Alwijda und Eidjan, weiter mit Irasiath zu Basislager und Mine. Ankunft Mine. Untersuchung Gebäude und Mineneingang.
+* **26. Praios** - Feuerbestattungder Toten, folgen den Spuren des 4. Banners 
+* **27. Praios** - Abends Passfestung die wir umgehen
+* **28. Praios** - Spuren verlassen Straße
+* **29. Praios** - Überreste des vergifteten 4. Banners
 
 * **Mitte Rondra** Erneut Sternenkonstellation
