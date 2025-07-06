@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pforte des Grauens/Geschichte.md",
+                "file": "Pforte des Grauens/Personen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Geschichte"
+              "title": "Personen"
             }
           }
         ]
@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notizen/Trivia.md",
+                "file": "Pforte des Grauens/Geschichte.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trivia"
+              "title": "Geschichte"
             }
           }
         ]
@@ -198,10 +198,11 @@
   },
   "active": "8aae254f1d545b4b",
   "lastOpenFiles": [
-    "Notizen/offen Fäden.md",
     "Pforte des Grauens/Geschichte.md",
-    "Notizen/Lore.md",
     "Notizen/Trivia.md",
+    "Pforte des Grauens/Personen.md",
+    "Notizen/offen Fäden.md",
+    "Notizen/Lore.md",
     "Pforte des Grauens/Maraskan.md",
     "Notizen/Wilde Theorien.md",
     "Notizen/Vampire.md",
@@ -209,7 +210,6 @@
     "Notizen/Träume.md",
     "Notizen/Tal der Elemente.md",
     "Notizen/Post Gier.md",
-    "Pforte des Grauens/Personen.md",
     "Pforte des Grauens/Notizen.md",
     "Pforte des Grauens/Gerüchte und Nachrichten.md",
     "Geschichte.md",

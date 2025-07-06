@@ -4,6 +4,9 @@
 * Magister Hilbert von Pusperiken, Halle des Quecksilbers zu Festum (graue Gilde), Forscher nach Echsenzivilisation, aktuell zwischen Haranydad und Uljakin bei Ausgrbungen
 * Rayo Brabaker, der Auserwählte, kahlköpfiger Novadi und Anführer der [unbekannte Partei](Pforte%20des%20Grauens/Maraskan.md#unbekannte%20Partei)
 * Praiotin von Rallerau, KGIA
+	* scheint ausführende Hand Delians zu sein.
+	* stiehlt Szepter vom Leviathan
+	* 
 * Gernot von Mersingen, Ritter des Orden des Heiligen Golgari (Punin)
 * Commandanta Katalinya Adranez, Ritterin im Orden des schwarzen Raben (Al'Anfa)
 * Der Rabe von Punin, Oberhaupt der Boronkirche (Punin)
