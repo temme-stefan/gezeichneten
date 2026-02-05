@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e3a36e1922fb0ba0",
+        "id": "b75089fe13c1f36d",
         "type": "tabs",
         "children": [
           {
-            "id": "fd3ba77fdada5a1c",
+            "id": "2affbbbbb159cbfa",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.10.6"
+                "currentVersion": "1.11.5"
               },
               "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "title": "Versionshinweise 1.11.5"
             }
           }
         ]
@@ -163,8 +163,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Neue Base erstellen": false,
       "graph:Graph-Ansicht öffnen": false,
-      "bases:Create new base": false,
       "switcher:Schnellauswahl öffnen": false,
       "canvas:Neuen Canvas erstellen": false,
       "daily-notes:Heutige Notiz öffnen": false,
@@ -173,7 +173,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd3ba77fdada5a1c",
+  "active": "2affbbbbb159cbfa",
   "lastOpenFiles": [
     "Personen.md",
     "Pforte des Grauens/Notizen.md",
