@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b75089fe13c1f36d",
+        "id": "9ca0d00253cfffcc",
         "type": "tabs",
         "children": [
           {
-            "id": "2affbbbbb159cbfa",
+            "id": "fc6562447bc579a3",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.11.5"
+                "currentVersion": "1.11.7"
               },
               "icon": "lucide-book-up",
-              "title": "Versionshinweise 1.11.5"
+              "title": "Versionshinweise 1.11.7"
             }
           }
         ]
@@ -173,7 +173,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2affbbbbb159cbfa",
+  "active": "fc6562447bc579a3",
   "lastOpenFiles": [
     "Personen.md",
     "Pforte des Grauens/Notizen.md",
