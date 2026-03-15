@@ -1,3 +1,3 @@
 * Teil eines Großen
-* kristallomatisch aber nicht achaz
-* für und gegen Borbard
+* kristallomantisch aber nicht Achaz
+* für und gegen Borbarad

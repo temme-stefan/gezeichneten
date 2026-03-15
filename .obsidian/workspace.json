@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notizen/Artefakte/Onixsplitter.md",
+                "file": "Pforte des Grauens/Geschichte.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Onixsplitter"
+              "title": "Geschichte"
             }
           }
         ]
@@ -177,8 +177,8 @@
   },
   "active": "6d3ed2772b2fbae5",
   "lastOpenFiles": [
-    "Notizen/Artefakte/Schlangenarmreif.md",
     "Notizen/Artefakte/Onixsplitter.md",
+    "Notizen/Artefakte/Schlangenarmreif.md",
     "Notizen/3. Zeichen Krötensinn.md",
     "Notizen/Artefakte",
     "Notizen/Borbaradianer.md",
