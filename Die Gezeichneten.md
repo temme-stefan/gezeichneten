@@ -4,7 +4,6 @@
 ## Findurian
 [2. Zeichen Das wandelndene Bild](Notizen/2.%20Zeichen%20Das%20wandelndene%20Bild.md)
 
-## Orbrandt
-[Orbrandt, auch Archon Megalon](Personen.md#Orbrandt,%20auch%20Archon%20Megalon) 
+## Varska
 [3. Zeichen Krötensinn](Notizen/3.%20Zeichen%20Krötensinn.md)
 

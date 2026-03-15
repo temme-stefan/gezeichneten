@@ -54,4 +54,4 @@ maraskanische Rebellen erbeuten die Lieferung Endurium
 * **29. Praios** - Überreste des vergifteten 4. Banners, flache Gräber
 * **30. Praios - 4. Rondra** - Folgen Spuren Richtung Küste
 * **4. Rondra** - Ankunft Friedhof der Seeschlangen
-* **Mitte Rondra** - Erneut Sternenkonstellation
+* **13. Rondra** - Erneut Sternenkonstellation

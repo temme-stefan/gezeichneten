@@ -5,12 +5,15 @@
 	* Borbardianer oder Borbarad selbst?
 * Magister Hilbert von Pusperiken, Halle des Quecksilbers zu Festum (graue Gilde), Forscher nach Echsenzivilisation, aktuell zwischen Haranydad und Uljakin bei Ausgrabungen
 * Rayo Brabaker, der Auserwählte, kahlköpfiger Novadi und Anführer der [unbekannte Partei](Pforte%20des%20Grauens/Maraskan.md#unbekannte%20Partei)
+	* vermutlich geflohen
+	* Paktierer mit Tasfarelel
 * Praiotin von Rallerau, KGIA
 	* scheint ausführende Hand Delians zu sein.
 	* stiehlt Szepter vom Leviathan
 	* Bringt Endurium zu  [unbekannte Partei](Pforte%20des%20Grauens/Maraskan.md#unbekannte%20Partei)
 	* Geht über Leichen. Viele Leichen
 	* Mit Paktierern im Bunde
+	* tot, mit Borbards Namen auf den Lippen in den kampf gestürmt
 * Gernot von Mersingen, Ritter des Orden des Heiligen Golgari (Punin)
 * Commandanta Katalinya Adranez, Ritterin im Orden des schwarzen Raben (Al'Anfa)
 * Der Rabe von Punin, Oberhaupt der Boronkirche (Punin)
@@ -26,6 +29,7 @@
 * Haran, Anführer der [Haranydad](Pforte%20des%20Grauens/Maraskan.md#Haranydad)
 * Alwijda, zweite des  [Haranydad](Pforte%20des%20Grauens/Maraskan.md#Haranydad)
 * Layana Schwarzklinge, Hexe, Rächerinnen Lycocas
+	* im Tempel der Seeschlangen dabei gewesen, geflohen
 * Helzis, Quikim, Magisch'r, 3 Achaz , Gesandte Akrabals
 * Irasiath, die vom dunklen Tod
 * Dajin Mangal
