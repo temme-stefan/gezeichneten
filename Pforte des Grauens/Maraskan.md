@@ -72,9 +72,8 @@ Rebellengruppe, südlich von Alrurdan, aufpflockte Soldaten
 * Magister Hilbert von Pusperiken tätigt Ausgrabungen von Stoerrebrandt finanziert
 * Verlorene Stadt Akrabaal (siehe Orte)
 * Priester der nachtblau Geschuppten, ~> Gegner
-### unbekannte Partei
+### Borbaradianer, ehem. unbekannte Partei
 Anführer Rayo Brabaker, beim Friedhof der Seeschlangen
-
 ### Gegner
 * Priester der nachtblau Geschuppten, Achaz
 * Layana Schwarzklinge, Hexe, Rächerinnen Lycocas
@@ -102,6 +101,8 @@ Anführer Rayo Brabaker, beim Friedhof der Seeschlangen
 	* Mangrovensumpf mit Knochen riesiger Seeschlangen
 	* Landzunge mit Tempelruine ~> Vermutlich ehem. Ausgrabungsort
 	* Viermaster mit schwarzen Segeln und schwarzem rauch (alchimistisches Labor)
+	* Kraftlinienkreuzung
+	* 
 * Akrabal
 	* 2-1(?) Siegel schützen die Stadt 
 	* Szel al Tach -> Siegel von Akkrabal
