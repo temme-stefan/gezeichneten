@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Borbarad.md",
+                "file": "Pforte des Grauens/Geschichte.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Borbarad"
+              "title": "Geschichte"
             }
           },
           {
@@ -191,11 +191,11 @@
   },
   "active": "6d3ed2772b2fbae5",
   "lastOpenFiles": [
+    "Borbarad.md",
     "Pforte des Grauens/Maraskan.md",
     "Pforte des Grauens/Geschichte.md",
     "Pforte des Grauens/Gerüchte und Nachrichten.md",
     "Die Gezeichneten.md",
-    "Borbarad.md",
     "Pforte des Grauens/Personen.md",
     "Notizen/Lore.md",
     "Notizen/Artefakte/Dämonenschwerter.md",
