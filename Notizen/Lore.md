@@ -11,6 +11,8 @@ Für den Preis seiner Seele kann man mit Erzdämonen paktieren
 | ----------------------------------------- | -------- |
 | Widharcal, Schänder der Elemente, Agrimot | Ingerimm |
 | Thargunitoth                              | Boron    |
+| Nagrar                                    |          |
+| Charyptoroth                              |          |
 ## Von den Elementen
 Es gibt 6 Elemente: Wasser, Luft, Feuer, Erz, Humus, Eis.
 Es gibt Elementarfürsten (Auch Erzelementare genannt, was aber uneindeutig ist: Erzerzelementar).
