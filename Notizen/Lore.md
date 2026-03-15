@@ -7,20 +7,20 @@ Der namenlose Gott hat eine Breche in die 7. Sphäre geschlagen, damit die Dämo
 Jeder Gott hat einen Antagonisten auf Dämonenebene, die sogenannten Erzdämonen. Dämonen haben entweder einen Erzdämon oder den Namenlosen über sich.
 Für den Preis seiner Seele kann man mit Erzdämonen paktieren
 
-| Gott | Aspekt | Erzdämon | Alternativer Name | Beiname |
-| ------ | ----------- | --------------- | -------------------------- | --------------- |
-| Praios | Ordnung, Recht | Blakharaz |  | Herr der Rache |
-| Rondra | Kampf | Belhalhar | Xarfai | Jenseitiger Mordbrenner |
-| Efferd | Wasser | Charyptoroth |  | Herzögin der nachtblauen Tiefen |
-| Travia | Heim | Lolgramoth |  | Herr der Ruhelosigkeit |
-| Boron | Tod | Thargunitoth |  | Herrin der Untoten |
-| Hesinde | Wissen, Magie | Amazeroth | Iribaar | Herr des Verbotenen Wissens |
-| Firun | Schnee, Jagd | Belshirash | Nagrach | Eisiger Jäger |
-| Tsa | Erneuerung | Asfaloth |  | Herzogin des wimmelnden Chaos |
-| Phex | Glück, Handel | Tasfarelel |  | Gieriger Feilscher |
-| Peraine | Pflanzen, Ackerbau | Belzhorash | Mishkhara | Faulige Monarchin des ewigen Siechtums |
-| Ingerimm | Handwerk | Agrimoth | Widharcal | Schänder der Elemente |
-| Rahja | Liebe, Leidenschaft | Belkelel |  | Herrin der schwarzfaulen Lust |
+| Gott     | Aspekt              | Erzdämon     | Alternativer Name | Beiname                                |
+| -------- | ------------------- | ------------ | ----------------- | -------------------------------------- |
+| Praios   | Ordnung, Recht      | Blakharaz    |                   | Herr der Rache                         |
+| Rondra   | Kampf               | Belhalhar    | Xarfai            | Jenseitiger Mordbrenner                |
+| Efferd   | Wasser              | Charyptoroth |                   | Herzögin der nachtblauen Tiefen        |
+| Travia   | Heim                | Lolgramoth   |                   | Herr der Ruhelosigkeit                 |
+| Boron    | Tod                 | Thargunitoth |                   | Herrin der Untoten                     |
+| Hesinde  | Wissen, Magie       | Amazeroth    | Iribaar           | Herr des Verbotenen Wissens            |
+| Firun    | Schnee, Jagd        | Belshirash   | Nagrach           | Eisiger Jäger                          |
+| Tsa      | Erneuerung          | Asfaloth     |                   | Herzogin des wimmelnden Chaos          |
+| Phex     | Glück, Handel       | Tasfarelel   |                   | Gieriger Feilscher                     |
+| Peraine  | Pflanzen, Ackerbau  | Belzhorash   | Mishkhara         | Faulige Monarchin des ewigen Siechtums |
+| Ingerimm | Handwerk            | Agrimoth     | Widharcal         | Schänder der Elemente                  |
+| Rahja    | Liebe, Leidenschaft | Belkelel     |                   | Herrin der schwarzfaulen Lust          |
 ## Von den Elementen
 Es gibt 6 Elemente: Wasser, Luft, Feuer, Erz, Humus, Eis.
 Es gibt Elementarfürsten (Auch Erzelementare genannt, was aber uneindeutig ist: Erzerzelementar).
