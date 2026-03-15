@@ -55,7 +55,7 @@ maraskanische Rebellen erbeuten die Lieferung Endurium
 * **30. Praios - 4. Rondra** - Folgen Spuren Richtung Küste
 * **4. Rondra** - Ankunft Friedhof der Seeschlangen
 * **4. Rondra** - Sturm des Tempels und stören des Rituals
-* **5. Rondra - 7. Rondra** - In Begleitungd er drei Achaz bringen wir das Szepter zurück zum Tempel
+* **5. Rondra - 7. Rondra** - In Begleitung der drei Achaz bringen wir das Szepter zurück zum Tempel
 * **7. Rondra** - Varska stellt sich dem Leviathan im Zweikampf
 * **7. Rondra - 9. Rondra** - Wir reisen Richtung Tuzak und finden Zuflucht im Borontempel
 * **9. Rondra - 12. Rondra** - Wir verstecken uns in den Katakomben. Donna Fiorella sammelt Informationen
