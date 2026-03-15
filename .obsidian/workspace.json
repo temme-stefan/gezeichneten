@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9ca0d00253cfffcc",
+        "id": "25a120548cd7ade3",
         "type": "tabs",
         "children": [
           {
-            "id": "fc6562447bc579a3",
+            "id": "6d3ed2772b2fbae5",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "Notizen/Lore.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Versionshinweise 1.11.7"
+              "icon": "lucide-file",
+              "title": "Lore"
             }
           }
         ]
@@ -173,7 +175,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc6562447bc579a3",
+  "active": "6d3ed2772b2fbae5",
   "lastOpenFiles": [
     "Personen.md",
     "Pforte des Grauens/Notizen.md",
