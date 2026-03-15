@@ -14,6 +14,8 @@ zwergisch: Burbar Domron ≙ der schwarze Borbarad
 Rabe? [1. Spruch Von der Zweiheit der göttlichen Ungaben](Prophezeihung%20und%20Deutung#1.%20Spruch%20Von%20der%20Zweiheit%20der%20göttlichen%20Ungaben)
 
 Meister außerhalb des Todes [4. Spruch Von den Sieben Gezeichneten](Prophezeihung%20und%20Deutung#4.%20Spruch%20Von%20den%20Sieben%20Gezeichneten)
+
+Fluch der Schlange <=> Jahu Hinze Toi
 ## Vergangenheit
 * [570 BF - 589 BF](Geschichte.md#570%20BF%20-%20589%20BF) Terror in den Tulamidenlanden
 * [590 BF](Geschichte.md#590%20BF) Schlacht gegen Rohal in gorischer Wüste, endet mit Verschwinden der beiden.

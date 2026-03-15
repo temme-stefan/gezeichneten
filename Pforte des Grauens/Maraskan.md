@@ -105,10 +105,9 @@ Anführer Rayo Brabaker, beim Friedhof der Seeschlangen
 	* erste Gegner: 2 Paktierer
 	* 
 * Akrabal
-	* 2-1(?) Siegel schützen die Stadt 
+	* 2-1(=11 Basis 5) Siegel schützen die Stadt 
 	* Szel al Tach -> Siegel von Akkrabal
 	* N'quis Leviathach verletzter Wächter eines Siegels (Sith von Szel al Tach)
-	* "Fluch der Schlange darf Akrabal nicht erreichen"
-	* 
+	* "Fluch der Schlange darf Akrabal nicht erreichen"	* 
 	* Zufluchtsort für Echsenwesen bei Flucht vor Magier Bastrabun  
 
