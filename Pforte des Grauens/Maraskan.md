@@ -102,6 +102,7 @@ Anführer Rayo Brabaker, beim Friedhof der Seeschlangen
 	* Landzunge mit Tempelruine ~> Vermutlich ehem. Ausgrabungsort
 	* Viermaster mit schwarzen Segeln und schwarzem rauch (alchimistisches Labor)
 	* Kraftlinienkreuzung
+	* erste Gegner: 2 Paktierer
 	* 
 * Akrabal
 	* 2-1(?) Siegel schützen die Stadt 
