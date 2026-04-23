@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "8e11ff05a0a83b3d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Versionshinweise 1.12.4"
+            }
+          },
+          {
             "id": "59aecdc27cce60e2",
             "type": "leaf",
             "state": {
@@ -35,7 +47,8 @@
               "title": "Lore"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,7 +202,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d3ed2772b2fbae5",
+  "active": "8e11ff05a0a83b3d",
   "lastOpenFiles": [
     "Pforte des Grauens/Geschichte.md",
     "Borbarad.md",
