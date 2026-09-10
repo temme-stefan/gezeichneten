@@ -22,13 +22,7 @@
               "title": "Geschichte"
             },
             "group": "1e43ff8c9555d5b0"
-          }
-        ]
-      },
-      {
-        "id": "fdb23fb7f6919550",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "7bc74f2a08691d64",
             "type": "leaf",
@@ -63,16 +57,10 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph-Ansicht"
+              "title": "Lokales Diagramm"
             },
             "group": "1e43ff8c9555d5b0"
-          }
-        ]
-      },
-      {
-        "id": "797cea287f2719c6",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "691dc8214930ae91",
             "type": "leaf",
@@ -110,13 +98,7 @@
               "title": "Graph view"
             },
             "group": "1e43ff8c9555d5b0"
-          }
-        ]
-      },
-      {
-        "id": "888eff64322ccb44",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "584023ec0a719858",
             "type": "leaf",
@@ -155,7 +137,8 @@
             },
             "group": "1e43ff8c9555d5b0"
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
