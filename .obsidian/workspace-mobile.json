@@ -145,7 +145,7 @@
               "state": {
                 "file": "Andrew/Formeln.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Formeln"
@@ -274,8 +274,8 @@
         "state": {
           "type": "git-view",
           "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
+          "icon": "lucide-ghost",
+          "title": "git-view"
         }
       }
     ],
@@ -289,8 +289,7 @@
       "daily-notes:Heutige Notiz öffnen": false,
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
-      "bases:Neue Base erstellen": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Neue Base erstellen": false
     }
   },
   "active": "3421155dcaecf976",
