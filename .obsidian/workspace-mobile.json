@@ -138,17 +138,17 @@
             "group": "1e43ff8c9555d5b0"
           },
           {
-            "id": "3421155dcaecf976",
+            "id": "3587bafe7c18606f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andrew/Formeln.md",
+                "file": "Andrew/Formeln2.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Formeln"
+              "title": "Formeln2"
             }
           }
         ],
@@ -283,6 +283,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Schnellauswahl öffnen": false,
       "graph:Graph-Ansicht öffnen": false,
       "canvas:Neuen Canvas erstellen": false,
@@ -292,9 +293,11 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "3421155dcaecf976",
+  "active": "3587bafe7c18606f",
   "lastOpenFiles": [
-    "Andrew/Formeln.md",
+    "conflict-files-obsidian-git.md",
+    "Andrew/Formeln2.md",
+    "Personen.md",
     "Notizen/Artefakte/Schlangenarmreif.md",
     "Notizen/Artefakte/Onixsplitter.md",
     "Notizen/Artefakte/Dämonenschwerter.md",
@@ -322,8 +325,6 @@
     "/Pforte des Grauens/Notizen.md",
     "/Notizen/offen Fäden.md",
     "/Notizen/Trivia.md",
-    "Pforte des Grauens/Maraskan.md",
-    "Notizen/Kraftlinien.md",
     "Pforte des Grauens",
     "Kraftlinien",
     "/Kraftlinien",
